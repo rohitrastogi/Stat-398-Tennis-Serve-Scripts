@@ -1,0 +1,1789 @@
+,ad_acepercentage,ad_firstservepercentage,deuce_acepercentage,deuce_firstservepercentage,gender,opponent,player,surface,tournament,handedness
+0,0.7,0.537037037,0.3,0.46296296299999995,M,Illya Marchenko,Andy Murray,hard,aus,R
+1,0.444444444,0.477272727,0.5555555560000001,0.522727273,M,Andrey Rublev,Andy Murray,hard,aus,R
+2,0.5,0.46428571399999996,0.5,0.535714286,M,Sam Querrey,Andy Murray,hard,aus,R
+3,0.7,0.526315789,0.3,0.473684211,M,Mischa Zverev,Andy Murray,hard,aus,R
+4,0.5,0.561403509,0.5,0.43859649100000003,M,Andrey Kuznetsov,Andy Murray,clay,french,R
+5,0.7777777779999999,0.548387097,0.222222222,0.45161290299999995,M,Martin Klizan,Andy Murray,clay,french,R
+6,0.4,0.465517241,0.6,0.534482759,M,Juan Martin Del Potro,Andy Murray,clay,french,R
+7,0.8,0.490566038,0.2,0.509433962,M,Karen Khachanov,Andy Murray,clay,french,R
+8,0.333333333,0.434782609,0.666666667,0.565217391,M,Kei Nishikori,Andy Murray,clay,french,R
+9,1.0,0.54,0.0,0.46,M,Stan Wawrinka,Andy Murray,clay,french,R
+10,0.0,0.418604651,1.0,0.581395349,M,Alexander Bublik,Andy Murray,grass,wimbledon,R
+11,0.5555555560000001,0.48387096799999996,0.444444444,0.516129032,M,Dustin Brown,Andy Murray,grass,wimbledon,R
+12,0.6,0.454545455,0.4,0.545454545,M,Fabio Fognini,Andy Murray,grass,wimbledon,R
+13,1.0,0.528571429,0.0,0.471428571,M,Benoit Paire,Andy Murray,grass,wimbledon,R
+14,0.14285714300000002,0.43902439,0.857142857,0.56097561,M,Sam Querrey,Andy Murray,grass,wimbledon,R
+15,0.0,0.509433962,1.0,0.490566038,M,Andy Murray,Illya Marchenko,hard,aus,R 
+16,0.36842105299999994,0.5,0.6315789470000001,0.5,M,Jiri Vesely,Illya Marchenko,grass,wimbledon,R 
+17,0.42105263200000004,0.5,0.578947368,0.5,M,Yen Hsun Lu,Andrey Rublev,hard,aus,R
+18,0.0,0.481481481,1.0,0.518518519,M,Andy Murray,Andrey Rublev,hard,aus,R
+19,0.0,0.47619047600000003,1.0,0.523809524,M,Diego Schwartzman,Andrey Rublev,clay,french,R
+20,0.14285714300000002,0.539473684,0.857142857,0.460526316,M,Grigor Dimitrov,Andrey Rublev,hard,us,R
+21,0.166666667,0.472527473,0.833333333,0.527472527,M,Damir Dzumhur,Andrey Rublev,hard,us,R
+22,0.333333333,0.535714286,0.666666667,0.46428571399999996,M,David Goffin,Andrey Rublev,hard,us,R
+23,1.0,0.450980392,0.0,0.5490196079999999,M,Rafael Nadal,Andrey Rublev,hard,us,R
+24,0.5,0.5046728970000001,0.5,0.495327103,M,Stefano Travaglia,Andrey Rublev,grass,wimbledon,R
+25,0.28571428600000004,0.519230769,0.7142857140000001,0.480769231,M,Albert Ramos Vinolas,Andrey Rublev,grass,wimbledon,R
+26,0.533333333,0.507692308,0.46666666700000003,0.492307692,M,Andrey Rublev,Yen Hsun Lu,hard,aus,R
+27,0.28571428600000004,0.420289855,0.7142857140000001,0.579710145,M,Karen Khachanov,Yen Hsun Lu,hard,us,R
+28,0.8,0.564516129,0.2,0.435483871,M,Simone Bolelli,Yen Hsun Lu,grass,wimbledon,R
+29,0.25,0.45833333299999995,0.75,0.541666667,M,Gerald Melzer,Alex De Minaur,hard,aus,R
+30,0.0,0.514705882,1.0,0.485294118,M,Sam Querrey,Alex De Minaur,hard,aus,R
+31,0.333333333,0.520833333,0.666666667,0.47916666700000005,M,Robin Haase,Alex De Minaur,clay,french,R
+32,0.0,0.495238095,1.0,0.504761905,M,Alex De Minaur,Gerald Melzer,hard,aus,L
+33,0.47619047600000003,0.49438202200000003,0.523809524,0.505617978,M,Sam Querrey,Quentin Halys,hard,aus,R
+34,0.6875,0.5,0.3125,0.5,M,Marco Trungelliti,Quentin Halys,clay,french,R
+35,0.548387097,0.481481481,0.45161290299999995,0.518518519,M,Quentin Halys,Sam Querrey,hard,aus,R
+36,0.5555555560000001,0.47826087,0.444444444,0.52173913,M,Alex De Minaur,Sam Querrey,hard,aus,R
+37,0.6,0.490566038,0.4,0.509433962,M,Andy Murray,Sam Querrey,hard,aus,R
+38,0.526315789,0.568965517,0.473684211,0.43103448299999997,M,Hyeon Chung,Sam Querrey,clay,french,R
+39,0.333333333,0.475,0.666666667,0.525,M,Gilles Simon,Sam Querrey,hard,us,R
+40,0.444444444,0.46808510600000003,0.5555555560000001,0.531914894,M,Dudi Sela,Sam Querrey,hard,us,R
+41,0.473684211,0.508474576,0.526315789,0.491525424,M,Radu Albot,Sam Querrey,hard,us,R
+42,0.444444444,0.473684211,0.5555555560000001,0.526315789,M,Mischa Zverev,Sam Querrey,hard,us,R
+43,0.5,0.535714286,0.5,0.46428571399999996,M,Kevin Anderson,Sam Querrey,hard,us,R
+44,0.5,0.566666667,0.5,0.433333333,M,Thomas Fabbiano,Sam Querrey,grass,wimbledon,R
+45,0.40625,0.516129032,0.59375,0.48387096799999996,M,Nikoloz Basilashvili,Sam Querrey,grass,wimbledon,R
+46,0.571428571,0.5256410260000001,0.428571429,0.474358974,M,Jo Wilfried Tsonga,Sam Querrey,grass,wimbledon,R
+47,0.419354839,0.5130434779999999,0.580645161,0.486956522,M,Kevin Anderson,Sam Querrey,grass,wimbledon,R
+48,0.40740740700000005,0.527027027,0.592592593,0.47297297299999996,M,Andy Murray,Sam Querrey,grass,wimbledon,R
+49,0.307692308,0.412371134,0.692307692,0.587628866,M,Marin Cilic,Sam Querrey,grass,wimbledon,R
+50,0.34375,0.481012658,0.65625,0.5189873420000001,M,Konstantin Kravchuk,John Isner,hard,aus,R
+51,0.5,0.47552447600000003,0.5,0.524475524,M,Mischa Zverev,John Isner,hard,aus,R
+52,0.551724138,0.45348837200000003,0.448275862,0.546511628,M,Jordan Thompson,John Isner,clay,french,R
+53,0.65,0.575342466,0.35,0.424657534,M,Paolo Lorenzi,John Isner,clay,french,R
+54,0.5,0.472527473,0.5,0.527472527,M,Karen Khachanov,John Isner,clay,french,R
+55,0.333333333,0.46478873200000004,0.666666667,0.535211268,M,Pierre Hugues Herbert,John Isner,hard,us,R
+56,0.46666666700000003,0.48214285700000004,0.533333333,0.517857143,M,Hyeon Chung,John Isner,hard,us,R
+57,0.5,0.417910448,0.5,0.582089552,M,Mischa Zverev,John Isner,hard,us,R
+58,0.434782609,0.53125,0.565217391,0.46875,M,Taylor Fritz,John Isner,grass,wimbledon,R
+59,0.523809524,0.53968254,0.47619047600000003,0.46031746,M,Dudi Sela,John Isner,grass,wimbledon,R
+60,0.444444444,0.5,0.5555555560000001,0.5,M,John Isner,Konstantin Kravchuk,hard,aus,R
+61,0.857142857,0.5671641789999999,0.14285714300000002,0.432835821,M,Federico Delbonis,Konstantin Kravchuk,clay,french,R
+62,1.0,0.50877193,0.0,0.49122807,M,Marin Cilic,Konstantin Kravchuk,clay,french,R
+63,0.666666667,0.509433962,0.333333333,0.490566038,M,Mischa Zverev,Guillermo Garcia Lopez,hard,aus,R
+64,0.46666666700000003,0.446153846,0.533333333,0.553846154,M,Gilles Muller,Guillermo Garcia Lopez,clay,french,R
+65,0.833333333,0.575,0.166666667,0.425,M,Marco Trungelliti,Guillermo Garcia Lopez,clay,french,R
+66,1.0,0.7142857140000001,0.0,0.28571428600000004,M,Milos Raonic,Guillermo Garcia Lopez,clay,french,R
+67,0.375,0.449275362,0.625,0.5507246379999999,M,Guillermo Garcia Lopez,Mischa Zverev,hard,aus,L
+68,0.4,0.534883721,0.6,0.46511627899999997,M,John Isner,Mischa Zverev,hard,aus,L
+69,0.428571429,0.5,0.571428571,0.5,M,Malek Jaziri,Mischa Zverev,hard,aus,L
+70,0.28571428600000004,0.538461538,0.7142857140000001,0.46153846200000004,M,Andy Murray,Mischa Zverev,hard,aus,L
+71,0.6,0.5,0.4,0.5,M,Roger Federer,Mischa Zverev,hard,aus,L
+72,0.0,0.423076923,1.0,0.576923077,M,Stefano Napolitano,Mischa Zverev,clay,french,L
+73,0.5,0.45762711899999997,0.5,0.542372881,M,John Isner,Mischa Zverev,hard,us,L
+74,0.5,0.5490196079999999,0.5,0.450980392,M,Sam Querrey,Mischa Zverev,hard,us,L
+75,0.41176470600000004,0.4375,0.588235294,0.5625,M,Bernard Tomic,Mischa Zverev,grass,wimbledon,L
+76,0.214285714,0.494623656,0.7857142859999999,0.505376344,M,Mikhail Kukushkin,Mischa Zverev,grass,wimbledon,L
+77,0.166666667,0.444444444,0.833333333,0.5555555560000001,M,Roger Federer,Mischa Zverev,grass,wimbledon,L
+78,0.6,0.58,0.4,0.42,M,Lucas Pouille,Alexander Bublik,hard,aus,R
+79,0.4,0.48,0.6,0.52,M,Malek Jaziri,Alexander Bublik,hard,aus,R
+80,0.571428571,0.508196721,0.428571429,0.491803279,M,Andy Murray,Alexander Bublik,grass,wimbledon,R
+81,0.5,0.47272727299999995,0.5,0.527272727,M,Alexander Bublik,Lucas Pouille,hard,aus,R
+82,0.5,0.47761194,0.5,0.52238806,M,Julien Benneteau,Lucas Pouille,clay,french,R
+83,0.6,0.47761194,0.4,0.52238806,M,Thomaz Bellucci,Lucas Pouille,clay,french,R
+84,0.333333333,0.47191011200000005,0.666666667,0.528089888,M,Albert Ramos Vinolas,Lucas Pouille,clay,french,R
+85,0.28571428600000004,0.5,0.7142857140000001,0.5,M,Ruben Bemelmans,Lucas Pouille,hard,us,R
+86,0.666666667,0.581395349,0.333333333,0.418604651,M,Jared Donaldson,Lucas Pouille,hard,us,R
+87,0.444444444,0.41666666700000005,0.5555555560000001,0.583333333,M,Mikhail Kukushkin,Lucas Pouille,hard,us,R
+88,0.5,0.542857143,0.5,0.457142857,M,Diego Schwartzman,Lucas Pouille,hard,us,R
+89,0.583333333,0.520547945,0.41666666700000005,0.479452055,M,Malek Jaziri,Lucas Pouille,grass,wimbledon,R
+90,0.38888888899999996,0.460526316,0.611111111,0.539473684,M,Jerzy Janowicz,Lucas Pouille,grass,wimbledon,R
+91,0.0,0.5,1.0,0.5,M,Luca Vanni,Tomas Berdych,hard,aus,R
+92,0.666666667,0.47916666700000005,0.333333333,0.520833333,M,Ryan Harrison,Tomas Berdych,hard,aus,R
+93,0.538461538,0.39215686299999997,0.46153846200000004,0.607843137,M,Roger Federer,Tomas Berdych,hard,aus,R
+94,0.75,0.516129032,0.25,0.48387096799999996,M,Jan Lennard Struff,Tomas Berdych,clay,french,R
+95,0.428571429,0.456140351,0.571428571,0.543859649,M,Karen Khachanov,Tomas Berdych,clay,french,R
+96,0.5555555560000001,0.5,0.444444444,0.5,M,Ryan Harrison,Tomas Berdych,hard,us,R
+97,0.75,0.525423729,0.25,0.474576271,M,Alexandr Dolgopolov,Tomas Berdych,hard,us,R
+98,0.25,0.5,0.75,0.5,M,Jeremy Chardy,Tomas Berdych,grass,wimbledon,R
+99,0.5,0.5,0.5,0.5,M,Ryan Harrison,Tomas Berdych,grass,wimbledon,R
+100,0.333333333,0.444444444,0.666666667,0.5555555560000001,M,David Ferrer,Tomas Berdych,grass,wimbledon,R
+101,0.46666666700000003,0.46666666700000003,0.533333333,0.533333333,M,Dominic Thiem,Tomas Berdych,grass,wimbledon,R
+102,1.0,0.518518519,0.0,0.481481481,M,Novak Djokovic,Tomas Berdych,grass,wimbledon,R
+103,0.875,0.506329114,0.125,0.49367088600000003,M,Roger Federer,Tomas Berdych,grass,wimbledon,R
+104,1.0,0.705882353,0.0,0.294117647,M,Tomas Berdych,Luca Vanni,hard,aus,R
+105,0.5,0.530612245,0.5,0.469387755,M,Nicolas Mahut,Ryan Harrison,hard,aus,R
+106,0.666666667,0.5,0.333333333,0.5,M,Tomas Berdych,Ryan Harrison,hard,aus,R
+107,0.28571428600000004,0.42222222200000004,0.7142857140000001,0.577777778,M,Aljaz Bedene,Ryan Harrison,clay,french,R
+108,0.5,0.477272727,0.5,0.522727273,M,Tomas Berdych,Ryan Harrison,hard,us,R
+109,0.5625,0.473684211,0.4375,0.526315789,M,Borna Coric,Ryan Harrison,grass,wimbledon,R
+110,0.46666666700000003,0.5189873420000001,0.533333333,0.481012658,M,Tomas Berdych,Ryan Harrison,grass,wimbledon,R
+111,0.0,0.535714286,1.0,0.46428571399999996,M,Ryan Harrison,Nicolas Mahut,hard,aus,R
+112,0.8,0.520833333,0.2,0.47916666700000005,M,Simone Bolelli,Nicolas Mahut,clay,french,R
+113,0.6,0.5,0.4,0.5,M,Pablo Carreno Busta,Nicolas Mahut,hard,us,R
+114,0.5,0.433962264,0.5,0.5660377360000001,M,Mikhail Youzhny,Nicolas Mahut,grass,wimbledon,R
+115,0.75,0.506024096,0.25,0.49397590399999997,M,Roger Federer,Jurgen Melzer,hard,aus,L
+116,0.41176470600000004,0.545454545,0.588235294,0.454545455,M,Jurgen Melzer,Roger Federer,hard,aus,R
+117,0.5625,0.492537313,0.4375,0.5074626870000001,M,Noah Rubin,Roger Federer,hard,aus,R
+118,0.125,0.5121951220000001,0.875,0.487804878,M,Tomas Berdych,Roger Federer,hard,aus,R
+119,0.5,0.48,0.5,0.52,M,Kei Nishikori,Roger Federer,hard,aus,R
+120,0.5555555560000001,0.5,0.444444444,0.5,M,Mischa Zverev,Roger Federer,hard,aus,R
+121,0.454545455,0.5697674420000001,0.545454545,0.430232558,M,Stan Wawrinka,Roger Federer,hard,aus,R
+122,0.6315789470000001,0.517647059,0.36842105299999994,0.48235294100000004,M,Rafael Nadal,Roger Federer,hard,aus,R
+123,0.625,0.396825397,0.375,0.6031746029999999,M,Frances Tiafoe,Roger Federer,hard,us,R
+124,0.583333333,0.425287356,0.41666666700000005,0.574712644,M,Mikhail Youzhny,Roger Federer,hard,us,R
+125,0.666666667,0.52173913,0.333333333,0.47826087,M,Feliciano Lopez,Roger Federer,hard,us,R
+126,0.8,0.44897959200000004,0.2,0.551020408,M,Philipp Kohlschreiber,Roger Federer,hard,us,R
+127,0.588235294,0.523809524,0.41176470600000004,0.47619047600000003,M,Juan Martin del Potro,Roger Federer,hard,us,R
+128,0.5,0.518518519,0.5,0.481481481,M,Alexandr Dolgopolov,Roger Federer,grass,wimbledon,R
+129,0.428571429,0.595744681,0.571428571,0.404255319,M,Dusan Lajovic,Roger Federer,grass,wimbledon,R
+130,0.46153846200000004,0.471698113,0.538461538,0.528301887,M,Mischa Zverev,Roger Federer,grass,wimbledon,R
+131,0.75,0.538461538,0.25,0.46153846200000004,M,Grigor Dimitrov,Roger Federer,grass,wimbledon,R
+132,0.454545455,0.491803279,0.545454545,0.508196721,M,Milos Raonic,Roger Federer,grass,wimbledon,R
+133,0.46153846200000004,0.5,0.538461538,0.5,M,Tomas Berdych,Roger Federer,grass,wimbledon,R
+134,0.75,0.528301887,0.25,0.471698113,M,Marin Cilic,Roger Federer,grass,wimbledon,R
+135,0.571428571,0.546511628,0.428571429,0.45348837200000003,M,Lukas Lacko,Albert Ramos Vinolas,hard,aus,L
+136,0.5,0.46969697,0.5,0.53030303,M,Marius Copil,Albert Ramos Vinolas,clay,french,L
+137,0.375,0.552631579,0.625,0.447368421,M,Benjamin Bonzi,Albert Ramos Vinolas,clay,french,L
+138,0.0,0.521276596,1.0,0.47872340399999996,M,Lucas Pouille,Albert Ramos Vinolas,clay,french,L
+139,0.333333333,0.515625,0.666666667,0.484375,M,Novak Djokovic,Albert Ramos Vinolas,clay,french,L
+140,0.666666667,0.46511627899999997,0.333333333,0.534883721,M,Jordan Thompson,Albert Ramos Vinolas,grass,wimbledon,L
+141,0.4,0.443396226,0.6,0.5566037739999999,M,Andrey Rublev,Albert Ramos Vinolas,grass,wimbledon,L
+142,0.444444444,0.49350649399999996,0.5555555560000001,0.506493506,M,Milos Raonic,Albert Ramos Vinolas,grass,wimbledon,L
+143,0.529411765,0.48837209299999995,0.470588235,0.511627907,M,Albert Ramos Vinolas,Lukas Lacko,hard,aus,R
+144,0.625,0.515151515,0.375,0.484848485,M,Dudi Sela,Lukas Lacko,hard,aus,R
+145,0.454545455,0.5,0.545454545,0.5,M,Kei Nishikori,Lukas Lacko,hard,aus,R
+146,0.2,0.46153846200000004,0.8,0.538461538,M,Kei Nishikori,Andrey Kuznetsov,hard,aus,R
+147,0.833333333,0.519230769,0.166666667,0.480769231,M,Andy Murray,Andrey Kuznetsov,clay,french,R
+148,0.333333333,0.5,0.666666667,0.5,M,Feliciano Lopez,Andrey Kuznetsov,hard,us,R
+149,0.545454545,0.511627907,0.454545455,0.48837209299999995,M,Karen Khachanov,Andrey Kuznetsov,grass,wimbledon,R
+150,0.545454545,0.5,0.454545455,0.5,M,Andrey Kuznetsov,Kei Nishikori,hard,aus,R
+151,0.5,0.508196721,0.5,0.491803279,M,Jeremy Chardy,Kei Nishikori,hard,aus,R
+152,0.6,0.47826087,0.4,0.52173913,M,Lukas Lacko,Kei Nishikori,hard,aus,R
+153,0.4,0.439252336,0.6,0.560747664,M,Roger Federer,Kei Nishikori,hard,aus,R
+154,0.333333333,0.5,0.666666667,0.5,M,Thanasi Kokkinakis,Kei Nishikori,clay,french,R
+155,0.5,0.46,0.5,0.54,M,Jeremy Chardy,Kei Nishikori,clay,french,R
+156,0.14285714300000002,0.393617021,0.857142857,0.6063829789999999,M,Hyeon Chung,Kei Nishikori,clay,french,R
+157,1.0,0.525423729,0.0,0.474576271,M,Fernando Verdasco,Kei Nishikori,clay,french,R
+158,0.0,0.56,0.0,0.44,M,Andy Murray,Kei Nishikori,clay,french,R
+159,0.857142857,0.512820513,0.14285714300000002,0.487179487,M,Marco Cecchinato,Kei Nishikori,grass,wimbledon,R
+160,0.7142857140000001,0.548387097,0.28571428600000004,0.45161290299999995,M,Sergiy Stakhovsky,Kei Nishikori,grass,wimbledon,R
+161,0.4,0.511363636,0.6,0.488636364,M,Roberto Bautista Agut,Kei Nishikori,grass,wimbledon,R
+162,0.333333333,0.490196078,0.666666667,0.509803922,M,Martin Klizan,Stan Wawrinka,hard,aus,R
+163,0.636363636,0.425925926,0.363636364,0.574074074,M,Steve Johnson,Stan Wawrinka,hard,aus,R
+164,0.625,0.507042254,0.375,0.49295774600000003,M,Viktor Troicki,Stan Wawrinka,hard,aus,R
+165,0.4,0.46969697,0.6,0.53030303,M,Andreas Seppi,Stan Wawrinka,hard,aus,R
+166,0.75,0.482758621,0.25,0.517241379,M,Jo Wilfried Tsonga,Stan Wawrinka,hard,aus,R
+167,0.5555555560000001,0.46067415700000003,0.444444444,0.539325843,M,Roger Federer,Stan Wawrinka,hard,aus,R
+168,1.0,0.62,0.0,0.38,M,Jozef Kovalik,Stan Wawrinka,clay,french,R
+169,0.5625,0.5,0.4375,0.5,M,Alexandr Dolgopolov,Stan Wawrinka,clay,french,R
+170,0.5,0.469387755,0.5,0.530612245,M,Fabio Fognini,Stan Wawrinka,clay,french,R
+171,0.333333333,0.49367088600000003,0.666666667,0.506329114,M,Gael Monfils,Stan Wawrinka,clay,french,R
+172,1.0,0.47916666700000005,0.0,0.520833333,M,Marin Cilic,Stan Wawrinka,clay,french,R
+173,0.5,0.535353535,0.5,0.464646465,M,Andy Murray,Stan Wawrinka,clay,french,R
+174,0.0,0.46,1.0,0.54,M,Rafael Nadal,Stan Wawrinka,clay,french,R
+175,0.0,0.46969697,1.0,0.53030303,M,Daniil Medvedev,Stan Wawrinka,grass,wimbledon,R
+176,0.833333333,0.5166666670000001,0.166666667,0.483333333,M,Stan Wawrinka,Martin Klizan,hard,aus,L
+177,0.25,0.459770115,0.75,0.540229885,M,Laurent Lokoli,Martin Klizan,clay,french,L
+178,0.6,0.513157895,0.4,0.486842105,M,Andy Murray,Martin Klizan,clay,french,L
+179,0.0,0.333333333,0.0,0.666666667,M,Novak Djokovic,Martin Klizan,grass,wimbledon,L
+180,1.0,0.469387755,0.0,0.530612245,M,Steve Johnson,Federico Delbonis,hard,aus,L
+181,0.4,0.509803922,0.6,0.490196078,M,Konstantin Kravchuk,Federico Delbonis,clay,french,L
+182,0.6,0.581395349,0.4,0.418604651,M,Federico Delbonis,Steve Johnson,hard,aus,R
+183,1.0,0.5,0.0,0.5,M,Stan Wawrinka,Steve Johnson,hard,aus,R
+184,0.307692308,0.5,0.692307692,0.5,M,Yuichi Sugita,Steve Johnson,clay,french,R
+185,0.5,0.493333333,0.5,0.5066666670000001,M,Borna Coric,Steve Johnson,clay,french,R
+186,0.8,0.513888889,0.2,0.48611111100000004,M,Dominic Thiem,Steve Johnson,clay,french,R
+187,0.375,0.47272727299999995,0.625,0.527272727,M,Nicolas Almagro,Steve Johnson,hard,us,R
+188,0.444444444,0.545454545,0.5555555560000001,0.454545455,M,Kyle Edmund,Steve Johnson,hard,us,R
+189,0.181818182,0.46031746,0.818181818,0.53968254,M,Nicolas Kicker,Steve Johnson,grass,wimbledon,R
+190,0.7,0.542168675,0.3,0.457831325,M,Radu Albot,Steve Johnson,grass,wimbledon,R
+191,0.571428571,0.52,0.428571429,0.48,M,Marin Cilic,Steve Johnson,grass,wimbledon,R
+192,0.5,0.436619718,0.5,0.563380282,M,Paolo Lorenzi,James Duckworth,hard,aus,R
+193,0.5,0.46913580200000005,0.5,0.530864198,M,James Duckworth,Paolo Lorenzi,hard,aus,R
+194,0.625,0.45918367299999996,0.375,0.540816327,M,Viktor Troicki,Paolo Lorenzi,hard,aus,R
+195,0.28571428600000004,0.452830189,0.7142857140000001,0.5471698110000001,M,John Isner,Paolo Lorenzi,clay,french,R
+196,0.7142857140000001,0.480769231,0.28571428600000004,0.519230769,M,Thomas Fabbiano,Paolo Lorenzi,hard,us,R
+197,0.4,0.538461538,0.6,0.46153846200000004,M,Kevin Anderson,Paolo Lorenzi,hard,us,R
+198,0.5,0.511363636,0.5,0.488636364,M,Horacio Zeballos,Paolo Lorenzi,grass,wimbledon,R
+199,0.7142857140000001,0.547368421,0.28571428600000004,0.452631579,M,Jared Donaldson,Paolo Lorenzi,grass,wimbledon,R
+200,1.0,0.50617284,0.0,0.49382716,M,Viktor Troicki,Damir Dzumhur,hard,aus,R
+201,0.571428571,0.523809524,0.428571429,0.47619047600000003,M,Nicolas Kicker,Damir Dzumhur,clay,french,R
+202,0.6,0.457831325,0.4,0.542168675,M,Andrey Rublev,Damir Dzumhur,hard,us,R
+203,0.0,0.534883721,0.0,0.46511627899999997,M,Renzo Olivo,Damir Dzumhur,grass,wimbledon,R
+204,1.0,0.546875,0.0,0.453125,M,Aljaz Bedene,Damir Dzumhur,grass,wimbledon,R
+205,0.428571429,0.506329114,0.571428571,0.49367088600000003,M,Damir Dzumhur,Viktor Troicki,hard,aus,R
+206,0.55,0.452380952,0.45,0.5476190479999999,M,Paolo Lorenzi,Viktor Troicki,hard,aus,R
+207,0.428571429,0.485714286,0.571428571,0.514285714,M,Stan Wawrinka,Viktor Troicki,hard,aus,R
+208,0.333333333,0.444444444,0.666666667,0.5555555560000001,M,Evgeny Donskoy,Viktor Troicki,clay,french,R
+209,0.46153846200000004,0.5,0.538461538,0.5,M,Nikoloz Basilashvili,Viktor Troicki,clay,french,R
+210,0.5,0.47916666700000005,0.5,0.520833333,M,Stefano Travaglia,Viktor Troicki,hard,us,R
+211,0.666666667,0.666666667,0.333333333,0.333333333,M,Alexandr Dolgopolov,Viktor Troicki,hard,us,R
+212,0.0,0.363636364,0.0,0.636363636,M,Florian Mayer,Viktor Troicki,grass,wimbledon,R
+213,0.4,0.43181818200000005,0.6,0.568181818,M,Diego Schwartzman,Pablo Cuevas,hard,aus,R
+214,0.28571428600000004,0.543859649,0.7142857140000001,0.456140351,M,Maxime Hamou,Pablo Cuevas,clay,french,R
+215,1.0,0.5555555560000001,0.0,0.444444444,M,Nicolas Kicker,Pablo Cuevas,clay,french,R
+216,0.0,0.447368421,0.0,0.552631579,M,Fernando Verdasco,Pablo Cuevas,clay,french,R
+217,0.4,0.523809524,0.6,0.47619047600000003,M,Pablo Cuevas,Diego Schwartzman,hard,aus,R
+218,0.2,0.447761194,0.8,0.552238806,M,Steve Darcis,Diego Schwartzman,hard,aus,R
+219,0.666666667,0.509803922,0.333333333,0.490196078,M,Andrey Rublev,Diego Schwartzman,clay,french,R
+220,0.0,0.52173913,1.0,0.47826087,M,Stefano Napolitano,Diego Schwartzman,clay,french,R
+221,0.0,0.445652174,1.0,0.554347826,M,Novak Djokovic,Diego Schwartzman,clay,french,R
+222,0.4,0.485148515,0.6,0.514851485,M,Marin Cilic,Diego Schwartzman,hard,us,R
+223,0.25,0.48235294100000004,0.75,0.517647059,M,Lucas Pouille,Diego Schwartzman,hard,us,R
+224,0.5,0.46666666700000003,0.5,0.533333333,M,Pablo Carreno Busta,Diego Schwartzman,hard,us,R
+225,0.5,0.47916666700000005,0.5,0.520833333,M,Grigor Dimitrov,Diego Schwartzman,grass,wimbledon,R
+226,0.666666667,0.5,0.333333333,0.5,M,Sam Groth,Steve Darcis,hard,aus,R
+227,0.2,0.5,0.8,0.5,M,Diego Schwartzman,Steve Darcis,hard,aus,R
+228,0.5,0.47297297299999996,0.5,0.527027027,M,Andreas Seppi,Steve Darcis,hard,aus,R
+229,1.0,0.5490196079999999,0.0,0.450980392,M,Milos Raonic,Steve Darcis,clay,french,R
+230,0.5555555560000001,0.465909091,0.444444444,0.534090909,M,Ricardas Berankis,Steve Darcis,grass,wimbledon,R
+231,0.0,0.666666667,0.0,0.333333333,M,David Ferrer,Steve Darcis,grass,wimbledon,R
+232,0.41176470600000004,0.523809524,0.588235294,0.47619047600000003,M,Steve Darcis,Sam Groth,hard,aus,R
+233,0.5,0.529411765,0.5,0.470588235,M,Andreas Seppi,Paul Henri Mathieu,hard,aus,R
+234,0.0,0.529411765,1.0,0.470588235,M,David Goffin,Paul Henri Mathieu,clay,french,R
+235,0.515151515,0.5,0.484848485,0.5,M,Paul Henri Mathieu,Andreas Seppi,hard,aus,R
+236,0.4375,0.45348837200000003,0.5625,0.546511628,M,Nick Kyrgios,Andreas Seppi,hard,aus,R
+237,0.545454545,0.48611111100000004,0.454545455,0.513888889,M,Steve Darcis,Andreas Seppi,hard,aus,R
+238,0.333333333,0.5476190479999999,0.666666667,0.452380952,M,Stan Wawrinka,Andreas Seppi,hard,aus,R
+239,0.454545455,0.543859649,0.545454545,0.456140351,M,Santiago Giraldo,Andreas Seppi,clay,french,R
+240,0.75,0.565217391,0.25,0.434782609,M,Fabio Fognini,Andreas Seppi,clay,french,R
+241,0.7142857140000001,0.541666667,0.28571428600000004,0.45833333299999995,M,Norbert Gombos,Andreas Seppi,grass,wimbledon,R
+242,0.7,0.469387755,0.3,0.530612245,M,Kevin Anderson,Andreas Seppi,grass,wimbledon,R
+243,0.5,0.588235294,0.5,0.41176470600000004,M,Nick Kyrgios,Gastao Elias,hard,aus,R
+244,0.6,0.523809524,0.4,0.47619047600000003,M,Kyle Edmund,Gastao Elias,clay,french,R
+245,0.28571428600000004,0.37837837799999996,0.7142857140000001,0.621621622,M,Gastao Elias,Nick Kyrgios,hard,aus,R
+246,0.518518519,0.508474576,0.481481481,0.491525424,M,Andreas Seppi,Nick Kyrgios,hard,aus,R
+247,0.7,0.514705882,0.3,0.485294118,M,Philipp Kohlschreiber,Nick Kyrgios,clay,french,R
+248,0.6875,0.529411765,0.3125,0.470588235,M,Kevin Anderson,Nick Kyrgios,clay,french,R
+249,0.46666666700000003,0.52173913,0.533333333,0.47826087,M,John Millman,Nick Kyrgios,hard,us,R
+250,0.666666667,0.473684211,0.333333333,0.526315789,M,Pierre Hugues Herbert,Nick Kyrgios,grass,wimbledon,R
+251,0.42105263200000004,0.428571429,0.578947368,0.571428571,M,Thiago Monteiro,Jo Wilfried Tsonga,hard,aus,R
+252,0.26666666699999997,0.444444444,0.7333333329999999,0.5555555560000001,M,Dusan Lajovic,Jo Wilfried Tsonga,hard,aus,R
+253,0.52173913,0.495049505,0.47826087,0.504950495,M,Jack Sock,Jo Wilfried Tsonga,hard,aus,R
+254,0.5625,0.481481481,0.4375,0.518518519,M,Daniel Evans,Jo Wilfried Tsonga,hard,aus,R
+255,0.428571429,0.5,0.571428571,0.5,M,Stan Wawrinka,Jo Wilfried Tsonga,hard,aus,R
+256,0.5,0.551401869,0.5,0.448598131,M,Renzo Olivo,Jo Wilfried Tsonga,clay,french,R
+257,0.46153846200000004,0.423076923,0.538461538,0.576923077,M,Marius Copil,Jo Wilfried Tsonga,hard,us,R
+258,0.75,0.408163265,0.25,0.591836735,M,Denis Shapovalov,Jo Wilfried Tsonga,hard,us,R
+259,0.25,0.447368421,0.75,0.552631579,M,Cameron Norrie,Jo Wilfried Tsonga,grass,wimbledon,R
+260,0.538461538,0.509803922,0.46153846200000004,0.490196078,M,Simone Bolelli,Jo Wilfried Tsonga,grass,wimbledon,R
+261,0.75,0.484848485,0.25,0.515151515,M,Sam Querrey,Jo Wilfried Tsonga,grass,wimbledon,R
+262,0.5,0.483333333,0.5,0.5166666670000001,M,Jo Wilfried Tsonga,Thiago Monteiro,hard,aus,L
+263,0.2,0.516129032,0.8,0.48387096799999996,M,Alexandre Muller,Thiago Monteiro,clay,french,L
+264,0.0,0.575,1.0,0.425,M,Gael Monfils,Thiago Monteiro,clay,french,L
+265,0.571428571,0.485436893,0.428571429,0.5145631070000001,M,Andrew Whittington,Thiago Monteiro,grass,wimbledon,L
+266,0.5,0.5542168670000001,0.5,0.44578313299999994,M,Karen Khachanov,Thiago Monteiro,grass,wimbledon,L
+267,0.75,0.473684211,0.25,0.526315789,M,Stephane Robert,Dusan Lajovic,hard,aus,R
+268,0.0,0.578947368,1.0,0.42105263200000004,M,Jo Wilfried Tsonga,Dusan Lajovic,hard,aus,R
+269,0.428571429,0.489130435,0.571428571,0.510869565,M,Thomaz Bellucci,Dusan Lajovic,clay,french,R
+270,0.0,0.46153846200000004,1.0,0.538461538,M,Rafael Nadal,Dusan Lajovic,hard,us,R
+271,0.75,0.52173913,0.25,0.47826087,M,Stefanos Tsitsipas,Dusan Lajovic,grass,wimbledon,R
+272,0.0,0.48214285700000004,1.0,0.517857143,M,Roger Federer,Dusan Lajovic,grass,wimbledon,R
+273,0.5,0.518518519,0.5,0.481481481,M,Dusan Lajovic,Stephane Robert,hard,aus,R
+274,0.0,0.45945945899999996,1.0,0.540540541,M,Grigor Dimitrov,Stephane Robert,clay,french,R
+275,0.6875,0.539473684,0.3125,0.460526316,M,Adrian Mannarino,Karen Khachanov,hard,aus,R
+276,0.6,0.5,0.4,0.5,M,Jack Sock,Karen Khachanov,hard,aus,R
+277,0.666666667,0.507692308,0.333333333,0.492307692,M,Nicolas Jarry,Karen Khachanov,clay,french,R
+278,0.5,0.46511627899999997,0.5,0.534883721,M,Tomas Berdych,Karen Khachanov,clay,french,R
+279,0.875,0.521126761,0.125,0.478873239,M,John Isner,Karen Khachanov,clay,french,R
+280,1.0,0.52173913,0.0,0.47826087,M,Andy Murray,Karen Khachanov,clay,french,R
+281,0.5,0.508474576,0.5,0.491525424,M,Yen Hsun Lu,Karen Khachanov,hard,us,R
+282,0.545454545,0.5,0.454545455,0.5,M,Andrey Kuznetsov,Karen Khachanov,grass,wimbledon,R
+283,0.533333333,0.443396226,0.46666666700000003,0.5566037739999999,M,Thiago Monteiro,Karen Khachanov,grass,wimbledon,R
+284,0.333333333,0.507042254,0.666666667,0.49295774600000003,M,Rafael Nadal,Karen Khachanov,grass,wimbledon,R
+285,0.375,0.577777778,0.625,0.42222222200000004,M,Karen Khachanov,Adrian Mannarino,hard,aus,L
+286,0.666666667,0.46296296299999995,0.333333333,0.537037037,M,Horacio Zeballos,Adrian Mannarino,clay,french,L
+287,0.583333333,0.535211268,0.41666666700000005,0.46478873200000004,M,Bjorn Fratangelo,Adrian Mannarino,hard,us,L
+288,0.0,0.509090909,0.0,0.490909091,M,Dominic Thiem,Adrian Mannarino,hard,us,L
+289,0.583333333,0.514705882,0.41666666700000005,0.485294118,M,Feliciano Lopez,Adrian Mannarino,grass,wimbledon,L
+290,0.5555555560000001,0.515151515,0.444444444,0.484848485,M,Yuichi Sugita,Adrian Mannarino,grass,wimbledon,L
+291,0.571428571,0.504761905,0.428571429,0.495238095,M,Gael Monfils,Adrian Mannarino,grass,wimbledon,L
+292,0.0,0.46478873200000004,1.0,0.535211268,M,Novak Djokovic,Adrian Mannarino,grass,wimbledon,L
+293,0.642857143,0.5,0.35714285700000004,0.5,M,Jack Sock,Pierre Hugues Herbert,hard,aus,R
+294,0.111111111,0.46296296299999995,0.8888888890000001,0.537037037,M,Jared Donaldson,Pierre Hugues Herbert,clay,french,R
+295,0.363636364,0.46666666700000003,0.636363636,0.533333333,M,Fernando Verdasco,Pierre Hugues Herbert,clay,french,R
+296,0.6,0.532258065,0.4,0.467741935,M,John Isner,Pierre Hugues Herbert,hard,us,R
+297,0.7777777779999999,0.515151515,0.222222222,0.484848485,M,Nick Kyrgios,Pierre Hugues Herbert,grass,wimbledon,R
+298,0.428571429,0.46,0.571428571,0.54,M,Benoit Paire,Pierre Hugues Herbert,grass,wimbledon,R
+299,0.5,0.492753623,0.5,0.5072463770000001,M,Pierre Hugues Herbert,Jack Sock,hard,aus,R
+300,0.428571429,0.49206349200000005,0.571428571,0.507936508,M,Karen Khachanov,Jack Sock,hard,aus,R
+301,0.571428571,0.521276596,0.428571429,0.47872340399999996,M,Jo Wilfried Tsonga,Jack Sock,hard,aus,R
+302,0.5,0.540540541,0.5,0.45945945899999996,M,Jiri Vesely,Jack Sock,clay,french,R
+303,0.571428571,0.52,0.428571429,0.48,M,Jordan Thompson,Jack Sock,hard,us,R
+304,0.333333333,0.524590164,0.666666667,0.47540983600000003,M,Christian Garin,Jack Sock,grass,wimbledon,R
+305,0.41666666700000005,0.50617284,0.583333333,0.49382716,M,Sebastian Ofner,Jack Sock,grass,wimbledon,R
+306,0.636363636,0.454545455,0.363636364,0.545454545,M,Thomaz Bellucci,Bernard Tomic,hard,aus,R
+307,0.526315789,0.552083333,0.473684211,0.44791666700000005,M,Victor Estrella Burgos,Bernard Tomic,hard,aus,R
+308,0.6,0.487804878,0.4,0.5121951220000001,M,Daniel Evans,Bernard Tomic,hard,aus,R
+309,0.333333333,0.469387755,0.666666667,0.530612245,M,Dominic Thiem,Bernard Tomic,clay,french,R
+310,0.533333333,0.5542168670000001,0.46666666700000003,0.44578313299999994,M,Gilles Muller,Bernard Tomic,hard,us,R
+311,0.5,0.5256410260000001,0.5,0.474358974,M,Mischa Zverev,Bernard Tomic,grass,wimbledon,R
+312,0.6,0.471698113,0.4,0.528301887,M,Bernard Tomic,Thomaz Bellucci,hard,aus,L
+313,0.333333333,0.523255814,0.666666667,0.476744186,M,Dusan Lajovic,Thomaz Bellucci,clay,french,L
+314,0.666666667,0.45833333299999995,0.333333333,0.541666667,M,Lucas Pouille,Thomaz Bellucci,clay,french,L
+315,0.333333333,0.43243243200000003,0.666666667,0.567567568,M,Sebastian Ofner,Thomaz Bellucci,grass,wimbledon,L
+316,0.25,0.494949495,0.75,0.505050505,M,Aljaz Bedene,Victor Estrella Burgos,hard,aus,R
+317,0.538461538,0.528846154,0.46153846200000004,0.471153846,M,Bernard Tomic,Victor Estrella Burgos,hard,aus,R
+318,0.5555555560000001,0.521126761,0.444444444,0.478873239,M,Teymuraz Gabashvili,Victor Estrella Burgos,clay,french,R
+319,0.0,0.509090909,0.0,0.490909091,M,Richard Gasquet,Victor Estrella Burgos,clay,french,R
+320,0.0,0.425,0.0,0.575,M,Ernests Gulbis,Victor Estrella Burgos,grass,wimbledon,R
+321,0.7142857140000001,0.465753425,0.28571428600000004,0.534246575,M,Victor Estrella Burgos,Aljaz Bedene,hard,aus,R
+322,0.727272727,0.5555555560000001,0.272727273,0.444444444,M,Ryan Harrison,Aljaz Bedene,clay,french,R
+323,0.5,0.481481481,0.5,0.518518519,M,Jiri Vesely,Aljaz Bedene,clay,french,R
+324,0.523809524,0.484615385,0.47619047600000003,0.515384615,M,Ivo Karlovic,Aljaz Bedene,grass,wimbledon,R
+325,0.583333333,0.453125,0.41666666700000005,0.546875,M,Damir Dzumhur,Aljaz Bedene,grass,wimbledon,R
+326,0.428571429,0.5555555560000001,0.571428571,0.444444444,M,Gilles Muller,Aljaz Bedene,grass,wimbledon,R
+327,0.545454545,0.46,0.454545455,0.54,M,Daniel Evans,Facundo Bagnis,hard,aus,L
+328,0.272727273,0.5,0.727272727,0.5,M,Radu Albot,Facundo Bagnis,grass,wimbledon,L
+329,0.642857143,0.490566038,0.35714285700000004,0.509433962,M,Facundo Bagnis,Daniel Evans,hard,aus,R
+330,0.2,0.535714286,0.8,0.46428571399999996,M,Marin Cilic,Daniel Evans,hard,aus,R
+331,0.5555555560000001,0.5066666670000001,0.444444444,0.493333333,M,Bernard Tomic,Daniel Evans,hard,aus,R
+332,1.0,0.55,0.0,0.45,M,Jo Wilfried Tsonga,Daniel Evans,hard,aus,R
+333,1.0,0.384615385,0.0,0.615384615,M,Tommy Robredo,Daniel Evans,clay,french,R
+334,0.625,0.510869565,0.375,0.489130435,M,Marin Cilic,Jerzy Janowicz,hard,aus,R
+335,0.23076923100000002,0.45588235299999996,0.7692307690000001,0.544117647,M,Taro Daniel,Jerzy Janowicz,clay,french,R
+336,0.25,0.41333333299999997,0.75,0.586666667,M,Denis Shapovalov,Jerzy Janowicz,grass,wimbledon,R
+337,0.46153846200000004,0.475609756,0.538461538,0.524390244,M,Lucas Pouille,Jerzy Janowicz,grass,wimbledon,R
+338,0.5,0.523809524,0.5,0.47619047600000003,M,Benoit Paire,Jerzy Janowicz,grass,wimbledon,R
+339,0.48,0.47297297299999996,0.52,0.527027027,M,Jerzy Janowicz,Marin Cilic,hard,aus,R
+340,0.615384615,0.49206349200000005,0.384615385,0.507936508,M,Daniel Evans,Marin Cilic,hard,aus,R
+341,0.28571428600000004,0.512820513,0.7142857140000001,0.487179487,M,Ernests Gulbis,Marin Cilic,clay,french,R
+342,0.5,0.409090909,0.5,0.590909091,M,Konstantin Kravchuk,Marin Cilic,clay,french,R
+343,0.125,0.42105263200000004,0.875,0.578947368,M,Feliciano Lopez,Marin Cilic,clay,french,R
+344,0.5,0.588235294,0.5,0.41176470600000004,M,Kevin Anderson,Marin Cilic,clay,french,R
+345,0.4,0.454545455,0.6,0.545454545,M,Stan Wawrinka,Marin Cilic,clay,french,R
+346,0.2,0.48214285700000004,0.8,0.517857143,M,Tennys Sandgren,Marin Cilic,hard,us,R
+347,0.444444444,0.425,0.5555555560000001,0.575,M,Florian Mayer,Marin Cilic,hard,us,R
+348,0.571428571,0.49350649399999996,0.428571429,0.506493506,M,Diego Schwartzman,Marin Cilic,hard,us,R
+349,0.46666666700000003,0.428571429,0.533333333,0.571428571,M,Philipp Kohlschreiber,Marin Cilic,grass,wimbledon,R
+350,0.419354839,0.490909091,0.580645161,0.509090909,M,Florian Mayer,Marin Cilic,grass,wimbledon,R
+351,0.4375,0.46153846200000004,0.5625,0.538461538,M,Steve Johnson,Marin Cilic,grass,wimbledon,R
+352,0.7777777779999999,0.522727273,0.222222222,0.477272727,M,Roberto Bautista Agut,Marin Cilic,grass,wimbledon,R
+353,0.40625,0.460784314,0.59375,0.539215686,M,Gilles Muller,Marin Cilic,grass,wimbledon,R
+354,0.48,0.538461538,0.52,0.46153846200000004,M,Sam Querrey,Marin Cilic,grass,wimbledon,R
+355,0.6,0.537037037,0.4,0.46296296299999995,M,Roger Federer,Marin Cilic,grass,wimbledon,R
+356,0.75,0.470588235,0.25,0.529411765,M,Jiri Vesely,Gael Monfils,hard,aus,R
+357,0.41176470600000004,0.532258065,0.588235294,0.467741935,M,Alexandr Dolgopolov,Gael Monfils,hard,aus,R
+358,0.625,0.470588235,0.375,0.529411765,M,Philipp Kohlschreiber,Gael Monfils,hard,aus,R
+359,0.642857143,0.513157895,0.35714285700000004,0.486842105,M,Rafael Nadal,Gael Monfils,hard,aus,R
+360,0.0,0.532258065,1.0,0.467741935,M,Dustin Brown,Gael Monfils,clay,french,R
+361,0.666666667,0.5471698110000001,0.333333333,0.452830189,M,Thiago Monteiro,Gael Monfils,clay,french,R
+362,0.5,0.507692308,0.5,0.492307692,M,Richard Gasquet,Gael Monfils,clay,french,R
+363,1.0,0.534482759,0.0,0.465517241,M,Stan Wawrinka,Gael Monfils,clay,french,R
+364,0.41176470600000004,0.47826087,0.588235294,0.52173913,M,Jeremy Chardy,Gael Monfils,hard,us,R
+365,0.4375,0.542168675,0.5625,0.457831325,M,Donald Young,Gael Monfils,hard,us,R
+366,0.0,0.5555555560000001,1.0,0.444444444,M,David Goffin,Gael Monfils,hard,us,R
+367,0.7142857140000001,0.588235294,0.28571428600000004,0.41176470600000004,M,Daniel Brands,Gael Monfils,grass,wimbledon,R
+368,0.46153846200000004,0.452054795,0.538461538,0.547945205,M,Kyle Edmund,Gael Monfils,grass,wimbledon,R
+369,0.46153846200000004,0.495238095,0.538461538,0.504761905,M,Adrian Mannarino,Gael Monfils,grass,wimbledon,R
+370,0.5,0.46808510600000003,0.5,0.531914894,M,Gael Monfils,Jiri Vesely,hard,aus,L
+371,0.166666667,0.517241379,0.833333333,0.482758621,M,Jack Sock,Jiri Vesely,clay,french,L
+372,0.545454545,0.46666666700000003,0.454545455,0.533333333,M,Aljaz Bedene,Jiri Vesely,clay,french,L
+373,0.4,0.511627907,0.6,0.48837209299999995,M,Roberto Bautista Agut,Jiri Vesely,clay,french,L
+374,0.6,0.474226804,0.4,0.525773196,M,Illya Marchenko,Jiri Vesely,grass,wimbledon,L
+375,0.4,0.481012658,0.6,0.5189873420000001,M,Fabio Fognini,Jiri Vesely,grass,wimbledon,L
+376,0.428571429,0.46666666700000003,0.571428571,0.533333333,M,Borna Coric,Alexandr Dolgopolov,hard,aus,R
+377,0.5,0.5555555560000001,0.5,0.444444444,M,Gael Monfils,Alexandr Dolgopolov,hard,aus,R
+378,0.5,0.507042254,0.5,0.49295774600000003,M,Stan Wawrinka,Alexandr Dolgopolov,clay,french,R
+379,0.571428571,0.436363636,0.428571429,0.563636364,M,Tomas Berdych,Alexandr Dolgopolov,hard,us,R
+380,0.0,0.567567568,1.0,0.43243243200000003,M,Viktor Troicki,Alexandr Dolgopolov,hard,us,R
+381,0.571428571,0.431372549,0.428571429,0.568627451,M,Rafael Nadal,Alexandr Dolgopolov,hard,us,R
+382,0.0,0.52173913,1.0,0.47826087,M,Roger Federer,Alexandr Dolgopolov,grass,wimbledon,R
+383,0.727272727,0.5,0.272727273,0.5,M,Alexandr Dolgopolov,Borna Coric,hard,aus,R
+384,0.0,0.396551724,1.0,0.6034482760000001,M,Mathias Bourgue,Borna Coric,clay,french,R
+385,0.375,0.42222222200000004,0.625,0.577777778,M,Steve Johnson,Borna Coric,clay,french,R
+386,0.8,0.529411765,0.2,0.470588235,M,Alexander Zverev,Borna Coric,hard,us,R
+387,1.0,0.5,0.0,0.5,M,Kevin Anderson,Borna Coric,hard,us,R
+388,0.333333333,0.515151515,0.666666667,0.484848485,M,Ryan Harrison,Borna Coric,grass,wimbledon,R
+389,0.5,0.44210526299999997,0.5,0.557894737,M,Philipp Kohlschreiber,Nikoloz Basilashvili,hard,aus,R
+390,0.0,0.519480519,0.0,0.480519481,M,Gilles Simon,Nikoloz Basilashvili,clay,french,R
+391,0.5,0.43956044,0.5,0.56043956,M,Viktor Troicki,Nikoloz Basilashvili,clay,french,R
+392,0.0,0.541666667,1.0,0.45833333299999995,M,Rafael Nadal,Nikoloz Basilashvili,clay,french,R
+393,1.0,0.453125,0.0,0.546875,M,Carlos Berlocq,Nikoloz Basilashvili,grass,wimbledon,R
+394,0.333333333,0.506849315,0.666666667,0.493150685,M,Sam Querrey,Nikoloz Basilashvili,grass,wimbledon,R
+395,0.363636364,0.5,0.636363636,0.5,M,Nikoloz Basilashvili,Philipp Kohlschreiber,hard,aus,R
+396,0.333333333,0.46511627899999997,0.666666667,0.534883721,M,Donald Young,Philipp Kohlschreiber,hard,aus,R
+397,1.0,0.519230769,0.0,0.480769231,M,Gael Monfils,Philipp Kohlschreiber,hard,aus,R
+398,0.8,0.541666667,0.2,0.45833333299999995,M,Nick Kyrgios,Philipp Kohlschreiber,clay,french,R
+399,0.666666667,0.542857143,0.333333333,0.457142857,M,Santiago Giraldo,Philipp Kohlschreiber,hard,us,R
+400,0.4,0.518518519,0.6,0.481481481,M,John Millman,Philipp Kohlschreiber,hard,us,R
+401,0.75,0.436363636,0.25,0.563636364,M,Roger Federer,Philipp Kohlschreiber,hard,us,R
+402,0.333333333,0.474576271,0.666666667,0.525423729,M,Marin Cilic,Philipp Kohlschreiber,grass,wimbledon,R
+403,0.470588235,0.5,0.529411765,0.5,M,Robin Haase,Alexander Zverev,hard,aus,R
+404,0.666666667,0.545454545,0.333333333,0.454545455,M,Frances Tiafoe,Alexander Zverev,hard,aus,R
+405,0.5,0.537037037,0.5,0.46296296299999995,M,Rafael Nadal,Alexander Zverev,hard,aus,R
+406,0.28571428600000004,0.46428571399999996,0.7142857140000001,0.535714286,M,Fernando Verdasco,Alexander Zverev,clay,french,R
+407,0.2,0.46478873200000004,0.8,0.535211268,M,Darian King,Alexander Zverev,hard,us,R
+408,0.571428571,0.5,0.428571429,0.5,M,Borna Coric,Alexander Zverev,hard,us,R
+409,0.642857143,0.492753623,0.35714285700000004,0.5072463770000001,M,Evgeny Donskoy,Alexander Zverev,grass,wimbledon,R
+410,0.272727273,0.436363636,0.727272727,0.563636364,M,Frances Tiafoe,Alexander Zverev,grass,wimbledon,R
+411,0.75,0.5106382979999999,0.25,0.489361702,M,Sebastian Ofner,Alexander Zverev,grass,wimbledon,R
+412,0.588235294,0.5,0.41176470600000004,0.5,M,Milos Raonic,Alexander Zverev,grass,wimbledon,R
+413,0.538461538,0.46913580200000005,0.46153846200000004,0.530864198,M,Alexander Zverev,Robin Haase,hard,aus,R
+414,0.7142857140000001,0.558139535,0.28571428600000004,0.441860465,M,Alex De Minaur,Robin Haase,clay,french,R
+415,0.5,0.5490196079999999,0.5,0.450980392,M,Rafael Nadal,Robin Haase,clay,french,R
+416,0.538461538,0.5,0.46153846200000004,0.5,M,Kyle Edmund,Robin Haase,hard,us,R
+417,0.46153846200000004,0.511363636,0.538461538,0.488636364,M,Frances Tiafoe,Robin Haase,grass,wimbledon,R
+418,0.0,0.516129032,1.0,0.48387096799999996,M,Marcos Baghdatis,Mikhail Youzhny,hard,aus,R
+419,0.6,0.482758621,0.4,0.517241379,M,Rogerio Dutra Silva,Mikhail Youzhny,clay,french,R
+420,0.6,0.49541284399999996,0.4,0.504587156,M,Roger Federer,Mikhail Youzhny,hard,us,R
+421,0.25,0.45333333299999995,0.75,0.546666667,M,Nicolas Mahut,Mikhail Youzhny,grass,wimbledon,R
+422,1.0,0.44705882399999997,0.0,0.552941176,M,Milos Raonic,Mikhail Youzhny,grass,wimbledon,R
+423,0.5,0.529411765,0.5,0.470588235,M,Mikhail Youzhny,Marcos Baghdatis,hard,aus,R
+424,0.7142857140000001,0.452830189,0.28571428600000004,0.5471698110000001,M,Rafael Nadal,Marcos Baghdatis,hard,aus,R
+425,0.5,0.532608696,0.5,0.467391304,M,Nicolas Almagro,Marcos Baghdatis,clay,french,R
+426,0.2,0.475,0.8,0.525,M,Taylor Fritz,Marcos Baghdatis,hard,us,R
+427,0.470588235,0.477272727,0.529411765,0.522727273,M,James Ward,Marcos Baghdatis,grass,wimbledon,R
+428,0.6,0.472222222,0.4,0.5277777779999999,M,Grigor Dimitrov,Marcos Baghdatis,grass,wimbledon,R
+429,0.7142857140000001,0.53030303,0.28571428600000004,0.46969697,M,Rafael Nadal,Florian Mayer,hard,aus,R
+430,0.333333333,0.47272727299999995,0.666666667,0.527272727,M,Pablo Carreno Busta,Florian Mayer,clay,french,R
+431,0.5,0.571428571,0.5,0.428571429,M,Marin Cilic,Florian Mayer,hard,us,R
+432,0.5,0.384615385,0.5,0.615384615,M,Viktor Troicki,Florian Mayer,grass,wimbledon,R
+433,0.0,0.454545455,0.0,0.545454545,M,Marin Cilic,Florian Mayer,grass,wimbledon,R
+434,0.8,0.509433962,0.2,0.490566038,M,Florian Mayer,Rafael Nadal,hard,aus,L
+435,0.4,0.515625,0.6,0.484375,M,Marcos Baghdatis,Rafael Nadal,hard,aus,L
+436,0.545454545,0.522123894,0.454545455,0.477876106,M,Alexander Zverev,Rafael Nadal,hard,aus,L
+437,0.5,0.47297297299999996,0.5,0.527027027,M,Gael Monfils,Rafael Nadal,hard,aus,L
+438,0.5,0.539473684,0.5,0.460526316,M,Milos Raonic,Rafael Nadal,hard,aus,L
+439,0.625,0.5111111110000001,0.375,0.488888889,M,Grigor Dimitrov,Rafael Nadal,hard,aus,L
+440,0.5,0.5,0.5,0.5,M,Roger Federer,Rafael Nadal,hard,aus,L
+441,1.0,0.47619047600000003,0.0,0.523809524,M,Benoit Paire,Rafael Nadal,clay,french,L
+442,0.5,0.5,0.5,0.5,M,Robin Haase,Rafael Nadal,clay,french,L
+443,1.0,0.620689655,0.0,0.379310345,M,Nikoloz Basilashvili,Rafael Nadal,clay,french,L
+444,0.666666667,0.5,0.333333333,0.5,M,Roberto Bautista Agut,Rafael Nadal,clay,french,L
+445,0.0,0.529411765,0.0,0.470588235,M,Pablo Carreno Busta,Rafael Nadal,clay,french,L
+446,0.5,0.530612245,0.5,0.469387755,M,Dominic Thiem,Rafael Nadal,clay,french,L
+447,0.333333333,0.5476190479999999,0.666666667,0.452380952,M,Stan Wawrinka,Rafael Nadal,clay,french,L
+448,0.5,0.47540983600000003,0.5,0.524590164,M,Dusan Lajovic,Rafael Nadal,hard,us,L
+449,0.833333333,0.523076923,0.166666667,0.47692307700000003,M,Taro Daniel,Rafael Nadal,hard,us,L
+450,0.5,0.486486486,0.5,0.513513514,M,Leonardo Mayer,Rafael Nadal,hard,us,L
+451,0.75,0.613636364,0.25,0.386363636,M,Alexandr Dolgopolov,Rafael Nadal,hard,us,L
+452,0.5,0.48837209299999995,0.5,0.511627907,M,Andrey Rublev,Rafael Nadal,hard,us,L
+453,0.4,0.523076923,0.6,0.47692307700000003,M,Juan Martin del Potro,Rafael Nadal,hard,us,L
+454,0.0,0.5111111110000001,1.0,0.488888889,M,Kevin Anderson,Rafael Nadal,hard,us,L
+455,0.2,0.446808511,0.8,0.553191489,M,John Millman,Rafael Nadal,grass,wimbledon,L
+456,0.5,0.527272727,0.5,0.47272727299999995,M,Donald Young,Rafael Nadal,grass,wimbledon,L
+457,1.0,0.492307692,0.0,0.507692308,M,Karen Khachanov,Rafael Nadal,grass,wimbledon,L
+458,0.590909091,0.47899159700000005,0.409090909,0.521008403,M,Gilles Muller,Rafael Nadal,grass,wimbledon,L
+459,0.5,0.42105263200000004,0.5,0.578947368,M,Guido Pella,Roberto Bautista Agut,hard,aus,R
+460,0.5555555560000001,0.49206349200000005,0.444444444,0.507936508,M,Yoshihito Nishioka,Roberto Bautista Agut,hard,aus,R
+461,0.8,0.471698113,0.2,0.528301887,M,David Ferrer,Roberto Bautista Agut,hard,aus,R
+462,0.625,0.488636364,0.375,0.511363636,M,Milos Raonic,Roberto Bautista Agut,hard,aus,R
+463,0.666666667,0.519230769,0.333333333,0.480769231,M,John Millman,Roberto Bautista Agut,clay,french,R
+464,0.333333333,0.5066666670000001,0.666666667,0.493333333,M,Mikhail Kukushkin,Roberto Bautista Agut,clay,french,R
+465,0.5,0.46296296299999995,0.5,0.537037037,M,Jiri Vesely,Roberto Bautista Agut,clay,french,R
+466,0.0,0.465517241,0.0,0.534482759,M,Rafael Nadal,Roberto Bautista Agut,clay,french,R
+467,0.0,0.596491228,0.0,0.403508772,M,Juan Martin del Potro,Roberto Bautista Agut,hard,us,R
+468,0.4,0.5,0.6,0.5,M,Andreas Haider Maurer,Roberto Bautista Agut,grass,wimbledon,R
+469,1.0,0.478873239,0.0,0.521126761,M,Peter Gojowczyk,Roberto Bautista Agut,grass,wimbledon,R
+470,1.0,0.49484536100000004,0.0,0.505154639,M,Kei Nishikori,Roberto Bautista Agut,grass,wimbledon,R
+471,0.0,0.452830189,0.0,0.5471698110000001,M,Marin Cilic,Roberto Bautista Agut,grass,wimbledon,R
+472,0.0,0.5,1.0,0.5,M,Roberto Bautista Agut,Guido Pella,hard,aus,L
+473,0.666666667,0.509090909,0.333333333,0.490909091,M,Juan Martin Del Potro,Guido Pella,clay,french,L
+474,0.5625,0.5,0.4375,0.5,M,David Goffin,Guido Pella,hard,us,L
+475,0.0,0.52238806,1.0,0.47761194,M,Alex Bolt,Yoshihito Nishioka,hard,aus,L
+476,0.0,0.46478873200000004,1.0,0.535211268,M,Roberto Bautista Agut,Yoshihito Nishioka,hard,aus,L
+477,0.526315789,0.5,0.473684211,0.5,M,Yoshihito Nishioka,Alex Bolt,hard,aus,L
+478,0.5,0.5189873420000001,0.5,0.481012658,M,Ernesto Escobedo,Daniil Medvedev,hard,aus,R
+479,0.2,0.47540983600000003,0.8,0.524590164,M,Benjamin Bonzi,Daniil Medvedev,clay,french,R
+480,0.5,0.46478873200000004,0.5,0.535211268,M,Stan Wawrinka,Daniil Medvedev,grass,wimbledon,R
+481,0.583333333,0.454545455,0.41666666700000005,0.545454545,M,Ruben Bemelmans,Daniil Medvedev,grass,wimbledon,R
+482,0.5555555560000001,0.544117647,0.444444444,0.45588235299999996,M,Daniil Medvedev,Ernesto Escobedo,hard,aus,R
+483,0.5,0.485294118,0.5,0.514705882,M,David Ferrer,Ernesto Escobedo,hard,aus,R
+484,0.5,0.41666666700000005,0.5,0.583333333,M,Denis Istomin,Ernesto Escobedo,clay,french,R
+485,0.666666667,0.493150685,0.333333333,0.506849315,M,Adam Pavlasek,Ernesto Escobedo,grass,wimbledon,R
+486,0.0,0.39024390200000003,1.0,0.609756098,M,David Ferrer,Omar Jasika,hard,aus,L
+487,0.25,0.5,0.75,0.5,M,Omar Jasika,David Ferrer,hard,aus,R
+488,0.833333333,0.488095238,0.166666667,0.511904762,M,Ernesto Escobedo,David Ferrer,hard,aus,R
+489,0.0,0.518518519,1.0,0.481481481,M,Roberto Bautista Agut,David Ferrer,hard,aus,R
+490,0.41666666700000005,0.472222222,0.583333333,0.5277777779999999,M,Donald Young,David Ferrer,clay,french,R
+491,0.5,0.504854369,0.5,0.49514563100000003,M,Feliciano Lopez,David Ferrer,clay,french,R
+492,1.0,0.470588235,0.0,0.529411765,M,Richard Gasquet,David Ferrer,grass,wimbledon,R
+493,0.0,0.5,0.0,0.5,M,Steve Darcis,David Ferrer,grass,wimbledon,R
+494,0.333333333,0.553571429,0.666666667,0.446428571,M,Tomas Berdych,David Ferrer,grass,wimbledon,R
+495,1.0,0.487179487,0.0,0.512820513,M,Michael Mmoh,Gilles Simon,hard,aus,R
+496,0.333333333,0.425531915,0.666666667,0.574468085,M,Rogerio Dutra Silva,Gilles Simon,hard,aus,R
+497,0.0,0.457831325,0.0,0.542168675,M,Milos Raonic,Gilles Simon,hard,aus,R
+498,0.0,0.5111111110000001,0.0,0.488888889,M,Nikoloz Basilashvili,Gilles Simon,clay,french,R
+499,0.5,0.530612245,0.5,0.469387755,M,Sam Querrey,Gilles Simon,hard,us,R
+500,0.4,0.46666666700000003,0.6,0.533333333,M,Nicolas Jarry,Gilles Simon,grass,wimbledon,R
+501,0.666666667,0.494623656,0.333333333,0.505376344,M,Dominic Thiem,Gilles Simon,grass,wimbledon,R
+502,0.5,0.509803922,0.5,0.490196078,M,Gilles Simon,Michael Mmoh,hard,aus,R
+503,0.444444444,0.564102564,0.5555555560000001,0.435897436,M,Rogerio Dutra Silva,Jared Donaldson,hard,aus,R
+504,0.166666667,0.511627907,0.833333333,0.48837209299999995,M,Pierre Hugues Herbert,Jared Donaldson,clay,french,R
+505,0.454545455,0.480519481,0.545454545,0.519480519,M,Lucas Pouille,Jared Donaldson,hard,us,R
+506,0.0,0.333333333,1.0,0.666666667,M,Janko Tipsarevic,Jared Donaldson,grass,wimbledon,R
+507,0.684210526,0.475,0.31578947399999996,0.525,M,Paolo Lorenzi,Jared Donaldson,grass,wimbledon,R
+508,0.333333333,0.425,0.666666667,0.575,M,Dominic Thiem,Jared Donaldson,grass,wimbledon,R
+509,0.538461538,0.519480519,0.46153846200000004,0.480519481,M,Jared Donaldson,Rogerio Dutra Silva,hard,aus,R
+510,1.0,0.48,0.0,0.52,M,Gilles Simon,Rogerio Dutra Silva,hard,aus,R
+511,0.727272727,0.5125,0.272727273,0.4875,M,Mikhail Youzhny,Rogerio Dutra Silva,clay,french,R
+512,1.0,0.5,0.0,0.5,M,Milos Raonic,Rogerio Dutra Silva,clay,french,R
+513,0.5,0.5,0.5,0.5,M,Benoit Paire,Rogerio Dutra Silva,grass,wimbledon,R
+514,0.333333333,0.527272727,0.666666667,0.47272727299999995,M,Milos Raonic,Dustin Brown,hard,aus,R
+515,0.75,0.5,0.25,0.5,M,Gael Monfils,Dustin Brown,clay,french,R
+516,0.46153846200000004,0.475,0.538461538,0.525,M,Joao Sousa,Dustin Brown,grass,wimbledon,R
+517,0.5,0.531914894,0.5,0.46808510600000003,M,Andy Murray,Dustin Brown,grass,wimbledon,R
+518,0.642857143,0.48,0.35714285700000004,0.52,M,Dustin Brown,Milos Raonic,hard,aus,R
+519,0.523809524,0.524590164,0.47619047600000003,0.47540983600000003,M,Gilles Muller,Milos Raonic,hard,aus,R
+520,0.6190476189999999,0.47297297299999996,0.380952381,0.527027027,M,Gilles Simon,Milos Raonic,hard,aus,R
+521,0.46666666700000003,0.506849315,0.533333333,0.493150685,M,Roberto Bautista Agut,Milos Raonic,hard,aus,R
+522,0.384615385,0.478873239,0.615384615,0.521126761,M,Rafael Nadal,Milos Raonic,hard,aus,R
+523,0.583333333,0.46511627899999997,0.41666666700000005,0.534883721,M,Steve Darcis,Milos Raonic,clay,french,R
+524,0.571428571,0.5,0.428571429,0.5,M,Rogerio Dutra Silva,Milos Raonic,clay,french,R
+525,0.5,0.428571429,0.5,0.571428571,M,Guillermo Garcia Lopez,Milos Raonic,clay,french,R
+526,0.56,0.491935484,0.44,0.508064516,M,Pablo Carreno Busta,Milos Raonic,clay,french,R
+527,0.7222222220000001,0.513513514,0.27777777800000003,0.486486486,M,Jan Lennard Struff,Milos Raonic,grass,wimbledon,R
+528,0.44,0.452054795,0.56,0.547945205,M,Mikhail Youzhny,Milos Raonic,grass,wimbledon,R
+529,0.46666666700000003,0.44262295100000004,0.533333333,0.557377049,M,Albert Ramos Vinolas,Milos Raonic,grass,wimbledon,R
+530,0.304347826,0.491935484,0.695652174,0.508064516,M,Alexander Zverev,Milos Raonic,grass,wimbledon,R
+531,0.272727273,0.471428571,0.727272727,0.528571429,M,Roger Federer,Milos Raonic,grass,wimbledon,R
+532,0.583333333,0.5,0.41666666700000005,0.5,M,Jan Lennard Struff,Dominic Thiem,hard,aus,R
+533,0.5,0.454545455,0.5,0.545454545,M,Jordan Thompson,Dominic Thiem,hard,aus,R
+534,0.4,0.48235294100000004,0.6,0.517647059,M,Benoit Paire,Dominic Thiem,hard,aus,R
+535,0.538461538,0.5324675320000001,0.46153846200000004,0.467532468,M,David Goffin,Dominic Thiem,hard,aus,R
+536,0.454545455,0.454545455,0.545454545,0.545454545,M,Bernard Tomic,Dominic Thiem,clay,french,R
+537,0.833333333,0.525,0.166666667,0.475,M,Simone Bolelli,Dominic Thiem,clay,french,R
+538,0.4,0.5,0.6,0.5,M,Steve Johnson,Dominic Thiem,clay,french,R
+539,0.25,0.5,0.75,0.5,M,Horacio Zeballos,Dominic Thiem,clay,french,R
+540,0.5,0.54,0.5,0.46,M,Novak Djokovic,Dominic Thiem,clay,french,R
+541,1.0,0.534883721,0.0,0.46511627899999997,M,Rafael Nadal,Dominic Thiem,clay,french,R
+542,0.0,0.4375,1.0,0.5625,M,Alex de Minaur,Dominic Thiem,hard,us,R
+543,0.2,0.505617978,0.8,0.49438202200000003,M,Taylor Fritz,Dominic Thiem,hard,us,R
+544,0.6,0.528571429,0.4,0.471428571,M,Adrian Mannarino,Dominic Thiem,hard,us,R
+545,0.4,0.48351648399999997,0.6,0.516483516,M,Juan Martin del Potro,Dominic Thiem,hard,us,R
+546,0.25,0.382352941,0.75,0.6176470589999999,M,Vasek Pospisil,Dominic Thiem,grass,wimbledon,R
+547,0.470588235,0.384615385,0.529411765,0.615384615,M,Gilles Simon,Dominic Thiem,grass,wimbledon,R
+548,0.5,0.481481481,0.5,0.518518519,M,Jared Donaldson,Dominic Thiem,grass,wimbledon,R
+549,0.363636364,0.418918919,0.636363636,0.581081081,M,Tomas Berdych,Dominic Thiem,grass,wimbledon,R
+550,0.384615385,0.44594594600000004,0.615384615,0.554054054,M,Dominic Thiem,Jan Lennard Struff,hard,aus,R
+551,0.75,0.509090909,0.25,0.490909091,M,Tomas Berdych,Jan Lennard Struff,clay,french,R
+552,0.666666667,0.48214285700000004,0.333333333,0.517857143,M,Milos Raonic,Jan Lennard Struff,grass,wimbledon,R
+553,0.545454545,0.443298969,0.454545455,0.556701031,M,Joao Sousa,Jordan Thompson,hard,aus,R
+554,1.0,0.5074626870000001,0.0,0.492537313,M,Dominic Thiem,Jordan Thompson,hard,aus,R
+555,0.444444444,0.46153846200000004,0.5555555560000001,0.538461538,M,John Isner,Jordan Thompson,clay,french,R
+556,0.28571428600000004,0.531531532,0.7142857140000001,0.46846846799999997,M,Jack Sock,Jordan Thompson,hard,us,R
+557,0.2,0.5,0.8,0.5,M,Albert Ramos Vinolas,Jordan Thompson,grass,wimbledon,R
+558,0.0,0.452054795,1.0,0.547945205,M,Jordan Thompson,Joao Sousa,hard,aus,R
+559,0.5,0.530612245,0.5,0.469387755,M,Janko Tipsarevic,Joao Sousa,clay,french,R
+560,0.0,0.5,1.0,0.5,M,Novak Djokovic,Joao Sousa,clay,french,R
+561,0.1,0.432098765,0.9,0.567901235,M,Dustin Brown,Joao Sousa,grass,wimbledon,R
+562,0.333333333,0.4,0.666666667,0.6,M,Benoit Paire,Tommy Haas,hard,aus,R
+563,0.7142857140000001,0.518518519,0.28571428600000004,0.481481481,M,Ruben Bemelmans,Tommy Haas,grass,wimbledon,R
+564,0.523809524,0.441860465,0.47619047600000003,0.558139535,M,Tommy Haas,Benoit Paire,hard,aus,R
+565,0.65,0.552083333,0.35,0.44791666700000005,M,Fabio Fognini,Benoit Paire,hard,aus,R
+566,0.5,0.596153846,0.5,0.403846154,M,Dominic Thiem,Benoit Paire,hard,aus,R
+567,0.0,0.45,0.0,0.55,M,Rafael Nadal,Benoit Paire,clay,french,R
+568,0.4,0.5,0.6,0.5,M,Rogerio Dutra Silva,Benoit Paire,grass,wimbledon,R
+569,0.5,0.423076923,0.5,0.576923077,M,Pierre Hugues Herbert,Benoit Paire,grass,wimbledon,R
+570,0.35714285700000004,0.5555555560000001,0.642857143,0.444444444,M,Jerzy Janowicz,Benoit Paire,grass,wimbledon,R
+571,0.444444444,0.515151515,0.5555555560000001,0.484848485,M,Andy Murray,Benoit Paire,grass,wimbledon,R
+572,0.8,0.441860465,0.2,0.558139535,M,Feliciano Lopez,Fabio Fognini,hard,aus,R
+573,0.0,0.532608696,1.0,0.467391304,M,Benoit Paire,Fabio Fognini,hard,aus,R
+574,0.0,0.519480519,1.0,0.480519481,M,Frances Tiafoe,Fabio Fognini,clay,french,R
+575,0.4,0.456140351,0.6,0.543859649,M,Andreas Seppi,Fabio Fognini,clay,french,R
+576,0.0,0.5,0.0,0.5,M,Stan Wawrinka,Fabio Fognini,clay,french,R
+577,0.666666667,0.5,0.333333333,0.5,M,Dmitry Tursunov,Fabio Fognini,grass,wimbledon,R
+578,0.727272727,0.508474576,0.272727273,0.491525424,M,Jiri Vesely,Fabio Fognini,grass,wimbledon,R
+579,0.666666667,0.507936508,0.333333333,0.49206349200000005,M,Andy Murray,Fabio Fognini,grass,wimbledon,R
+580,0.454545455,0.450704225,0.545454545,0.549295775,M,Fabio Fognini,Feliciano Lopez,hard,aus,L
+581,0.363636364,0.509803922,0.636363636,0.490196078,M,David Ferrer,Feliciano Lopez,clay,french,L
+582,1.0,0.558139535,0.0,0.441860465,M,Marin Cilic,Feliciano Lopez,clay,french,L
+583,0.565217391,0.46153846200000004,0.434782609,0.538461538,M,Andrey Kuznetsov,Feliciano Lopez,hard,us,L
+584,0.3,0.53125,0.7,0.46875,M,Fernando Verdasco,Feliciano Lopez,hard,us,L
+585,0.5555555560000001,0.408163265,0.444444444,0.591836735,M,Roger Federer,Feliciano Lopez,hard,us,L
+586,0.583333333,0.551020408,0.41666666700000005,0.44897959200000004,M,Adrian Mannarino,Feliciano Lopez,grass,wimbledon,L
+587,0.558823529,0.514285714,0.441176471,0.485714286,M,Horacio Zeballos,Ivo Karlovic,hard,aus,R
+588,0.684210526,0.576923077,0.31578947399999996,0.423076923,M,Andrew Whittington,Ivo Karlovic,hard,aus,R
+589,0.375,0.413793103,0.625,0.5862068970000001,M,David Goffin,Ivo Karlovic,hard,aus,R
+590,0.6,0.587301587,0.4,0.412698413,M,Stefanos Tsitsipas,Ivo Karlovic,clay,french,R
+591,0.37037037,0.53125,0.62962963,0.46875,M,Horacio Zeballos,Ivo Karlovic,clay,french,R
+592,0.567567568,0.531746032,0.43243243200000003,0.46825396799999996,M,Aljaz Bedene,Ivo Karlovic,grass,wimbledon,R
+593,0.481481481,0.5,0.518518519,0.5,M,Ivo Karlovic,Horacio Zeballos,hard,aus,L
+594,0.25,0.517857143,0.75,0.48214285700000004,M,Adrian Mannarino,Horacio Zeballos,clay,french,L
+595,0.333333333,0.5072463770000001,0.666666667,0.492753623,M,Ivo Karlovic,Horacio Zeballos,clay,french,L
+596,0.0,0.428571429,0.0,0.571428571,M,David Goffin,Horacio Zeballos,clay,french,L
+597,0.0,0.530612245,1.0,0.469387755,M,Dominic Thiem,Horacio Zeballos,clay,french,L
+598,0.615384615,0.49397590399999997,0.384615385,0.506024096,M,Hyeon Chung,Horacio Zeballos,hard,us,L
+599,0.46153846200000004,0.475609756,0.538461538,0.524390244,M,Paolo Lorenzi,Horacio Zeballos,grass,wimbledon,L
+600,0.615384615,0.560606061,0.384615385,0.439393939,M,Andrew Whittington,Adam Pavlasek,hard,aus,R
+601,0.5,0.528571429,0.5,0.471428571,M,Ernesto Escobedo,Adam Pavlasek,grass,wimbledon,R
+602,0.6,0.533333333,0.4,0.46666666700000003,M,Novak Djokovic,Adam Pavlasek,grass,wimbledon,R
+603,0.5,0.507692308,0.5,0.492307692,M,Adam Pavlasek,Andrew Whittington,hard,aus,R
+604,0.333333333,0.565217391,0.666666667,0.434782609,M,Ivo Karlovic,Andrew Whittington,hard,aus,R
+605,0.666666667,0.551282051,0.333333333,0.448717949,M,Thiago Monteiro,Andrew Whittington,grass,wimbledon,R
+606,0.8,0.465517241,0.2,0.534482759,M,Radek Stepanek,Dmitry Tursunov,hard,aus,R
+607,0.0,0.46969697,0.0,0.53030303,M,Fabio Fognini,Dmitry Tursunov,grass,wimbledon,R
+608,0.7333333329999999,0.546875,0.26666666699999997,0.453125,M,Dmitry Tursunov,Radek Stepanek,hard,aus,R
+609,0.666666667,0.47826087,0.333333333,0.52173913,M,David Goffin,Radek Stepanek,hard,aus,R
+610,0.6190476189999999,0.517647059,0.380952381,0.48235294100000004,M,David Goffin,Reilly Opelka,hard,aus,R
+611,0.615384615,0.544303797,0.384615385,0.45569620299999997,M,Reilly Opelka,David Goffin,hard,aus,R
+612,0.571428571,0.568181818,0.428571429,0.43181818200000005,M,Radek Stepanek,David Goffin,hard,aus,R
+613,0.0,0.538461538,1.0,0.46153846200000004,M,Ivo Karlovic,David Goffin,hard,aus,R
+614,0.533333333,0.514285714,0.46666666700000003,0.485714286,M,Dominic Thiem,David Goffin,hard,aus,R
+615,0.666666667,0.545454545,0.333333333,0.454545455,M,Grigor Dimitrov,David Goffin,hard,aus,R
+616,0.454545455,0.523809524,0.545454545,0.47619047600000003,M,Paul Henri Mathieu,David Goffin,clay,french,R
+617,0.666666667,0.508196721,0.333333333,0.491803279,M,Sergiy Stakhovsky,David Goffin,clay,french,R
+618,0.0,0.4,1.0,0.6,M,Horacio Zeballos,David Goffin,clay,french,R
+619,0.272727273,0.53125,0.727272727,0.46875,M,Julien Benneteau,David Goffin,hard,us,R
+620,0.428571429,0.55,0.571428571,0.45,M,Guido Pella,David Goffin,hard,us,R
+621,0.0,0.53125,0.0,0.46875,M,Gael Monfils,David Goffin,hard,us,R
+622,0.625,0.515151515,0.375,0.484848485,M,Andrey Rublev,David Goffin,hard,us,R
+623,0.4,0.574468085,0.6,0.425531915,M,Christopher O'Connell,Grigor Dimitrov,hard,aus,R
+624,0.5,0.447368421,0.5,0.552631579,M,Hyeon Chung,Grigor Dimitrov,hard,aus,R
+625,0.363636364,0.463768116,0.636363636,0.536231884,M,Richard Gasquet,Grigor Dimitrov,hard,aus,R
+626,0.428571429,0.5277777779999999,0.571428571,0.472222222,M,Denis Istomin,Grigor Dimitrov,hard,aus,R
+627,0.625,0.508196721,0.375,0.491803279,M,David Goffin,Grigor Dimitrov,hard,aus,R
+628,0.4,0.5,0.6,0.5,M,Rafael Nadal,Grigor Dimitrov,hard,aus,R
+629,0.5,0.444444444,0.5,0.5555555560000001,M,Stephane Robert,Grigor Dimitrov,clay,french,R
+630,0.25,0.492307692,0.75,0.507692308,M,Tommy Robredo,Grigor Dimitrov,clay,french,R
+631,0.5,0.581818182,0.5,0.418181818,M,Pablo Carreno Busta,Grigor Dimitrov,clay,french,R
+632,0.333333333,0.46666666700000003,0.666666667,0.533333333,M,Vaclav Safranek,Grigor Dimitrov,hard,us,R
+633,0.7,0.5,0.3,0.5,M,Andrey Rublev,Grigor Dimitrov,hard,us,R
+634,0.7777777779999999,0.44897959200000004,0.222222222,0.551020408,M,Diego Schwartzman,Grigor Dimitrov,grass,wimbledon,R
+635,0.333333333,0.509433962,0.666666667,0.490566038,M,Marcos Baghdatis,Grigor Dimitrov,grass,wimbledon,R
+636,0.4,0.448275862,0.6,0.551724138,M,Dudi Sela,Grigor Dimitrov,grass,wimbledon,R
+637,0.571428571,0.578947368,0.428571429,0.42105263200000004,M,Roger Federer,Grigor Dimitrov,grass,wimbledon,R
+638,0.5,0.5625,0.5,0.4375,M,Grigor Dimitrov,Christopher O'Connell,hard,aus,R
+639,0.857142857,0.527272727,0.14285714300000002,0.47272727299999995,M,Carlos Berlocq,Radu Albot,hard,aus,R
+640,0.0,0.47540983600000003,1.0,0.524590164,M,Jeremy Chardy,Radu Albot,clay,french,R
+641,0.0,0.5,1.0,0.5,M,Sam Querrey,Radu Albot,hard,us,R
+642,0.25,0.509090909,0.75,0.490909091,M,Facundo Bagnis,Radu Albot,grass,wimbledon,R
+643,0.0,0.506493506,1.0,0.49350649399999996,M,Steve Johnson,Radu Albot,grass,wimbledon,R
+644,0.529411765,0.565217391,0.470588235,0.434782609,M,Radu Albot,Carlos Berlocq,hard,aus,R
+645,0.5,0.473684211,0.5,0.526315789,M,Richard Gasquet,Carlos Berlocq,hard,aus,R
+646,0.0,0.482758621,0.0,0.517241379,M,Nikoloz Basilashvili,Carlos Berlocq,grass,wimbledon,R
+647,0.571428571,0.510204082,0.428571429,0.489795918,M,Richard Gasquet,Blake Mott,hard,aus,R
+648,1.0,0.509433962,0.0,0.490566038,M,Blake Mott,Richard Gasquet,hard,aus,R
+649,0.5,0.487179487,0.5,0.512820513,M,Carlos Berlocq,Richard Gasquet,hard,aus,R
+650,0.0,0.387755102,1.0,0.6122448979999999,M,Grigor Dimitrov,Richard Gasquet,hard,aus,R
+651,0.428571429,0.5,0.571428571,0.5,M,Arthur De Greef,Richard Gasquet,clay,french,R
+652,0.6,0.525,0.4,0.475,M,Victor Estrella Burgos,Richard Gasquet,clay,french,R
+653,0.5,0.444444444,0.5,0.5555555560000001,M,Gael Monfils,Richard Gasquet,clay,french,R
+654,1.0,0.575757576,0.0,0.424242424,M,Leonardo Mayer,Richard Gasquet,hard,us,R
+655,0.0,0.535211268,0.0,0.46478873200000004,M,David Ferrer,Richard Gasquet,grass,wimbledon,R
+656,0.583333333,0.558139535,0.41666666700000005,0.441860465,M,Santiago Giraldo,Kyle Edmund,hard,aus,R
+657,0.666666667,0.5476190479999999,0.333333333,0.452380952,M,Pablo Carreno Busta,Kyle Edmund,hard,aus,R
+658,0.0,0.520833333,1.0,0.47916666700000005,M,Gastao Elias,Kyle Edmund,clay,french,R
+659,0.0,0.469387755,1.0,0.530612245,M,Renzo Olivo,Kyle Edmund,clay,french,R
+660,0.75,0.543478261,0.25,0.456521739,M,Kevin Anderson,Kyle Edmund,clay,french,R
+661,0.666666667,0.47692307700000003,0.333333333,0.523076923,M,Robin Haase,Kyle Edmund,hard,us,R
+662,0.0,0.43076923100000003,1.0,0.569230769,M,Steve Johnson,Kyle Edmund,hard,us,R
+663,1.0,0.5,0.0,0.5,M,Denis Shapovalov,Kyle Edmund,hard,us,R
+664,0.875,0.541666667,0.125,0.45833333299999995,M,Alexander Ward,Kyle Edmund,grass,wimbledon,R
+665,0.2,0.446428571,0.8,0.553571429,M,Gael Monfils,Kyle Edmund,grass,wimbledon,R
+666,0.666666667,0.541666667,0.333333333,0.45833333299999995,M,Kyle Edmund,Santiago Giraldo,hard,aus,R
+667,1.0,0.482758621,0.0,0.517241379,M,Andreas Seppi,Santiago Giraldo,clay,french,R
+668,0.333333333,0.444444444,0.666666667,0.5555555560000001,M,Philipp Kohlschreiber,Santiago Giraldo,hard,us,R
+669,0.5,0.487179487,0.5,0.512820513,M,Ivan Dodig,Denis Istomin,hard,aus,R
+670,0.647058824,0.48507462700000004,0.352941176,0.514925373,M,Novak Djokovic,Denis Istomin,hard,aus,R
+671,0.6875,0.548387097,0.3125,0.45161290299999995,M,Pablo Carreno Busta,Denis Istomin,hard,aus,R
+672,0.5,0.506849315,0.5,0.493150685,M,Grigor Dimitrov,Denis Istomin,hard,aus,R
+673,0.444444444,0.5,0.5555555560000001,0.5,M,Ernesto Escobedo,Denis Istomin,clay,french,R
+674,0.5,0.490196078,0.5,0.509803922,M,Hyeon Chung,Denis Istomin,clay,french,R
+675,0.5,0.52173913,0.5,0.47826087,M,Donald Young,Denis Istomin,grass,wimbledon,R
+676,0.14285714300000002,0.46153846200000004,0.857142857,0.538461538,M,Denis Istomin,Ivan Dodig,hard,aus,R
+677,0.2,0.436363636,0.8,0.563636364,M,Novak Djokovic,Fernando Verdasco,hard,aus,L
+678,0.0,0.505617978,0.0,0.49438202200000003,M,Alexander Zverev,Fernando Verdasco,clay,french,L
+679,0.6,0.457142857,0.4,0.542857143,M,Pierre Hugues Herbert,Fernando Verdasco,clay,french,L
+680,0.5,0.45833333299999995,0.5,0.541666667,M,Pablo Cuevas,Fernando Verdasco,clay,french,L
+681,0.333333333,0.519480519,0.666666667,0.480519481,M,Kei Nishikori,Fernando Verdasco,clay,french,L
+682,0.625,0.5,0.375,0.5,M,Feliciano Lopez,Fernando Verdasco,hard,us,L
+683,0.666666667,0.44705882399999997,0.333333333,0.552941176,M,Kevin Anderson,Fernando Verdasco,grass,wimbledon,L
+684,1.0,0.5,0.0,0.5,M,Fernando Verdasco,Novak Djokovic,hard,aus,R
+685,0.41666666700000005,0.429906542,0.583333333,0.570093458,M,Denis Istomin,Novak Djokovic,hard,aus,R
+686,0.5,0.534482759,0.5,0.465517241,M,Marcel Granollers,Novak Djokovic,clay,french,R
+687,0.5,0.41176470600000004,0.5,0.588235294,M,Joao Sousa,Novak Djokovic,clay,french,R
+688,0.571428571,0.4875,0.428571429,0.5125,M,Diego Schwartzman,Novak Djokovic,clay,french,R
+689,0.333333333,0.508196721,0.666666667,0.491803279,M,Albert Ramos Vinolas,Novak Djokovic,clay,french,R
+690,0.5,0.537313433,0.5,0.46268656700000005,M,Dominic Thiem,Novak Djokovic,clay,french,R
+691,0.666666667,0.434782609,0.333333333,0.565217391,M,Martin Klizan,Novak Djokovic,grass,wimbledon,R
+692,0.0,0.487804878,1.0,0.5121951220000001,M,Adam Pavlasek,Novak Djokovic,grass,wimbledon,R
+693,0.4,0.428571429,0.6,0.571428571,M,Ernests Gulbis,Novak Djokovic,grass,wimbledon,R
+694,0.0,0.47826087,1.0,0.52173913,M,Adrian Mannarino,Novak Djokovic,grass,wimbledon,R
+695,0.0,0.487179487,1.0,0.512820513,M,Tomas Berdych,Novak Djokovic,grass,wimbledon,R
+696,0.25,0.520833333,0.75,0.47916666700000005,M,Alexander Bublik,Malek Jaziri,hard,aus,R
+697,0.25,0.434782609,0.75,0.565217391,M,Mischa Zverev,Malek Jaziri,hard,aus,R
+698,0.0,0.6,1.0,0.4,M,Kevin Anderson,Malek Jaziri,clay,french,R
+699,1.0,0.490196078,0.0,0.509803922,M,John Millman,Malek Jaziri,hard,us,R
+700,0.666666667,0.473684211,0.333333333,0.526315789,M,Lucas Pouille,Malek Jaziri,grass,wimbledon,R
+701,0.5,0.543859649,0.5,0.456140351,M,Roger Federer,Noah Rubin,hard,aus,R
+702,0.2,0.45588235299999996,0.8,0.544117647,M,Lukas Lacko,Dudi Sela,hard,aus,R
+703,0.0,0.457142857,1.0,0.542857143,M,Sam Querrey,Dudi Sela,hard,us,R
+704,0.0,0.457446809,0.0,0.542553191,M,Marcel Granollers,Dudi Sela,grass,wimbledon,R
+705,0.25,0.462809917,0.75,0.5371900829999999,M,John Isner,Dudi Sela,grass,wimbledon,R
+706,1.0,0.48,0.0,0.52,M,Grigor Dimitrov,Dudi Sela,grass,wimbledon,R
+707,0.4,0.518518519,0.6,0.481481481,M,Kei Nishikori,Jeremy Chardy,hard,aus,R
+708,0.272727273,0.44067796600000003,0.727272727,0.559322034,M,Radu Albot,Jeremy Chardy,clay,french,R
+709,0.5,0.47272727299999995,0.5,0.527272727,M,Kei Nishikori,Jeremy Chardy,clay,french,R
+710,0.333333333,0.5932203389999999,0.666666667,0.406779661,M,Gael Monfils,Jeremy Chardy,hard,us,R
+711,0.588235294,0.506493506,0.41176470600000004,0.49350649399999996,M,Tomas Berdych,Jeremy Chardy,grass,wimbledon,R
+712,0.8,0.48387096799999996,0.2,0.516129032,M,Philipp Kohlschreiber,Donald Young,hard,aus,L
+713,0.4,0.492307692,0.6,0.507692308,M,David Ferrer,Donald Young,clay,french,L
+714,0.7142857140000001,0.44791666700000005,0.28571428600000004,0.552083333,M,Gael Monfils,Donald Young,hard,us,L
+715,0.6,0.45588235299999996,0.4,0.544117647,M,Denis Istomin,Donald Young,grass,wimbledon,L
+716,0.14285714300000002,0.485294118,0.857142857,0.514705882,M,Rafael Nadal,Donald Young,grass,wimbledon,L
+717,0.75,0.545454545,0.25,0.454545455,M,Alexander Zverev,Frances Tiafoe,hard,aus,R
+718,0.583333333,0.492537313,0.41666666700000005,0.5074626870000001,M,Fabio Fognini,Frances Tiafoe,clay,french,R
+719,0.8,0.535211268,0.2,0.46478873200000004,M,Roger Federer,Frances Tiafoe,hard,us,R
+720,0.4,0.46913580200000005,0.6,0.530864198,M,Robin Haase,Frances Tiafoe,grass,wimbledon,R
+721,0.363636364,0.45833333299999995,0.636363636,0.541666667,M,Alexander Zverev,Frances Tiafoe,grass,wimbledon,R
+722,0.7142857140000001,0.507692308,0.28571428600000004,0.492307692,M,Milos Raonic,Gilles Muller,hard,aus,L
+723,0.5,0.5301204820000001,0.5,0.469879518,M,Guillermo Garcia Lopez,Gilles Muller,clay,french,L
+724,0.5,0.471698113,0.5,0.528301887,M,Bernard Tomic,Gilles Muller,hard,us,L
+725,0.28571428600000004,0.482758621,0.7142857140000001,0.517241379,M,Marton Fucsovics,Gilles Muller,grass,wimbledon,L
+726,0.622222222,0.545454545,0.37777777799999995,0.454545455,M,Lukas Rosol,Gilles Muller,grass,wimbledon,L
+727,0.444444444,0.44262295100000004,0.5555555560000001,0.557377049,M,Aljaz Bedene,Gilles Muller,grass,wimbledon,L
+728,0.571428571,0.503759398,0.428571429,0.49624060200000003,M,Rafael Nadal,Gilles Muller,grass,wimbledon,L
+729,0.352941176,0.494736842,0.647058824,0.505263158,M,Marin Cilic,Gilles Muller,grass,wimbledon,L
+730,0.7142857140000001,0.507042254,0.28571428600000004,0.49295774600000003,M,Grigor Dimitrov,Hyeon Chung,hard,aus,R
+731,0.666666667,0.5166666670000001,0.333333333,0.483333333,M,Sam Querrey,Hyeon Chung,clay,french,R
+732,0.666666667,0.418604651,0.333333333,0.581395349,M,Denis Istomin,Hyeon Chung,clay,french,R
+733,0.7142857140000001,0.505617978,0.28571428600000004,0.49438202200000003,M,Kei Nishikori,Hyeon Chung,clay,french,R
+734,0.625,0.458823529,0.375,0.541176471,M,Horacio Zeballos,Hyeon Chung,hard,us,R
+735,0.25,0.509803922,0.75,0.490196078,M,John Isner,Hyeon Chung,hard,us,R
+736,0.428571429,0.43103448299999997,0.571428571,0.568965517,M,Kyle Edmund,Pablo Carreno Busta,hard,aus,R
+737,0.6,0.5,0.4,0.5,M,Denis Istomin,Pablo Carreno Busta,hard,aus,R
+738,0.5,0.5,0.5,0.5,M,Florian Mayer,Pablo Carreno Busta,clay,french,R
+739,0.583333333,0.5,0.41666666700000005,0.5,M,Taro Daniel,Pablo Carreno Busta,clay,french,R
+740,0.0,0.45161290299999995,0.0,0.548387097,M,Grigor Dimitrov,Pablo Carreno Busta,clay,french,R
+741,0.5,0.503267974,0.5,0.496732026,M,Milos Raonic,Pablo Carreno Busta,clay,french,R
+742,0.0,0.5,0.0,0.5,M,Rafael Nadal,Pablo Carreno Busta,clay,french,R
+743,0.75,0.5,0.25,0.5,M,Nicolas Mahut,Pablo Carreno Busta,hard,us,R
+744,1.0,0.56626506,0.0,0.43373494,M,Denis Shapovalov,Pablo Carreno Busta,hard,us,R
+745,0.428571429,0.516129032,0.571428571,0.48387096799999996,M,Diego Schwartzman,Pablo Carreno Busta,hard,us,R
+746,1.0,0.460784314,0.0,0.539215686,M,Kevin Anderson,Pablo Carreno Busta,hard,us,R
+747,0.666666667,0.52,0.333333333,0.48,F,Lesia Tsurenko,Angelique Kerber,hard,aus,L
+748,0.333333333,0.507936508,0.666666667,0.49206349200000005,F,Carina Witthoeft,Angelique Kerber,hard,aus,L
+749,0.0,0.41176470600000004,0.0,0.588235294,F,Kristyna Pliskova,Angelique Kerber,hard,aus,L
+750,0.0,0.384615385,0.0,0.615384615,F,CoCo Vandeweghe,Angelique Kerber,hard,aus,L
+751,0.0,0.514285714,0.0,0.485714286,F,Ekaterina Makarova,Angelique Kerber,clay,french,L
+752,0.0,0.515151515,0.0,0.484848485,F,Naomi Osaka,Angelique Kerber,hard,us,L
+753,0.0,0.5,0.0,0.5,F,Irina Falconi,Angelique Kerber,grass,wimbledon,L
+754,0.0,0.528571429,0.0,0.471428571,F,Kirsten Flipkens,Angelique Kerber,grass,wimbledon,L
+755,1.0,0.527027027,0.0,0.47297297299999996,F,Shelby Rogers,Angelique Kerber,grass,wimbledon,L
+756,1.0,0.50877193,0.0,0.49122807,F,Garbine Muguruza,Angelique Kerber,grass,wimbledon,L
+757,0.0,0.545454545,0.0,0.454545455,F,Angelique Kerber,Lesia Tsurenko,hard,aus,R
+758,0.0,0.48387096799999996,0.0,0.516129032,F,Kateryna Kozlova,Lesia Tsurenko,clay,french,R
+759,0.0,0.425,0.0,0.575,F,Ekaterina Makarova,Lesia Tsurenko,clay,french,R
+760,0.0,0.46511627899999997,0.0,0.534883721,F,Jelena Ostapenko,Lesia Tsurenko,clay,french,R
+761,0.5,0.48387096799999996,0.5,0.516129032,F,Julia Goerges,Lesia Tsurenko,grass,wimbledon,R
+762,0.0,0.5,1.0,0.5,F,Viktorija Golubic,Lesia Tsurenko,grass,wimbledon,R
+763,0.5,0.513513514,0.5,0.486486486,F,Magdalena Rybarikova,Lesia Tsurenko,grass,wimbledon,R
+764,0.666666667,0.490909091,0.333333333,0.509090909,F,Carina Witthoeft,Eri Hozumi,hard,aus,R
+765,0.25,0.490909091,0.75,0.509090909,F,Eri Hozumi,Carina Witthoeft,hard,aus,R
+766,1.0,0.546875,0.0,0.453125,F,Angelique Kerber,Carina Witthoeft,hard,aus,R
+767,1.0,0.5,0.0,0.5,F,Lauren Davis,Carina Witthoeft,clay,french,R
+768,0.0,0.543859649,0.0,0.456140351,F,Pauline Parmentier,Carina Witthoeft,clay,french,R
+769,0.0,0.47619047600000003,0.0,0.523809524,F,Karolina Pliskova,Carina Witthoeft,clay,french,R
+770,0.5,0.481481481,0.5,0.518518519,F,Mirjana Lucic Baroni,Carina Witthoeft,grass,wimbledon,R
+771,0.333333333,0.5,0.666666667,0.5,F,Aryna Sabalenka,Carina Witthoeft,grass,wimbledon,R
+772,0.5,0.39130434799999997,0.5,0.608695652,F,Elina Svitolina,Carina Witthoeft,grass,wimbledon,R
+773,0.571428571,0.47916666700000005,0.428571429,0.520833333,F,Viktorija Golubic,Kristyna Pliskova,hard,aus,L
+774,0.5,0.526315789,0.5,0.473684211,F,Irina Camelia Begu,Kristyna Pliskova,hard,aus,L
+775,0.5,0.5555555560000001,0.5,0.444444444,F,Angelique Kerber,Kristyna Pliskova,hard,aus,L
+776,0.333333333,0.302325581,0.666666667,0.697674419,F,Chloe Paquet,Kristyna Pliskova,clay,french,L
+777,0.666666667,0.5,0.333333333,0.5,F,Misa Eguchi,Kristyna Pliskova,hard,us,L
+778,0.5555555560000001,0.512820513,0.444444444,0.487179487,F,Roberta Vinci,Kristyna Pliskova,grass,wimbledon,L
+779,0.75,0.52238806,0.25,0.47761194,F,Maria Sakkari,Kristyna Pliskova,grass,wimbledon,L
+780,1.0,0.5074626870000001,0.0,0.492537313,F,Kristyna Pliskova,Viktorija Golubic,hard,aus,R
+781,0.5,0.492753623,0.5,0.5072463770000001,F,Aliaksandra Sasnovich,Viktorija Golubic,clay,french,R
+782,0.333333333,0.5,0.666666667,0.5,F,Shuai Zhang,Viktorija Golubic,grass,wimbledon,R
+783,0.0,0.418604651,0.0,0.581395349,F,Lesia Tsurenko,Viktorija Golubic,grass,wimbledon,R
+784,0.333333333,0.509803922,0.666666667,0.490196078,F,Irina Camelia Begu,Yaroslava Shvedova,hard,aus,R
+785,0.0,0.525,0.0,0.475,F,Elina Svitolina,Yaroslava Shvedova,clay,french,R
+786,0.666666667,0.448275862,0.333333333,0.551724138,F,Yaroslava Shvedova,Irina Camelia Begu,hard,aus,R
+787,0.75,0.46666666700000003,0.25,0.533333333,F,Kristyna Pliskova,Irina Camelia Begu,hard,aus,R
+788,0.0,0.512820513,0.0,0.487179487,F,Mariana Duque Marino,Irina Camelia Begu,clay,french,R
+789,1.0,0.542857143,0.0,0.457142857,F,Naomi Broady,Irina Camelia Begu,grass,wimbledon,R
+790,0.666666667,0.48387096799999996,0.333333333,0.516129032,F,Ana Konjuh,Irina Camelia Begu,grass,wimbledon,R
+791,0.0,0.510204082,0.0,0.489795918,F,Shuai Peng,Daria Kasatkina,hard,aus,R
+792,0.0,0.5,0.0,0.5,F,Marketa Vondrousova,Daria Kasatkina,clay,french,R
+793,0.0,0.5111111110000001,0.0,0.488888889,F,Simona Halep,Daria Kasatkina,clay,french,R
+794,0.333333333,0.5,0.666666667,0.5,F,Christina McHale,Daria Kasatkina,hard,us,R
+795,0.0,0.510204082,1.0,0.489795918,F,Jelena Ostapenko,Daria Kasatkina,hard,us,R
+796,1.0,0.452380952,0.0,0.5476190479999999,F,Kaia Kanepi,Daria Kasatkina,hard,us,R
+797,0.5,0.48387096799999996,0.5,0.516129032,F,Saisai Zheng,Daria Kasatkina,grass,wimbledon,R
+798,1.0,0.513513514,0.0,0.486486486,F,Anett Kontaveit,Daria Kasatkina,grass,wimbledon,R
+799,0.75,0.5,0.25,0.5,F,Daria Kasatkina,Shuai Peng,hard,aus,R
+800,1.0,0.5,0.0,0.5,F,Eugenie Bouchard,Shuai Peng,hard,aus,R
+801,0.0,0.419354839,1.0,0.580645161,F,Sorana Cirstea,Shuai Peng,clay,french,R
+802,0.5,0.48837209299999995,0.5,0.511627907,F,Amandine Hesse,Shuai Peng,hard,us,R
+803,0.0,0.507936508,1.0,0.49206349200000005,F,Marketa Vondrousova,Shuai Peng,grass,wimbledon,R
+804,1.0,0.46666666700000003,0.0,0.533333333,F,Carla Suarez Navarro,Shuai Peng,grass,wimbledon,R
+805,0.5,0.428571429,0.5,0.571428571,F,Simona Halep,Shuai Peng,grass,wimbledon,R
+806,1.0,0.533333333,0.0,0.46666666700000003,F,Eugenie Bouchard,Louisa Chirico,hard,aus,R
+807,0.0,0.546875,1.0,0.453125,F,Jelena Ostapenko,Louisa Chirico,clay,french,R
+808,0.5,0.44,0.5,0.56,F,Louisa Chirico,Eugenie Bouchard,hard,aus,R
+809,0.4,0.45945945899999996,0.6,0.540540541,F,Shuai Peng,Eugenie Bouchard,hard,aus,R
+810,0.333333333,0.426229508,0.666666667,0.5737704920000001,F,CoCo Vandeweghe,Eugenie Bouchard,hard,aus,R
+811,0.666666667,0.5121951220000001,0.333333333,0.487804878,F,Risa Ozaki,Eugenie Bouchard,clay,french,R
+812,1.0,0.434782609,0.0,0.565217391,F,Anastasija Sevastova,Eugenie Bouchard,clay,french,R
+813,0.666666667,0.487179487,0.333333333,0.512820513,F,Evgeniya Rodina,Eugenie Bouchard,hard,us,R
+814,0.0,0.456521739,1.0,0.543478261,F,Carla Suarez Navarro,Eugenie Bouchard,grass,wimbledon,R
+815,0.5,0.538461538,0.5,0.46153846200000004,F,Misaki Doi,Pauline Parmentier,hard,aus,R
+816,0.0,0.36956521700000006,1.0,0.630434783,F,CoCo Vandeweghe,Pauline Parmentier,hard,aus,R
+817,0.25,0.526315789,0.75,0.473684211,F,Irina Khromacheva,Pauline Parmentier,clay,french,R
+818,0.0,0.469387755,0.0,0.530612245,F,Carina Witthoeft,Pauline Parmentier,clay,french,R
+819,0.2,0.487804878,0.8,0.5121951220000001,F,Oceane Dodin,Pauline Parmentier,hard,us,R
+820,0.333333333,0.444444444,0.666666667,0.5555555560000001,F,Kristina Mladenovic,Pauline Parmentier,grass,wimbledon,R
+821,0.0,0.477272727,1.0,0.522727273,F,Pauline Parmentier,Misaki Doi,hard,aus,L
+822,0.0,0.5277777779999999,0.0,0.472222222,F,Sara Errani,Misaki Doi,clay,french,L
+823,0.0,0.45833333299999995,0.0,0.541666667,F,Barbora Strycova,Misaki Doi,hard,us,L
+824,0.0,0.513513514,0.0,0.486486486,F,Kirsten Flipkens,Misaki Doi,grass,wimbledon,L
+825,0.833333333,0.538461538,0.166666667,0.46153846200000004,F,Roberta Vinci,CoCo Vandeweghe,hard,aus,R
+826,0.166666667,0.45762711899999997,0.833333333,0.542372881,F,Pauline Parmentier,CoCo Vandeweghe,hard,aus,R
+827,0.636363636,0.538461538,0.363636364,0.46153846200000004,F,Eugenie Bouchard,CoCo Vandeweghe,hard,aus,R
+828,0.166666667,0.518518519,0.833333333,0.481481481,F,Angelique Kerber,CoCo Vandeweghe,hard,aus,R
+829,0.2,0.44,0.8,0.56,F,,CoCo Vandeweghe,hard,aus,R
+830,0.6,0.480769231,0.4,0.519230769,F,Venus Williams,CoCo Vandeweghe,hard,aus,R
+831,0.25,0.413793103,0.75,0.5862068970000001,F,Alison Riske,CoCo Vandeweghe,hard,us,R
+832,0.5,0.655172414,0.5,0.344827586,F,Ons Jabeur,CoCo Vandeweghe,hard,us,R
+833,0.5,0.557142857,0.5,0.44285714299999995,F,Agnieszka Radwanska,CoCo Vandeweghe,hard,us,R
+834,0.4,0.46666666700000003,0.6,0.533333333,F,Lucie Safarova,CoCo Vandeweghe,hard,us,R
+835,0.8,0.509433962,0.2,0.490566038,F,Karolina Pliskova,CoCo Vandeweghe,hard,us,R
+836,0.0,0.45161290299999995,0.0,0.548387097,F,Madison Keys,CoCo Vandeweghe,hard,us,R
+837,0.5,0.447368421,0.5,0.552631579,F,CoCo Vandeweghe,Roberta Vinci,hard,aus,R
+838,0.75,0.428571429,0.25,0.571428571,F,Monica Puig,Roberta Vinci,clay,french,R
+839,0.0,0.5,0.0,0.5,F,Sloane Stephens,Roberta Vinci,hard,us,R
+840,0.5,0.35135135100000003,0.5,0.648648649,F,Kristyna Pliskova,Roberta Vinci,grass,wimbledon,R
+841,1.0,0.48837209299999995,0.0,0.511627907,F,Jana Cepelova,,hard,aus,
+842,0.4,0.529411765,0.6,0.470588235,F,Marina Erakovic,,hard,aus,
+843,0.0,0.44,0.0,0.56,F,Svetlana Kuznetsova,,hard,aus,
+844,0.0,0.592592593,1.0,0.40740740700000005,F,Myrtille Georges,,hard,aus,
+845,0.0,0.5,0.0,0.5,F,Sorana Cirstea,,hard,aus,
+846,0.5,0.58974359,0.5,0.41025641,F,Samantha Crawford,,hard,aus,
+847,0.0,0.50877193,0.0,0.49122807,F,Maria Sakkari,,hard,aus,
+848,0.4,0.5,0.6,0.5,F,Anastasija Sevastova,,hard,aus,
+849,0.5,0.571428571,0.5,0.428571429,F,Sorana Cirstea,,hard,aus,
+850,0.333333333,0.5,0.666666667,0.5,F,CoCo Vandeweghe,,hard,aus,
+851,0.5,0.487179487,0.5,0.512820513,F,Francesca Schiavone,,clay,french,
+852,1.0,0.463414634,0.0,0.5365853660000001,F,Magda Linette,,clay,french,
+853,1.0,0.518518519,0.0,0.481481481,F,Timea Babos,,clay,french,
+854,0.5,0.509433962,0.5,0.490566038,F,Anett Kontaveit,,clay,french,
+855,0.0,0.5121951220000001,0.0,0.487804878,F,Barbora Strycova,,clay,french,
+856,1.0,0.43181818200000005,0.0,0.568181818,F,Yulia Putintseva,,clay,french,
+857,0.0,0.515151515,0.0,0.484848485,F,Agnieszka Radwanska,,clay,french,
+858,0.0,0.509803922,0.0,0.490196078,F,Kristina Mladenovic,,clay,french,
+859,0.0,0.571428571,1.0,0.428571429,F,Caroline Garcia,,clay,french,
+860,0.0,0.541666667,0.0,0.45833333299999995,F,Varvara Lepchenko,,hard,us,
+861,0.0,0.45762711899999997,1.0,0.542372881,F,Mirjana Lucic Baroni,,hard,us,
+862,1.0,0.39285714299999996,0.0,0.607142857,F,Petra Kvitova,,hard,us,
+863,0.333333333,0.48837209299999995,0.666666667,0.511627907,F,Ying Ying Duan,,hard,us,
+864,0.5,0.526315789,0.5,0.473684211,F,Ekaterina Makarova,,hard,us,
+865,0.5,0.545454545,0.5,0.454545455,F,Magdalena Rybarikova,,hard,us,
+866,0.5,0.5365853660000001,0.5,0.463414634,F,Venus Williams,,hard,us,
+867,0.0,0.558139535,0.0,0.441860465,F,Petra Kvitova,,hard,us,
+868,0.0,0.552631579,0.0,0.447368421,F,,Jana Cepelova,hard,aus,R
+869,0.0,0.605263158,0.0,0.39473684200000003,F,Simona Halep,Jana Cepelova,clay,french,R
+870,0.5,0.509433962,0.5,0.490566038,F,Dominika Cibulkova,Jana Cepelova,hard,us,R
+871,0.0,0.5,0.0,0.5,F,Caroline Garcia,Jana Cepelova,grass,wimbledon,R
+872,0.0,0.481481481,1.0,0.518518519,F,Shuai Zhang,Aliaksandra Sasnovich,hard,aus,R
+873,0.0,0.538461538,1.0,0.46153846200000004,F,Viktorija Golubic,Aliaksandra Sasnovich,clay,french,R
+874,0.0,0.5,0.0,0.5,F,Shuai Zhang,Aliaksandra Sasnovich,clay,french,R
+875,1.0,0.487804878,0.0,0.5121951220000001,F,Ashleigh Barty,Aliaksandra Sasnovich,hard,us,R
+876,0.0,0.441176471,1.0,0.558823529,F,Jelena Ostapenko,Aliaksandra Sasnovich,grass,wimbledon,R
+877,1.0,0.558823529,0.0,0.441176471,F,Aliaksandra Sasnovich,Shuai Zhang,hard,aus,R
+878,0.0,0.52238806,1.0,0.47761194,F,Alison Riske,Shuai Zhang,hard,aus,R
+879,0.5,0.5,0.5,0.5,F,Aliaksandra Sasnovich,Shuai Zhang,clay,french,R
+880,0.0,0.5,1.0,0.5,F,Svetlana Kuznetsova,Shuai Zhang,clay,french,R
+881,0.5,0.515151515,0.5,0.484848485,F,Risa Ozaki,Shuai Zhang,hard,us,R
+882,0.0,0.484375,1.0,0.515625,F,Karolina Pliskova,Shuai Zhang,hard,us,R
+883,0.0,0.5,1.0,0.5,F,Viktorija Golubic,Shuai Zhang,grass,wimbledon,R
+884,1.0,0.571428571,0.0,0.428571429,F,Nao Hibino,Anastasija Sevastova,hard,aus,R 
+885,0.0,0.514285714,1.0,0.485714286,F,Kristina Kucova,Anastasija Sevastova,hard,aus,R 
+886,0.333333333,0.516129032,0.666666667,0.48387096799999996,F,,Anastasija Sevastova,hard,aus,R 
+887,0.666666667,0.516129032,0.333333333,0.48387096799999996,F,Annika Beck,Anastasija Sevastova,clay,french,R 
+888,0.5,0.5625,0.5,0.4375,F,Eugenie Bouchard,Anastasija Sevastova,clay,french,R 
+889,0.0,0.62962963,0.0,0.37037037,F,Petra Martic,Anastasija Sevastova,clay,french,R 
+890,0.0,0.452380952,0.0,0.5476190479999999,F,Donna Vekic,Anastasija Sevastova,hard,us,R 
+891,0.0,0.425925926,0.0,0.574074074,F,Maria Sharapova,Anastasija Sevastova,hard,us,R 
+892,1.0,0.435483871,0.0,0.564516129,F,Sloane Stephens,Anastasija Sevastova,hard,us,R 
+893,0.25,0.469387755,0.75,0.530612245,F,Yulia Putintseva,Anastasija Sevastova,grass,wimbledon,R 
+894,0.0,0.5555555560000001,0.0,0.444444444,F,Heather Watson,Anastasija Sevastova,grass,wimbledon,R 
+895,0.0,0.526315789,0.0,0.473684211,F,Anastasija Sevastova,Nao Hibino,hard,aus,R
+896,0.0,0.575757576,1.0,0.424242424,F,Caroline Garcia,Nao Hibino,clay,french,R
+897,1.0,0.46296296299999995,0.0,0.537037037,F,Catherine Bellis,Nao Hibino,hard,us,R
+898,0.0,0.46428571399999996,1.0,0.535714286,F,Lucie Safarova,Nao Hibino,hard,us,R
+899,1.0,0.5,0.0,0.5,F,Madison Keys,Nao Hibino,grass,wimbledon,R
+900,0.5,0.565217391,0.5,0.434782609,F,,Marina Erakovic,hard,aus,R
+901,0.0,0.5365853660000001,1.0,0.463414634,F,Shelby Rogers,Marina Erakovic,clay,french,R
+902,0.0,0.485714286,0.0,0.514285714,F,Simona Halep,Marina Erakovic,grass,wimbledon,R
+903,0.5,0.46,0.5,0.54,F,Shelby Rogers,Simona Halep,hard,aus,R
+904,0.0,0.487179487,0.0,0.512820513,F,Jana Cepelova,Simona Halep,clay,french,R
+905,1.0,0.5,0.0,0.5,F,Tatjana Maria,Simona Halep,clay,french,R
+906,1.0,0.475,0.0,0.525,F,Daria Kasatkina,Simona Halep,clay,french,R
+907,0.0,0.45,0.0,0.55,F,Carla Suarez Navarro,Simona Halep,clay,french,R
+908,0.5,0.467532468,0.5,0.5324675320000001,F,Elina Svitolina,Simona Halep,clay,french,R
+909,0.0,0.5,0.0,0.5,F,Karolina Pliskova,Simona Halep,clay,french,R
+910,0.0,0.569620253,1.0,0.43037974700000003,F,Maria Sharapova,Simona Halep,hard,us,R
+911,0.0,0.393939394,1.0,0.606060606,F,Marina Erakovic,Simona Halep,grass,wimbledon,R
+912,0.666666667,0.46808510600000003,0.333333333,0.531914894,F,Beatriz Haddad Maia,Simona Halep,grass,wimbledon,R
+913,0.6,0.5,0.4,0.5,F,Shuai Peng,Simona Halep,grass,wimbledon,R
+914,0.0,0.583333333,1.0,0.41666666700000005,F,Victoria Azarenka,Simona Halep,grass,wimbledon,R
+915,0.666666667,0.460526316,0.333333333,0.539473684,F,Johanna Konta,Simona Halep,grass,wimbledon,R
+916,0.5,0.5,0.5,0.5,F,Simona Halep,Shelby Rogers,hard,aus,R
+917,0.6,0.470588235,0.4,0.529411765,F,Ashleigh Barty,Shelby Rogers,hard,aus,R
+918,0.5,0.48837209299999995,0.5,0.511627907,F,Marina Erakovic,Shelby Rogers,clay,french,R
+919,0.5,0.490196078,0.5,0.509803922,F,Cagla Buyukakcay,Shelby Rogers,clay,french,R
+920,0.5,0.44594594600000004,0.5,0.554054054,F,Kristina Mladenovic,Shelby Rogers,clay,french,R
+921,1.0,0.46153846200000004,0.0,0.538461538,F,Daria Gavrilova,Shelby Rogers,hard,us,R
+922,0.5,0.565217391,0.5,0.434782609,F,Elina Svitolina,Shelby Rogers,hard,us,R
+923,0.4,0.5,0.6,0.5,F,Julia Boserup,Shelby Rogers,grass,wimbledon,R
+924,0.428571429,0.483333333,0.571428571,0.5166666670000001,F,Lucie Safarova,Shelby Rogers,grass,wimbledon,R
+925,0.666666667,0.538461538,0.333333333,0.46153846200000004,F,Angelique Kerber,Shelby Rogers,grass,wimbledon,R
+926,0.375,0.40625,0.625,0.59375,F,Annika Beck,Ashleigh Barty,hard,aus,R
+927,0.571428571,0.45945945899999996,0.428571429,0.540540541,F,Shelby Rogers,Ashleigh Barty,hard,aus,R
+928,1.0,0.526315789,0.0,0.473684211,F,Mona Barthel,Ashleigh Barty,hard,aus,R
+929,0.0,0.48387096799999996,1.0,0.516129032,F,Madison Keys,Ashleigh Barty,clay,french,R
+930,0.636363636,0.52173913,0.363636364,0.47826087,F,Aliaksandra Sasnovich,Ashleigh Barty,hard,us,R
+931,0.0,0.5,1.0,0.5,F,Sloane Stephens,Ashleigh Barty,hard,us,R
+932,0.6,0.43859649100000003,0.4,0.561403509,F,Elina Svitolina,Ashleigh Barty,grass,wimbledon,R
+933,1.0,0.53125,0.0,0.46875,F,Ashleigh Barty,Annika Beck,hard,aus,R
+934,0.0,0.487179487,0.0,0.512820513,F,Anastasija Sevastova,Annika Beck,clay,french,R
+935,0.0,0.419354839,0.0,0.580645161,F,Polona Hercog,Annika Beck,grass,wimbledon,R
+936,0.4,0.42,0.6,0.58,F,Destanee Aiava,Mona Barthel,hard,aus,R
+937,0.4,0.567567568,0.6,0.43243243200000003,F,Monica Puig,Mona Barthel,hard,aus,R
+938,0.333333333,0.467741935,0.666666667,0.532258065,F,Ashleigh Barty,Mona Barthel,hard,aus,R
+939,0.0,0.541666667,1.0,0.45833333299999995,F,Venus Williams,Mona Barthel,hard,aus,R
+940,0.0,0.486486486,0.0,0.513513514,F,Tsvetana Pironkova,Mona Barthel,clay,french,R
+941,0.666666667,0.45,0.333333333,0.55,F,Ekaterina Makarova,Mona Barthel,hard,us,R
+942,0.333333333,0.490566038,0.666666667,0.509433962,F,Coco Vandeweghe,Mona Barthel,grass,wimbledon,R
+943,0.0,0.473684211,1.0,0.526315789,F,Mona Barthel,Destanee Aiava,hard,aus,R
+944,0.0,0.39130434799999997,1.0,0.608695652,F,Monica Puig,Patricia Maria Tig,hard,aus,R
+945,0.0,0.48,1.0,0.52,F,Patricia Maria Tig,Monica Puig,hard,aus,R
+946,1.0,0.45945945899999996,0.0,0.540540541,F,Mona Barthel,Monica Puig,hard,aus,R
+947,1.0,0.522727273,0.0,0.477272727,F,Roberta Vinci,Monica Puig,clay,french,R
+948,1.0,0.515151515,0.0,0.484848485,F,Jelena Ostapenko,Monica Puig,clay,french,R
+949,0.0,0.444444444,1.0,0.5555555560000001,F,Timea Bacsinszky,Monica Puig,grass,wimbledon,R
+950,0.5,0.425,0.5,0.575,F,Varvara Lepchenko,Kiki Bertens,hard,aus,R
+951,0.636363636,0.605263158,0.363636364,0.39473684200000003,F,Ajla Tomljanovic,Kiki Bertens,clay,french,R
+952,0.5,0.657894737,0.5,0.342105263,F,Catherine Bellis,Kiki Bertens,clay,french,R
+953,0.5,0.38596491200000005,0.5,0.614035088,F,Sorana Cirstea,Kiki Bertens,grass,wimbledon,R
+954,0.5,0.441176471,0.5,0.558823529,F,Kiki Bertens,Varvara Lepchenko,hard,aus,R
+955,0.5,0.50617284,0.5,0.49382716,F,Ying Ying Duan,Varvara Lepchenko,hard,aus,R
+956,0.333333333,0.482758621,0.666666667,0.517241379,F,Elena Vesnina,Varvara Lepchenko,clay,french,R
+957,0.0,0.470588235,0.0,0.529411765,F,,Varvara Lepchenko,hard,us,R
+958,1.0,0.485714286,0.0,0.514285714,F,Lauren Davis,Varvara Lepchenko,grass,wimbledon,R
+959,0.0,0.525,0.0,0.475,F,Polona Hercog,Varvara Lepchenko,grass,wimbledon,R
+960,0.0,0.5,1.0,0.5,F,Rebecca Sramkova,Ying Ying Duan,hard,aus,R
+961,1.0,0.49367088600000003,0.0,0.506329114,F,Varvara Lepchenko,Ying Ying Duan,hard,aus,R
+962,1.0,0.516129032,0.0,0.48387096799999996,F,Venus Williams,Ying Ying Duan,hard,aus,R
+963,1.0,0.46875,0.0,0.53125,F,Tatjana Maria,Ying Ying Duan,clay,french,R
+964,0.333333333,0.474576271,0.666666667,0.525423729,F,Claire Liu,Ying Ying Duan,hard,us,R
+965,0.0,0.484848485,0.0,0.515151515,F,,Ying Ying Duan,hard,us,R
+966,0.333333333,0.444444444,0.666666667,0.5555555560000001,F,Ana Bogdan,Ying Ying Duan,grass,wimbledon,R
+967,0.5,0.222222222,0.5,0.7777777779999999,F,Ying Ying Duan,Rebecca Sramkova,hard,aus,R
+968,0.28571428600000004,0.452380952,0.7142857140000001,0.5476190479999999,F,Kurumi Nara,Stefanie Voegele,hard,aus,R
+969,0.4,0.46153846200000004,0.6,0.538461538,F,Venus Williams,Stefanie Voegele,hard,aus,R
+970,0.0,0.428571429,0.0,0.571428571,F,Stefanie Voegele,Kurumi Nara,hard,aus,R
+971,1.0,0.44594594600000004,0.0,0.554054054,F,Amanda Anisimova,Kurumi Nara,clay,french,R
+972,0.0,0.5,0.0,0.5,F,Venus Williams,Kurumi Nara,clay,french,R
+973,0.0,0.513513514,0.0,0.486486486,F,Sara Sorribes Tormo,Kurumi Nara,hard,us,R
+974,0.0,0.47761194,1.0,0.52238806,F,Svetlana Kuznetsova,Kurumi Nara,hard,us,R
+975,0.0,0.475,0.0,0.525,F,Lucie Safarova,Kurumi Nara,hard,us,R
+976,0.0,0.469387755,0.0,0.530612245,F,Francoise Abanda,Kurumi Nara,grass,wimbledon,R
+977,0.0,0.5,1.0,0.5,F,Venus Williams,Kateryna Kozlova,hard,aus,R
+978,1.0,0.46808510600000003,0.0,0.531914894,F,Lesia Tsurenko,Kateryna Kozlova,clay,french,R
+979,0.0,0.454545455,1.0,0.545454545,F,Kateryna Kozlova,Venus Williams,hard,aus,R
+980,0.75,0.551724138,0.25,0.448275862,F,Stefanie Voegele,Venus Williams,hard,aus,R
+981,0.333333333,0.5,0.666666667,0.5,F,Ying Ying Duan,Venus Williams,hard,aus,R
+982,0.75,0.489795918,0.25,0.510204082,F,Mona Barthel,Venus Williams,hard,aus,R
+983,0.75,0.404761905,0.25,0.595238095,F,Anastasia Pavlyuchenkova,Venus Williams,hard,aus,R
+984,0.363636364,0.548387097,0.636363636,0.45161290299999995,F,CoCo Vandeweghe,Venus Williams,hard,aus,R
+985,0.25,0.5,0.75,0.5,F,Qiang Wang,Venus Williams,clay,french,R
+986,0.0,0.5,1.0,0.5,F,Kurumi Nara,Venus Williams,clay,french,R
+987,0.0,0.454545455,1.0,0.545454545,F,Elise Mertens,Venus Williams,clay,french,R
+988,0.0,0.492537313,1.0,0.5074626870000001,F,Timea Bacsinszky,Venus Williams,clay,french,R
+989,0.5,0.463414634,0.5,0.5365853660000001,F,Viktoria Kuzmova,Venus Williams,hard,us,R
+990,0.833333333,0.6,0.166666667,0.4,F,Oceane Dodin,Venus Williams,hard,us,R
+991,0.0,0.454545455,0.0,0.545454545,F,Maria Sakkari,Venus Williams,hard,us,R
+992,0.5,0.452830189,0.5,0.5471698110000001,F,,Venus Williams,hard,us,R
+993,0.5,0.5,0.5,0.5,F,Petra Kvitova,Venus Williams,hard,us,R
+994,0.666666667,0.46428571399999996,0.333333333,0.535714286,F,Sloane Stephens,Venus Williams,hard,us,R
+995,0.0,0.526315789,1.0,0.473684211,F,Elise Mertens,Venus Williams,grass,wimbledon,R
+996,0.666666667,0.481481481,0.333333333,0.518518519,F,Qiang Wang,Venus Williams,grass,wimbledon,R
+997,0.4,0.512820513,0.6,0.487179487,F,Naomi Osaka,Venus Williams,grass,wimbledon,R
+998,0.5,0.423076923,0.5,0.576923077,F,Ana Konjuh,Venus Williams,grass,wimbledon,R
+999,0.25,0.487804878,0.75,0.5121951220000001,F,Jelena Ostapenko,Venus Williams,grass,wimbledon,R
+1000,0.0,0.454545455,0.0,0.545454545,F,Johanna Konta,Venus Williams,grass,wimbledon,R
+1001,1.0,0.5,0.0,0.5,F,Galina Voskoboeva,Elina Svitolina,hard,aus,R
+1002,0.5,0.39285714299999996,0.5,0.607142857,F,Julia Boserup,Elina Svitolina,hard,aus,R
+1003,0.5,0.54,0.5,0.46,F,Anastasia Pavlyuchenkova,Elina Svitolina,hard,aus,R
+1004,0.0,0.513513514,1.0,0.486486486,F,Yaroslava Shvedova,Elina Svitolina,clay,french,R
+1005,0.0,0.48837209299999995,1.0,0.511627907,F,Tsvetana Pironkova,Elina Svitolina,clay,french,R
+1006,0.0,0.538461538,1.0,0.46153846200000004,F,Magda Linette,Elina Svitolina,clay,french,R
+1007,0.4,0.514285714,0.6,0.485714286,F,Petra Martic,Elina Svitolina,clay,french,R
+1008,1.0,0.565217391,0.0,0.434782609,F,Simona Halep,Elina Svitolina,clay,french,R
+1009,0.666666667,0.434782609,0.333333333,0.565217391,F,Katerina Siniakova,Elina Svitolina,hard,us,R
+1010,0.5,0.529411765,0.5,0.470588235,F,Evgeniya Rodina,Elina Svitolina,hard,us,R
+1011,0.25,0.5111111110000001,0.75,0.488888889,F,Shelby Rogers,Elina Svitolina,hard,us,R
+1012,1.0,0.45,0.0,0.55,F,Madison Keys,Elina Svitolina,hard,us,R
+1013,0.4,0.526315789,0.6,0.473684211,F,Ashleigh Barty,Elina Svitolina,grass,wimbledon,R
+1014,0.666666667,0.48,0.333333333,0.52,F,Francesca Schiavone,Elina Svitolina,grass,wimbledon,R
+1015,0.333333333,0.485714286,0.666666667,0.514285714,F,Carina Witthoeft,Elina Svitolina,grass,wimbledon,R
+1016,0.8,0.5,0.2,0.5,F,Jelena Ostapenko,Elina Svitolina,grass,wimbledon,R
+1017,1.0,0.46875,0.0,0.53125,F,Elina Svitolina,Galina Voskoboeva,hard,aus,R
+1018,1.0,0.571428571,0.0,0.428571429,F,Julia Boserup,Francesca Schiavone,hard,aus,R
+1019,0.0,0.551724138,1.0,0.448275862,F,,Francesca Schiavone,clay,french,R
+1020,1.0,0.533333333,0.0,0.46666666700000003,F,Mandy Minella,Francesca Schiavone,grass,wimbledon,R
+1021,0.0,0.470588235,1.0,0.529411765,F,Elina Svitolina,Francesca Schiavone,grass,wimbledon,R
+1022,0.666666667,0.363636364,0.333333333,0.636363636,F,Francesca Schiavone,Julia Boserup,hard,aus,R
+1023,1.0,0.46,0.0,0.54,F,Elina Svitolina,Julia Boserup,hard,aus,R
+1024,0.0,0.45161290299999995,0.0,0.548387097,F,Petra Kvitova,Julia Boserup,clay,french,R
+1025,0.0,0.418181818,1.0,0.581818182,F,Shelby Rogers,Julia Boserup,grass,wimbledon,R
+1026,0.0,0.43902439,1.0,0.56097561,F,Natalia Vikhlyantseva,Vania King,hard,aus,R
+1027,1.0,0.538461538,0.0,0.46153846200000004,F,Vania King,Natalia Vikhlyantseva,hard,aus,R
+1028,0.0,0.457142857,0.0,0.542857143,F,Anastasia Pavlyuchenkova,Natalia Vikhlyantseva,hard,aus,R
+1029,0.0,0.510204082,1.0,0.489795918,F,Johanna Larsson,Natalia Vikhlyantseva,clay,french,R
+1030,0.333333333,0.543859649,0.666666667,0.456140351,F,Donna Vekic,Natalia Vikhlyantseva,grass,wimbledon,R
+1031,0.0,0.52173913,1.0,0.47826087,F,Anastasia Pavlyuchenkova,Evgeniya Rodina,hard,aus,R
+1032,0.0,0.41463414600000004,0.0,0.585365854,F,Bethanie Mattek Sands,Evgeniya Rodina,clay,french,R
+1033,1.0,0.441860465,0.0,0.558139535,F,Eugenie Bouchard,Evgeniya Rodina,hard,us,R
+1034,0.0,0.5365853660000001,1.0,0.463414634,F,Elina Svitolina,Evgeniya Rodina,hard,us,R
+1035,0.0,0.490196078,0.0,0.509803922,F,Karolina Pliskova,Evgeniya Rodina,grass,wimbledon,R
+1036,0.666666667,0.475,0.333333333,0.525,F,Evgeniya Rodina,Anastasia Pavlyuchenkova,hard,aus,R
+1037,0.5,0.540540541,0.5,0.45945945899999996,F,Natalia Vikhlyantseva,Anastasia Pavlyuchenkova,hard,aus,R
+1038,0.8,0.545454545,0.2,0.454545455,F,Elina Svitolina,Anastasia Pavlyuchenkova,hard,aus,R
+1039,0.0,0.48387096799999996,1.0,0.516129032,F,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,hard,aus,R
+1040,0.5,0.510204082,0.5,0.489795918,F,Venus Williams,Anastasia Pavlyuchenkova,hard,aus,R
+1041,0.25,0.441176471,0.75,0.558823529,F,Veronica Cepede Royg,Anastasia Pavlyuchenkova,clay,french,R
+1042,0.333333333,0.49411764700000005,0.666666667,0.505882353,F,Arina Rodionova,Anastasia Pavlyuchenkova,grass,wimbledon,R
+1043,0.5,0.4625,0.5,0.5375,F,Jelena Jankovic,Laura Siegemund,hard,aus,R
+1044,0.5,0.480769231,0.5,0.519230769,F,Laura Siegemund,Jelena Jankovic,hard,aus,R
+1045,0.0,0.511627907,0.0,0.48837209299999995,F,Julia Goerges,Jelena Jankovic,hard,aus,R
+1046,0.0,0.409090909,1.0,0.590909091,F,Svetlana Kuznetsova,Jelena Jankovic,hard,aus,R
+1047,0.75,0.514285714,0.25,0.485714286,F,Richel Hogenkamp,Jelena Jankovic,clay,french,R
+1048,0.5,0.490196078,0.5,0.509803922,F,Petra Kvitova,Jelena Jankovic,hard,us,R
+1049,1.0,0.46153846200000004,0.0,0.538461538,F,Agnieszka Radwanska,Jelena Jankovic,grass,wimbledon,R
+1050,0.333333333,0.50877193,0.666666667,0.49122807,F,Julia Goerges,Katerina Siniakova,hard,aus,R
+1051,0.0,0.489361702,1.0,0.5106382979999999,F,Ekaterina Alexandrova,Katerina Siniakova,clay,french,R
+1052,0.0,0.589285714,0.0,0.41071428600000004,F,Elina Svitolina,Katerina Siniakova,hard,us,R
+1053,0.0,0.45833333299999995,1.0,0.541666667,F,Maria Sakkari,Katerina Siniakova,grass,wimbledon,R
+1054,0.28571428600000004,0.46808510600000003,0.7142857140000001,0.531914894,F,Katerina Siniakova,Julia Goerges,hard,aus,R
+1055,0.25,0.424242424,0.75,0.575757576,F,Jelena Jankovic,Julia Goerges,hard,aus,R
+1056,0.333333333,0.507042254,0.666666667,0.49295774600000003,F,Madison Brengle,Julia Goerges,clay,french,R
+1057,0.333333333,0.52,0.666666667,0.48,F,Saisai Zheng,Julia Goerges,hard,us,R
+1058,0.6,0.516129032,0.4,0.48387096799999996,F,Aleksandra Krunic,Julia Goerges,hard,us,R
+1059,0.75,0.511627907,0.25,0.48837209299999995,F,Sloane Stephens,Julia Goerges,hard,us,R
+1060,0.5555555560000001,0.42666666700000005,0.444444444,0.573333333,F,Lesia Tsurenko,Julia Goerges,grass,wimbledon,R
+1061,0.0,0.583333333,0.0,0.41666666700000005,F,Jaimee Fourlis,Anna Tatishvili,hard,aus,R
+1062,1.0,0.433333333,0.0,0.566666667,F,Anna Tatishvili,Jaimee Fourlis,hard,aus,R
+1063,0.0,0.48837209299999995,0.0,0.511627907,F,Svetlana Kuznetsova,Jaimee Fourlis,hard,aus,R
+1064,1.0,0.436363636,0.0,0.563636364,F,Caroline Wozniacki,Jaimee Fourlis,clay,french,R
+1065,0.0,0.46428571399999996,1.0,0.535714286,F,,Svetlana Kuznetsova,hard,aus,R
+1066,0.0,0.540540541,1.0,0.45945945899999996,F,Jaimee Fourlis,Svetlana Kuznetsova,hard,aus,R
+1067,0.25,0.5,0.75,0.5,F,Jelena Jankovic,Svetlana Kuznetsova,hard,aus,R
+1068,0.0,0.534883721,1.0,0.46511627899999997,F,Anastasia Pavlyuchenkova,Svetlana Kuznetsova,hard,aus,R
+1069,0.333333333,0.47540983600000003,0.666666667,0.524590164,F,Christina McHale,Svetlana Kuznetsova,clay,french,R
+1070,0.333333333,0.5,0.666666667,0.5,F,Oceane Dodin,Svetlana Kuznetsova,clay,french,R
+1071,0.0,0.515463918,1.0,0.48453608200000003,F,Shuai Zhang,Svetlana Kuznetsova,clay,french,R
+1072,1.0,0.509433962,0.0,0.490566038,F,Caroline Wozniacki,Svetlana Kuznetsova,clay,french,R
+1073,1.0,0.48387096799999996,0.0,0.516129032,F,Marketa Vondrousova,Svetlana Kuznetsova,hard,us,R
+1074,0.333333333,0.5,0.666666667,0.5,F,Kurumi Nara,Svetlana Kuznetsova,hard,us,R
+1075,1.0,0.486486486,0.0,0.513513514,F,Ons Jabeur,Svetlana Kuznetsova,grass,wimbledon,R
+1076,0.2,0.5,0.8,0.5,F,Ekaterina Makarova,Svetlana Kuznetsova,grass,wimbledon,R
+1077,0.0,0.525,0.0,0.475,F,Polona Hercog,Svetlana Kuznetsova,grass,wimbledon,R
+1078,0.5,0.473684211,0.5,0.526315789,F,Agnieszka Radwanska,Svetlana Kuznetsova,grass,wimbledon,R
+1079,1.0,0.35483871,0.0,0.64516129,F,Garbine Muguruza,Svetlana Kuznetsova,grass,wimbledon,R
+1080,0.2,0.31578947399999996,0.8,0.684210526,F,Sara Sorribes Tormo,Karolina Pliskova,hard,aus,R
+1081,0.444444444,0.5,0.5555555560000001,0.5,F,Anna Blinkova,Karolina Pliskova,hard,aus,R
+1082,0.6315789470000001,0.507692308,0.36842105299999994,0.492307692,F,Jelena Ostapenko,Karolina Pliskova,hard,aus,R
+1083,0.454545455,0.48387096799999996,0.545454545,0.516129032,F,Daria Gavrilova,Karolina Pliskova,hard,aus,R
+1084,0.625,0.428571429,0.375,0.571428571,F,Mirjana Lucic Baroni,Karolina Pliskova,hard,aus,R
+1085,0.0,0.4,0.0,0.6,F,Saisai Zheng,Karolina Pliskova,clay,french,R
+1086,0.2,0.5,0.8,0.5,F,Ekaterina Alexandrova,Karolina Pliskova,clay,french,R
+1087,0.5,0.5862068970000001,0.5,0.413793103,F,Carina Witthoeft,Karolina Pliskova,clay,french,R
+1088,0.75,0.452830189,0.25,0.5471698110000001,F,Veronica Cepede Royg,Karolina Pliskova,clay,french,R
+1089,0.571428571,0.489361702,0.428571429,0.5106382979999999,F,Caroline Garcia,Karolina Pliskova,clay,french,R
+1090,0.28571428600000004,0.516129032,0.7142857140000001,0.48387096799999996,F,Simona Halep,Karolina Pliskova,clay,french,R
+1091,0.571428571,0.4,0.428571429,0.6,F,Magda Linette,Karolina Pliskova,hard,us,R
+1092,0.363636364,0.482758621,0.636363636,0.517241379,F,Nicole Gibbs,Karolina Pliskova,hard,us,R
+1093,0.333333333,0.5,0.666666667,0.5,F,Shuai Zhang,Karolina Pliskova,hard,us,R
+1094,0.666666667,0.541666667,0.333333333,0.45833333299999995,F,Jennifer Brady,Karolina Pliskova,hard,us,R
+1095,0.5,0.526315789,0.5,0.473684211,F,CoCo Vandeweghe,Karolina Pliskova,hard,us,R
+1096,0.333333333,0.5555555560000001,0.666666667,0.444444444,F,Evgeniya Rodina,Karolina Pliskova,grass,wimbledon,R
+1097,0.833333333,0.571428571,0.166666667,0.428571429,F,Magdalena Rybarikova,Karolina Pliskova,grass,wimbledon,R
+1098,1.0,0.5,0.0,0.5,F,Karolina Pliskova,Sara Sorribes Tormo,hard,aus,R
+1099,0.0,0.6,0.0,0.4,F,Timea Bacsinszky,Sara Sorribes Tormo,clay,french,R
+1100,0.0,0.565217391,0.0,0.434782609,F,Kurumi Nara,Sara Sorribes Tormo,hard,us,R
+1101,0.0,0.447368421,0.0,0.552631579,F,Naomi Osaka,Sara Sorribes Tormo,grass,wimbledon,R
+1102,0.0,0.594594595,0.0,0.405405405,F,Monica Niculescu,Anna Blinkova,hard,aus,R 
+1103,0.0,0.3125,1.0,0.6875,F,Karolina Pliskova,Anna Blinkova,hard,aus,R 
+1104,0.375,0.509433962,0.625,0.490566038,F,Elena Vesnina,Anna Blinkova,grass,wimbledon,R 
+1105,0.0,0.454545455,0.0,0.545454545,F,Anna Blinkova,Monica Niculescu,hard,aus,R
+1106,0.0,0.506024096,0.0,0.49397590399999997,F,Jennifer Brady,Monica Niculescu,hard,us,R
+1107,0.0,0.5,0.0,0.5,F,Magdalena Rybarikova,Monica Niculescu,grass,wimbledon,R
+1108,0.0,0.47540983600000003,1.0,0.524590164,F,Yulia Putintseva,Lara Arruabarrena,hard,aus,R
+1109,0.0,0.454545455,0.0,0.545454545,F,Dominika Cibulkova,Lara Arruabarrena,clay,french,R
+1110,0.333333333,0.425,0.666666667,0.575,F,Jelena Ostapenko,Lara Arruabarrena,hard,us,R
+1111,0.0,0.583333333,1.0,0.41666666700000005,F,Anett Kontaveit,Lara Arruabarrena,grass,wimbledon,R
+1112,0.666666667,0.515151515,0.333333333,0.484848485,F,Lara Arruabarrena,Yulia Putintseva,hard,aus,R
+1113,0.666666667,0.5365853660000001,0.333333333,0.463414634,F,Jelena Ostapenko,Yulia Putintseva,hard,aus,R
+1114,1.0,0.5,0.0,0.5,F,Myrtille Georges,Yulia Putintseva,clay,french,R
+1115,0.0,0.539473684,0.0,0.460526316,F,Johanna Larsson,Yulia Putintseva,clay,french,R
+1116,0.0,0.542857143,0.0,0.457142857,F,,Yulia Putintseva,clay,french,R
+1117,0.0,0.575,1.0,0.425,F,Agnieszka Radwanska,Yulia Putintseva,hard,us,R
+1118,0.0,0.514285714,0.0,0.485714286,F,Anastasija Sevastova,Yulia Putintseva,grass,wimbledon,R
+1119,0.6,0.456140351,0.4,0.543859649,F,Naomi Broady,Daria Gavrilova,hard,aus,R
+1120,1.0,0.5166666670000001,0.0,0.483333333,F,Ana Konjuh,Daria Gavrilova,hard,aus,R
+1121,1.0,0.5660377360000001,0.0,0.433962264,F,Timea Bacsinszky,Daria Gavrilova,hard,aus,R
+1122,0.5,0.529411765,0.5,0.470588235,F,Karolina Pliskova,Daria Gavrilova,hard,aus,R
+1123,0.0,0.527272727,1.0,0.47272727299999995,F,Elise Mertens,Daria Gavrilova,clay,french,R
+1124,0.0,0.576923077,0.0,0.423076923,F,Allie Kiick,Daria Gavrilova,hard,us,R
+1125,0.4,0.473684211,0.6,0.526315789,F,Shelby Rogers,Daria Gavrilova,hard,us,R
+1126,0.28571428600000004,0.48192771100000004,0.7142857140000001,0.518072289,F,Petra Martic,Daria Gavrilova,grass,wimbledon,R
+1127,0.473684211,0.423076923,0.526315789,0.576923077,F,Daria Gavrilova,Naomi Broady,hard,aus,R
+1128,0.333333333,0.514285714,0.666666667,0.485714286,F,Irina Camelia Begu,Naomi Broady,grass,wimbledon,R
+1129,0.25,0.541666667,0.75,0.45833333299999995,F,Saisai Zheng,Danka Kovinic,hard,aus,R
+1130,1.0,0.454545455,0.0,0.545454545,F,Timea Bacsinszky,Danka Kovinic,hard,aus,R
+1131,1.0,0.620689655,0.0,0.379310345,F,Jennifer Brady,Danka Kovinic,grass,wimbledon,R
+1132,0.0,0.535714286,0.0,0.46428571399999996,F,Danka Kovinic,Saisai Zheng,hard,aus,R
+1133,0.0,0.509433962,0.0,0.490566038,F,Karolina Pliskova,Saisai Zheng,clay,french,R
+1134,1.0,0.542857143,0.0,0.457142857,F,Alison Van Uytvanck,Saisai Zheng,hard,us,R
+1135,1.0,0.565217391,0.0,0.434782609,F,Julia Goerges,Saisai Zheng,hard,us,R
+1136,1.0,0.516129032,0.0,0.48387096799999996,F,Daria Kasatkina,Saisai Zheng,grass,wimbledon,R
+1137,0.333333333,0.53030303,0.666666667,0.46969697,F,Timea Bacsinszky,Camila Giorgi,hard,aus,R
+1138,1.0,0.6190476189999999,0.0,0.380952381,F,Oceane Dodin,Camila Giorgi,clay,french,R
+1139,0.5,0.46969697,0.5,0.53030303,F,Alize Cornet,Camila Giorgi,grass,wimbledon,R
+1140,0.5,0.428571429,0.5,0.571428571,F,Madison Keys,Camila Giorgi,grass,wimbledon,R
+1141,0.8,0.5,0.2,0.5,F,Jelena Ostapenko,Camila Giorgi,grass,wimbledon,R
+1142,0.4,0.484375,0.6,0.515625,F,Camila Giorgi,Timea Bacsinszky,hard,aus,R
+1143,0.5,0.469387755,0.5,0.530612245,F,Danka Kovinic,Timea Bacsinszky,hard,aus,R
+1144,0.75,0.507042254,0.25,0.49295774600000003,F,Daria Gavrilova,Timea Bacsinszky,hard,aus,R
+1145,0.0,0.5,0.0,0.5,F,Sara Sorribes Tormo,Timea Bacsinszky,clay,french,R
+1146,0.0,0.5,0.0,0.5,F,Madison Brengle,Timea Bacsinszky,clay,french,R
+1147,0.0,0.387096774,0.0,0.612903226,F,Ons Jabeur,Timea Bacsinszky,clay,french,R
+1148,0.0,0.5,0.0,0.5,F,Venus Williams,Timea Bacsinszky,clay,french,R
+1149,1.0,0.47916666700000005,0.0,0.520833333,F,Kristina Mladenovic,Timea Bacsinszky,clay,french,R
+1150,0.5,0.507692308,0.5,0.492307692,F,Jelena Ostapenko,Timea Bacsinszky,clay,french,R
+1151,0.666666667,0.448275862,0.333333333,0.551724138,F,Monica Puig,Timea Bacsinszky,grass,wimbledon,R
+1152,0.666666667,0.578947368,0.333333333,0.42105263200000004,F,Kristina Kucova,Timea Bacsinszky,grass,wimbledon,R
+1153,0.0,0.52173913,1.0,0.47826087,F,Agnieszka Radwanska,Timea Bacsinszky,grass,wimbledon,R
+1154,0.25,0.428571429,0.75,0.571428571,F,Ana Bogdan,Elena Vesnina,hard,aus,R
+1155,0.666666667,0.571428571,0.333333333,0.428571429,F,Mandy Minella,Elena Vesnina,hard,aus,R
+1156,0.333333333,0.540540541,0.666666667,0.45945945899999996,F,Jennifer Brady,Elena Vesnina,hard,aus,R
+1157,0.4,0.5625,0.6,0.4375,F,Beatriz Haddad Maia,Elena Vesnina,clay,french,R
+1158,0.5,0.5,0.5,0.5,F,Varvara Lepchenko,Elena Vesnina,clay,french,R
+1159,0.5,0.5555555560000001,0.5,0.444444444,F,Carla Suarez Navarro,Elena Vesnina,clay,french,R
+1160,0.0,0.52173913,0.0,0.47826087,F,Kirsten Flipkens,Elena Vesnina,hard,us,R
+1161,0.0,0.46969697,0.0,0.53030303,F,Madison Keys,Elena Vesnina,hard,us,R
+1162,0.0,0.528571429,1.0,0.471428571,F,Anna Blinkova,Elena Vesnina,grass,wimbledon,R
+1163,0.0,0.5106382979999999,0.0,0.489361702,F,Victoria Azarenka,Elena Vesnina,grass,wimbledon,R
+1164,1.0,0.696969697,0.0,0.303030303,F,Elena Vesnina,Ana Bogdan,hard,aus,R
+1165,0.333333333,0.47692307700000003,0.666666667,0.523076923,F,Taylor Townsend,Ana Bogdan,hard,us,R
+1166,0.8,0.39285714299999996,0.2,0.607142857,F,Ying Ying Duan,Ana Bogdan,grass,wimbledon,R
+1167,1.0,0.5625,0.0,0.4375,F,Caroline Garcia,Ana Bogdan,grass,wimbledon,R
+1168,0.428571429,0.535714286,0.571428571,0.46428571399999996,F,Maryna Zanevska,Jennifer Brady,hard,aus,R
+1169,0.46153846200000004,0.441176471,0.538461538,0.558823529,F,Heather Watson,Jennifer Brady,hard,aus,R
+1170,0.2,0.433333333,0.8,0.566666667,F,Elena Vesnina,Jennifer Brady,hard,aus,R
+1171,0.0,0.409090909,0.0,0.590909091,F,Mirjana Lucic Baroni,Jennifer Brady,hard,aus,R
+1172,0.625,0.5737704920000001,0.375,0.426229508,F,Kristina Mladenovic,Jennifer Brady,clay,french,R
+1173,0.0,0.580645161,0.0,0.419354839,F,Barbora Strycova,Jennifer Brady,hard,us,R
+1174,0.666666667,0.507692308,0.333333333,0.492307692,F,Monica Niculescu,Jennifer Brady,hard,us,R
+1175,0.0,0.4375,1.0,0.5625,F,Karolina Pliskova,Jennifer Brady,hard,us,R
+1176,0.333333333,0.448275862,0.666666667,0.551724138,F,Danka Kovinic,Jennifer Brady,grass,wimbledon,R
+1177,0.28571428600000004,0.444444444,0.7142857140000001,0.5555555560000001,F,Dominika Cibulkova,Jennifer Brady,grass,wimbledon,R
+1178,0.0,0.4,1.0,0.6,F,Jennifer Brady,Maryna Zanevska,hard,aus,R
+1179,0.28571428600000004,0.45,0.7142857140000001,0.55,F,Heather Watson,Maryna Zanevska,grass,wimbledon,R
+1180,0.5,0.428571429,0.5,0.571428571,F,Samantha Stosur,Heather Watson,hard,aus,R
+1181,0.0,0.422535211,1.0,0.577464789,F,Jennifer Brady,Heather Watson,hard,aus,R
+1182,0.333333333,0.5,0.666666667,0.5,F,Maryna Zanevska,Heather Watson,grass,wimbledon,R
+1183,0.0,0.517241379,1.0,0.482758621,F,Anastasija Sevastova,Heather Watson,grass,wimbledon,R
+1184,0.25,0.483333333,0.75,0.5166666670000001,F,Victoria Azarenka,Heather Watson,grass,wimbledon,R
+1185,0.5,0.547945205,0.5,0.452054795,F,Heather Watson,Samantha Stosur,hard,aus,R
+1186,0.0,0.447368421,1.0,0.552631579,F,Kristina Kucova,Samantha Stosur,clay,french,R
+1187,0.0,0.482758621,1.0,0.517241379,F,Kirsten Flipkens,Samantha Stosur,clay,french,R
+1188,0.25,0.533333333,0.75,0.46666666700000003,F,Bethanie Mattek Sands,Samantha Stosur,clay,french,R
+1189,0.75,0.603773585,0.25,0.396226415,F,Jelena Ostapenko,Samantha Stosur,clay,french,R
+1190,0.0,0.423076923,1.0,0.576923077,F,,Myrtille Georges,hard,aus,R 
+1191,0.0,0.434782609,0.0,0.565217391,F,Yulia Putintseva,Myrtille Georges,clay,french,R 
+1192,1.0,0.457142857,0.0,0.542857143,F,Anett Kontaveit,Maria Sakkari,hard,aus,R
+1193,0.666666667,0.43243243200000003,0.333333333,0.567567568,F,,Maria Sakkari,hard,aus,R
+1194,0.0,0.419354839,0.0,0.580645161,F,Mirjana Lucic Baroni,Maria Sakkari,hard,aus,R
+1195,0.0,0.56097561,0.0,0.43902439,F,Carla Suarez Navarro,Maria Sakkari,clay,french,R
+1196,0.0,0.481481481,0.0,0.518518519,F,Venus Williams,Maria Sakkari,hard,us,R
+1197,0.428571429,0.43243243200000003,0.571428571,0.567567568,F,Katerina Siniakova,Maria Sakkari,grass,wimbledon,R
+1198,0.333333333,0.492753623,0.666666667,0.5072463770000001,F,Kristyna Pliskova,Maria Sakkari,grass,wimbledon,R
+1199,0.666666667,0.473684211,0.333333333,0.526315789,F,Johanna Konta,Maria Sakkari,grass,wimbledon,R
+1200,1.0,0.545454545,0.0,0.454545455,F,Maria Sakkari,Anett Kontaveit,hard,aus,R
+1201,0.333333333,0.43859649100000003,0.666666667,0.561403509,F,,Anett Kontaveit,clay,french,R
+1202,0.333333333,0.43181818200000005,0.666666667,0.568181818,F,Lara Arruabarrena,Anett Kontaveit,grass,wimbledon,R
+1203,0.571428571,0.512820513,0.428571429,0.487179487,F,Daria Kasatkina,Anett Kontaveit,grass,wimbledon,R
+1204,0.0,0.507042254,1.0,0.49295774600000003,F,Caroline Wozniacki,Anett Kontaveit,grass,wimbledon,R
+1205,0.0,0.521126761,1.0,0.478873239,F,Qiang Wang,Mirjana Lucic Baroni,hard,aus,R
+1206,0.0,0.46666666700000003,1.0,0.533333333,F,Agnieszka Radwanska,Mirjana Lucic Baroni,hard,aus,R
+1207,0.5,0.5660377360000001,0.5,0.433962264,F,Maria Sakkari,Mirjana Lucic Baroni,hard,aus,R
+1208,0.5,0.482758621,0.5,0.517241379,F,Jennifer Brady,Mirjana Lucic Baroni,hard,aus,R
+1209,0.333333333,0.5,0.666666667,0.5,F,Karolina Pliskova,Mirjana Lucic Baroni,hard,aus,R
+1210,1.0,0.46666666700000003,0.0,0.533333333,F,Serena Williams,Mirjana Lucic Baroni,hard,aus,R
+1211,0.5,0.454545455,0.5,0.545454545,F,Cagla Buyukakcay,Mirjana Lucic Baroni,clay,french,R
+1212,0.666666667,0.523809524,0.333333333,0.47619047600000003,F,,Mirjana Lucic Baroni,hard,us,R
+1213,0.5,0.403508772,0.5,0.596491228,F,Carina Witthoeft,Mirjana Lucic Baroni,grass,wimbledon,R
+1214,0.5,0.467741935,0.5,0.532258065,F,Mirjana Lucic Baroni,Qiang Wang,hard,aus,R
+1215,1.0,0.56097561,0.0,0.43902439,F,Venus Williams,Qiang Wang,clay,french,R
+1216,0.5,0.534883721,0.5,0.46511627899999997,F,Kai Chen Chang,Qiang Wang,grass,wimbledon,R
+1217,0.75,0.483333333,0.25,0.5166666670000001,F,Venus Williams,Qiang Wang,grass,wimbledon,R
+1218,1.0,0.5476190479999999,0.0,0.452380952,F,Agnieszka Radwanska,Tsvetana Pironkova,hard,aus,R
+1219,0.0,0.424242424,1.0,0.575757576,F,Mona Barthel,Tsvetana Pironkova,clay,french,R
+1220,0.5,0.46808510600000003,0.5,0.531914894,F,Elina Svitolina,Tsvetana Pironkova,clay,french,R
+1221,0.333333333,0.535714286,0.666666667,0.46428571399999996,F,Sara Errani,Tsvetana Pironkova,grass,wimbledon,R
+1222,1.0,0.42105263200000004,0.0,0.578947368,F,Caroline Wozniacki,Tsvetana Pironkova,grass,wimbledon,R
+1223,1.0,0.5,0.0,0.5,F,Tsvetana Pironkova,Agnieszka Radwanska,hard,aus,R
+1224,0.0,0.5625,1.0,0.4375,F,Mirjana Lucic Baroni,Agnieszka Radwanska,hard,aus,R
+1225,0.75,0.5,0.25,0.5,F,Fiona Ferro,Agnieszka Radwanska,clay,french,R
+1226,1.0,0.48387096799999996,0.0,0.516129032,F,Alison Van Uytvanck,Agnieszka Radwanska,clay,french,R
+1227,0.0,0.444444444,0.0,0.5555555560000001,F,,Agnieszka Radwanska,clay,french,R
+1228,0.428571429,0.541666667,0.571428571,0.45833333299999995,F,Petra Martic,Agnieszka Radwanska,hard,us,R
+1229,0.666666667,0.470588235,0.333333333,0.529411765,F,Yulia Putintseva,Agnieszka Radwanska,hard,us,R
+1230,0.0,0.5,0.0,0.5,F,CoCo Vandeweghe,Agnieszka Radwanska,hard,us,R
+1231,0.333333333,0.5111111110000001,0.666666667,0.488888889,F,Jelena Jankovic,Agnieszka Radwanska,grass,wimbledon,R
+1232,0.5,0.484848485,0.5,0.515151515,F,Christina McHale,Agnieszka Radwanska,grass,wimbledon,R
+1233,0.0,0.485714286,0.0,0.514285714,F,Timea Bacsinszky,Agnieszka Radwanska,grass,wimbledon,R
+1234,0.0,0.509803922,0.0,0.490196078,F,Svetlana Kuznetsova,Agnieszka Radwanska,grass,wimbledon,R
+1235,0.0,0.47826087,1.0,0.52173913,F,Denisa Allertova,Dominika Cibulkova,hard,aus,R
+1236,1.0,0.5471698110000001,0.0,0.452830189,F,Su Wei Hsieh,Dominika Cibulkova,hard,aus,R
+1237,0.0,0.532258065,0.0,0.467741935,F,Ekaterina Makarova,Dominika Cibulkova,hard,aus,R
+1238,0.0,0.46153846200000004,0.0,0.538461538,F,Lara Arruabarrena,Dominika Cibulkova,clay,french,R
+1239,0.0,0.43181818200000005,0.0,0.568181818,F,Ons Jabeur,Dominika Cibulkova,clay,french,R
+1240,0.0,0.5,0.0,0.5,F,Jana Cepelova,Dominika Cibulkova,hard,us,R
+1241,0.0,0.506493506,0.0,0.49350649399999996,F,Sloane Stephens,Dominika Cibulkova,hard,us,R
+1242,0.0,0.44705882399999997,0.0,0.552941176,F,Andrea Petkovic,Dominika Cibulkova,grass,wimbledon,R
+1243,0.0,0.511627907,0.0,0.48837209299999995,F,Jennifer Brady,Dominika Cibulkova,grass,wimbledon,R
+1244,0.6,0.49382716,0.4,0.50617284,F,Ana Konjuh,Dominika Cibulkova,grass,wimbledon,R
+1245,0.5,0.404255319,0.5,0.595744681,F,Dominika Cibulkova,Denisa Allertova,hard,aus,R
+1246,1.0,0.509090909,0.0,0.490909091,F,Naomi Osaka,Denisa Allertova,hard,us,R
+1247,0.0,0.444444444,1.0,0.5555555560000001,F,Risa Ozaki,Denisa Allertova,grass,wimbledon,R
+1248,0.0,0.454545455,1.0,0.545454545,F,Petra Martic,Denisa Allertova,grass,wimbledon,R
+1249,1.0,0.52,0.0,0.48,F,Su Wei Hsieh,Karin Knapp,hard,aus,R
+1250,0.0,0.541666667,0.0,0.45833333299999995,F,Karin Knapp,Su Wei Hsieh,hard,aus,R
+1251,1.0,0.5,0.0,0.5,F,Dominika Cibulkova,Su Wei Hsieh,hard,aus,R
+1252,0.0,0.453125,0.0,0.546875,F,Johanna Konta,Su Wei Hsieh,clay,french,R
+1253,0.0,0.5,1.0,0.5,F,Taylor Townsend,Su Wei Hsieh,clay,french,R
+1254,0.0,0.493150685,0.0,0.506849315,F,Caroline Garcia,Su Wei Hsieh,clay,french,R
+1255,0.0,0.47826087,0.0,0.52173913,F,Johanna Konta,Su Wei Hsieh,grass,wimbledon,R
+1256,0.0,0.46428571399999996,0.0,0.535714286,F,Risa Ozaki,Sara Errani,hard,aus,R
+1257,0.0,0.513513514,0.0,0.486486486,F,Ekaterina Makarova,Sara Errani,hard,aus,R
+1258,0.0,0.46296296299999995,0.0,0.537037037,F,Misaki Doi,Sara Errani,clay,french,R
+1259,0.0,0.452380952,0.0,0.5476190479999999,F,Kristina Mladenovic,Sara Errani,clay,french,R
+1260,0.0,0.520833333,0.0,0.47916666700000005,F,Tsvetana Pironkova,Sara Errani,grass,wimbledon,R
+1261,1.0,0.489361702,0.0,0.5106382979999999,F,Sara Errani,Risa Ozaki,hard,aus,R
+1262,0.0,0.47540983600000003,0.0,0.524590164,F,Eugenie Bouchard,Risa Ozaki,clay,french,R
+1263,0.0,0.485714286,0.0,0.514285714,F,Shuai Zhang,Risa Ozaki,hard,us,R
+1264,0.5,0.5,0.5,0.5,F,Denisa Allertova,Risa Ozaki,grass,wimbledon,R
+1265,0.5,0.457142857,0.5,0.542857143,F,Ekaterina Makarova,Ekaterina Alexandrova,hard,aus,R
+1266,0.0,0.403846154,1.0,0.596153846,F,Katerina Siniakova,Ekaterina Alexandrova,clay,french,R
+1267,0.666666667,0.47916666700000005,0.333333333,0.520833333,F,Karolina Pliskova,Ekaterina Alexandrova,clay,french,R
+1268,0.333333333,0.535714286,0.666666667,0.46428571399999996,F,Garbine Muguruza,Ekaterina Alexandrova,grass,wimbledon,R
+1269,0.444444444,0.446808511,0.5555555560000001,0.553191489,F,Ekaterina Alexandrova,Ekaterina Makarova,hard,aus,L
+1270,0.5,0.552631579,0.5,0.447368421,F,Sara Errani,Ekaterina Makarova,hard,aus,L
+1271,0.4,0.52,0.6,0.48,F,Dominika Cibulkova,Ekaterina Makarova,hard,aus,L
+1272,1.0,0.413793103,0.0,0.5862068970000001,F,Johanna Konta,Ekaterina Makarova,hard,aus,L
+1273,0.666666667,0.490196078,0.333333333,0.509803922,F,Angelique Kerber,Ekaterina Makarova,clay,french,L
+1274,0.0,0.538461538,0.0,0.46153846200000004,F,Lesia Tsurenko,Ekaterina Makarova,clay,french,L
+1275,0.0,0.548387097,0.0,0.45161290299999995,F,Mona Barthel,Ekaterina Makarova,hard,us,L
+1276,0.333333333,0.515151515,0.666666667,0.484848485,F,Caroline Wozniacki,Ekaterina Makarova,hard,us,L
+1277,0.0,0.44897959200000004,0.0,0.551020408,F,,Ekaterina Makarova,hard,us,L
+1278,0.5,0.482758621,0.5,0.517241379,F,Alison Van Uytvanck,Ekaterina Makarova,grass,wimbledon,L
+1279,0.5,0.552631579,0.5,0.447368421,F,Svetlana Kuznetsova,Ekaterina Makarova,grass,wimbledon,L
+1280,0.666666667,0.552631579,0.333333333,0.447368421,F,Arina Rodionova,Caroline Wozniacki,hard,aus,R
+1281,0.0,0.484848485,0.0,0.515151515,F,Donna Vekic,Caroline Wozniacki,hard,aus,R
+1282,0.0,0.454545455,0.0,0.545454545,F,Johanna Konta,Caroline Wozniacki,hard,aus,R
+1283,0.0,0.596153846,0.0,0.403846154,F,Jaimee Fourlis,Caroline Wozniacki,clay,french,R
+1284,1.0,0.52,0.0,0.48,F,Francoise Abanda,Caroline Wozniacki,clay,french,R
+1285,0.6,0.473684211,0.4,0.526315789,F,Catherine Bellis,Caroline Wozniacki,clay,french,R
+1286,1.0,0.534482759,0.0,0.465517241,F,Svetlana Kuznetsova,Caroline Wozniacki,clay,french,R
+1287,0.0,0.452054795,1.0,0.547945205,F,Jelena Ostapenko,Caroline Wozniacki,clay,french,R
+1288,0.0,0.5555555560000001,1.0,0.444444444,F,Mihaela Buzarnescu,Caroline Wozniacki,hard,us,R
+1289,0.6,0.566666667,0.4,0.433333333,F,Ekaterina Makarova,Caroline Wozniacki,hard,us,R
+1290,0.5,0.44230769200000003,0.5,0.557692308,F,Timea Babos,Caroline Wozniacki,grass,wimbledon,R
+1291,0.0,0.38888888899999996,1.0,0.611111111,F,Tsvetana Pironkova,Caroline Wozniacki,grass,wimbledon,R
+1292,1.0,0.46428571399999996,0.0,0.535714286,F,Anett Kontaveit,Caroline Wozniacki,grass,wimbledon,R
+1293,0.0,0.515151515,0.0,0.484848485,F,Coco Vandeweghe,Caroline Wozniacki,grass,wimbledon,R
+1294,0.0,0.538461538,0.0,0.46153846200000004,F,Caroline Wozniacki,Arina Rodionova,hard,aus,R
+1295,0.666666667,0.529411765,0.333333333,0.470588235,F,Anastasia Pavlyuchenkova,Arina Rodionova,grass,wimbledon,R
+1296,0.0,0.557692308,0.0,0.44230769200000003,F,Zarina Diyas,Arina Rodionova,grass,wimbledon,R
+1297,0.0,0.6571428570000001,1.0,0.342857143,F,Lizette Cabrera,Donna Vekic,hard,aus,R
+1298,0.333333333,0.575757576,0.666666667,0.424242424,F,Caroline Wozniacki,Donna Vekic,hard,aus,R
+1299,0.5,0.575757576,0.5,0.424242424,F,Anastasija Sevastova,Donna Vekic,hard,us,R
+1300,0.666666667,0.4375,0.333333333,0.5625,F,Natalia Vikhlyantseva,Donna Vekic,grass,wimbledon,R
+1301,0.5,0.539473684,0.5,0.460526316,F,Johanna Konta,Donna Vekic,grass,wimbledon,R
+1302,0.0,0.41304347799999996,1.0,0.586956522,F,Donna Vekic,Lizette Cabrera,hard,aus,R
+1303,0.4,0.492537313,0.6,0.5074626870000001,F,Naomi Osaka,Luksika Kumkhum,hard,aus,R
+1304,0.333333333,0.454545455,0.666666667,0.545454545,F,Luksika Kumkhum,Naomi Osaka,hard,aus,R
+1305,0.4,0.457142857,0.6,0.542857143,F,Johanna Konta,Naomi Osaka,hard,aus,R
+1306,0.666666667,0.540540541,0.333333333,0.45945945899999996,F,Alison Van Uytvanck,Naomi Osaka,clay,french,R
+1307,0.0,0.482758621,0.0,0.517241379,F,Angelique Kerber,Naomi Osaka,hard,us,R
+1308,0.666666667,0.433333333,0.333333333,0.566666667,F,Denisa Allertova,Naomi Osaka,hard,us,R
+1309,0.0,0.43859649100000003,1.0,0.561403509,F,Kaia Kanepi,Naomi Osaka,hard,us,R
+1310,0.333333333,0.523809524,0.666666667,0.47619047600000003,F,Sara Sorribes Tormo,Naomi Osaka,grass,wimbledon,R
+1311,0.0,0.545454545,1.0,0.454545455,F,Barbora Strycova,Naomi Osaka,grass,wimbledon,R
+1312,0.571428571,0.509803922,0.428571429,0.490196078,F,Venus Williams,Naomi Osaka,grass,wimbledon,R
+1313,0.5,0.5625,0.5,0.4375,F,Johanna Konta,Kirsten Flipkens,hard,aus,R
+1314,0.5,0.5555555560000001,0.5,0.444444444,F,Mandy Minella,Kirsten Flipkens,clay,french,R
+1315,1.0,0.545454545,0.0,0.454545455,F,Samantha Stosur,Kirsten Flipkens,clay,french,R
+1316,0.5,0.457142857,0.5,0.542857143,F,Elena Vesnina,Kirsten Flipkens,hard,us,R
+1317,0.0,0.444444444,1.0,0.5555555560000001,F,Misaki Doi,Kirsten Flipkens,grass,wimbledon,R
+1318,0.0,0.46666666700000003,1.0,0.533333333,F,Angelique Kerber,Kirsten Flipkens,grass,wimbledon,R
+1319,0.0,0.5,1.0,0.5,F,Kirsten Flipkens,Johanna Konta,hard,aus,R
+1320,0.333333333,0.5,0.666666667,0.5,F,Naomi Osaka,Johanna Konta,hard,aus,R
+1321,0.5,0.517241379,0.5,0.482758621,F,Caroline Wozniacki,Johanna Konta,hard,aus,R
+1322,0.333333333,0.514285714,0.666666667,0.485714286,F,Ekaterina Makarova,Johanna Konta,hard,aus,R
+1323,0.5,0.46666666700000003,0.5,0.533333333,F,Serena Williams,Johanna Konta,hard,aus,R
+1324,0.5,0.542372881,0.5,0.45762711899999997,F,Su Wei Hsieh,Johanna Konta,clay,french,R
+1325,0.2,0.488888889,0.8,0.5111111110000001,F,Aleksandra Krunic,Johanna Konta,hard,us,R
+1326,0.0,0.5,1.0,0.5,F,Su Wei Hsieh,Johanna Konta,grass,wimbledon,R
+1327,0.583333333,0.506493506,0.41666666700000005,0.49350649399999996,F,Donna Vekic,Johanna Konta,grass,wimbledon,R
+1328,0.75,0.448275862,0.25,0.551724138,F,Maria Sakkari,Johanna Konta,grass,wimbledon,R
+1329,0.428571429,0.446153846,0.571428571,0.553846154,F,Caroline Garcia,Johanna Konta,grass,wimbledon,R
+1330,0.666666667,0.513157895,0.333333333,0.486842105,F,Simona Halep,Johanna Konta,grass,wimbledon,R
+1331,0.571428571,0.409090909,0.428571429,0.590909091,F,Venus Williams,Johanna Konta,grass,wimbledon,R
+1332,0.333333333,0.55,0.666666667,0.45,F,Elizaveta Kulichkova,Barbora Strycova,hard,aus,R
+1333,0.5,0.518518519,0.5,0.481481481,F,Andrea Petkovic,Barbora Strycova,hard,aus,R
+1334,0.25,0.540540541,0.75,0.45945945899999996,F,Caroline Garcia,Barbora Strycova,hard,aus,R
+1335,1.0,0.56,0.0,0.44,F,Serena Williams,Barbora Strycova,hard,aus,R
+1336,0.666666667,0.523809524,0.333333333,0.47619047600000003,F,Alison Riske,Barbora Strycova,clay,french,R
+1337,0.0,0.580645161,0.0,0.419354839,F,,Barbora Strycova,clay,french,R
+1338,0.333333333,0.46428571399999996,0.666666667,0.535714286,F,Misaki Doi,Barbora Strycova,hard,us,R
+1339,0.0,0.592592593,0.0,0.40740740700000005,F,Jennifer Brady,Barbora Strycova,hard,us,R
+1340,0.0,0.551724138,1.0,0.448275862,F,Veronica Cepede Royg,Barbora Strycova,grass,wimbledon,R
+1341,0.333333333,0.44,0.666666667,0.56,F,Naomi Osaka,Barbora Strycova,grass,wimbledon,R
+1342,0.0,0.533333333,0.0,0.46666666700000003,F,Barbora Strycova,Elizaveta Kulichkova,hard,aus,R
+1343,0.0,0.578947368,0.0,0.42105263200000004,F,Andrea Petkovic,Kayla Day,hard,aus,L
+1344,0.0,0.512820513,1.0,0.487179487,F,Kayla Day,Andrea Petkovic,hard,aus,R
+1345,0.0,0.39285714299999996,0.0,0.607142857,F,Barbora Strycova,Andrea Petkovic,hard,aus,R
+1346,0.0,0.493333333,0.0,0.5066666670000001,F,Dominika Cibulkova,Andrea Petkovic,grass,wimbledon,R
+1347,0.5,0.546511628,0.5,0.45348837200000003,F,Oceane Dodin,Cagla Buyukakcay,hard,aus,R
+1348,1.0,0.38888888899999996,0.0,0.611111111,F,Mirjana Lucic Baroni,Cagla Buyukakcay,clay,french,R
+1349,0.0,0.5,0.0,0.5,F,Shelby Rogers,Cagla Buyukakcay,clay,french,R
+1350,0.0,0.42,1.0,0.58,F,Cagla Buyukakcay,Oceane Dodin,hard,aus,R
+1351,0.625,0.5,0.375,0.5,F,Caroline Garcia,Oceane Dodin,hard,aus,R
+1352,0.5555555560000001,0.43243243200000003,0.444444444,0.567567568,F,Camila Giorgi,Oceane Dodin,clay,french,R
+1353,0.333333333,0.5,0.666666667,0.5,F,Svetlana Kuznetsova,Oceane Dodin,clay,french,R
+1354,0.0,0.446428571,1.0,0.553571429,F,Pauline Parmentier,Oceane Dodin,hard,us,R
+1355,0.5,0.441176471,0.5,0.558823529,F,Venus Williams,Oceane Dodin,hard,us,R
+1356,1.0,0.5,0.0,0.5,F,Lucie Safarova,Oceane Dodin,grass,wimbledon,R
+1357,0.75,0.5,0.25,0.5,F,Caroline Garcia,Kateryna Bondarenko,hard,aus,R
+1358,1.0,0.542857143,0.0,0.457142857,F,Petra Martic,Kateryna Bondarenko,clay,french,R
+1359,0.5,0.540540541,0.5,0.45945945899999996,F,Yanina Wickmayer,Kateryna Bondarenko,grass,wimbledon,R
+1360,0.0,0.380952381,1.0,0.6190476189999999,F,Kateryna Bondarenko,Caroline Garcia,hard,aus,R
+1361,0.5,0.444444444,0.5,0.5555555560000001,F,Oceane Dodin,Caroline Garcia,hard,aus,R
+1362,0.0,0.512820513,1.0,0.487179487,F,Barbora Strycova,Caroline Garcia,hard,aus,R
+1363,0.5,0.444444444,0.5,0.5555555560000001,F,Nao Hibino,Caroline Garcia,clay,french,R
+1364,0.333333333,0.522727273,0.666666667,0.477272727,F,Chloe Paquet,Caroline Garcia,clay,french,R
+1365,0.75,0.511627907,0.25,0.48837209299999995,F,Su Wei Hsieh,Caroline Garcia,clay,french,R
+1366,0.0,0.43902439,0.0,0.56097561,F,,Caroline Garcia,clay,french,R
+1367,0.28571428600000004,0.509803922,0.7142857140000001,0.490196078,F,Karolina Pliskova,Caroline Garcia,clay,french,R
+1368,0.4,0.552631579,0.6,0.447368421,F,Petra Kvitova,Caroline Garcia,hard,us,R
+1369,0.571428571,0.551724138,0.428571429,0.448275862,F,Jana Cepelova,Caroline Garcia,grass,wimbledon,R
+1370,0.5,0.512820513,0.5,0.487179487,F,Ana Bogdan,Caroline Garcia,grass,wimbledon,R
+1371,0.5,0.45,0.5,0.55,F,Madison Brengle,Caroline Garcia,grass,wimbledon,R
+1372,0.41666666700000005,0.5507246379999999,0.583333333,0.449275362,F,Johanna Konta,Caroline Garcia,grass,wimbledon,R
+1373,0.0,0.44,1.0,0.56,F,Nicole Gibbs,Timea Babos,hard,aus,R
+1374,0.0,0.47692307700000003,1.0,0.523076923,F,,Timea Babos,clay,french,R
+1375,0.0,0.46969697,0.0,0.53030303,F,Maria Sharapova,Timea Babos,hard,us,R
+1376,1.0,0.5106382979999999,0.0,0.489361702,F,Caroline Wozniacki,Timea Babos,grass,wimbledon,R
+1377,0.5,0.59375,0.5,0.40625,F,Timea Babos,Nicole Gibbs,hard,aus,R
+1378,1.0,0.558823529,0.0,0.441176471,F,Irina Falconi,Nicole Gibbs,hard,aus,R
+1379,0.0,0.5555555560000001,1.0,0.444444444,F,Serena Williams,Nicole Gibbs,hard,aus,R
+1380,1.0,0.4375,0.0,0.5625,F,Karolina Pliskova,Nicole Gibbs,hard,us,R
+1381,0.833333333,0.5,0.166666667,0.5,F,Lucie Safarova,Yanina Wickmayer,hard,aus,R
+1382,0.0,0.510204082,1.0,0.489795918,F,Kaia Kanepi,Yanina Wickmayer,hard,us,R
+1383,0.5,0.538461538,0.5,0.46153846200000004,F,Kateryna Bondarenko,Yanina Wickmayer,grass,wimbledon,R
+1384,0.6,0.419354839,0.4,0.580645161,F,Garbine Muguruza,Yanina Wickmayer,grass,wimbledon,R
+1385,0.4375,0.43076923100000003,0.5625,0.569230769,F,Yanina Wickmayer,Lucie Safarova,hard,aus,L
+1386,0.428571429,0.34375,0.571428571,0.65625,F,Serena Williams,Lucie Safarova,hard,aus,L
+1387,0.0,0.419354839,1.0,0.580645161,F,Veronica Cepede Royg,Lucie Safarova,clay,french,L
+1388,0.6,0.423076923,0.4,0.576923077,F,Nao Hibino,Lucie Safarova,hard,us,L
+1389,1.0,0.5,0.0,0.5,F,Kurumi Nara,Lucie Safarova,hard,us,L
+1390,0.666666667,0.520833333,0.333333333,0.47916666700000005,F,CoCo Vandeweghe,Lucie Safarova,hard,us,L
+1391,0.857142857,0.6,0.14285714300000002,0.4,F,Oceane Dodin,Lucie Safarova,grass,wimbledon,L
+1392,0.5,0.580645161,0.5,0.419354839,F,Shelby Rogers,Lucie Safarova,grass,wimbledon,L
+1393,0.333333333,0.64516129,0.666666667,0.35483871,F,Serena Williams,Belinda Bencic,hard,aus,R
+1394,0.5,0.5,0.5,0.5,F,Belinda Bencic,Serena Williams,hard,aus,R
+1395,0.642857143,0.541666667,0.35714285700000004,0.45833333299999995,F,Lucie Safarova,Serena Williams,hard,aus,R
+1396,0.75,0.434782609,0.25,0.565217391,F,Nicole Gibbs,Serena Williams,hard,aus,R
+1397,0.0,0.37037037,1.0,0.62962963,F,Barbora Strycova,Serena Williams,hard,aus,R
+1398,0.333333333,0.423076923,0.666666667,0.576923077,F,Johanna Konta,Serena Williams,hard,aus,R
+1399,0.333333333,0.46153846200000004,0.666666667,0.538461538,F,Mirjana Lucic Baroni,Serena Williams,hard,aus,R
+1400,0.0,0.5,0.0,0.5,F,,Sorana Cirstea,hard,aus,R
+1401,0.2,0.454545455,0.8,0.545454545,F,Alison Riske,Sorana Cirstea,hard,aus,R
+1402,1.0,0.393939394,0.0,0.606060606,F,,Sorana Cirstea,hard,aus,R
+1403,1.0,0.703703704,0.0,0.296296296,F,Shuai Peng,Sorana Cirstea,clay,french,R
+1404,0.0,0.545454545,1.0,0.454545455,F,Carla Suarez Navarro,Sorana Cirstea,clay,french,R
+1405,0.333333333,0.512820513,0.666666667,0.487179487,F,Jelena Ostapenko,Sorana Cirstea,hard,us,R
+1406,0.0,0.405405405,0.0,0.594594595,F,Kiki Bertens,Sorana Cirstea,grass,wimbledon,R
+1407,0.0,0.480769231,0.0,0.519230769,F,Bethanie Mattek Sands,Sorana Cirstea,grass,wimbledon,R
+1408,0.0,0.5121951220000001,1.0,0.487804878,F,Garbine Muguruza,Sorana Cirstea,grass,wimbledon,R
+1409,0.0,0.529411765,1.0,0.470588235,F,Shuai Zhang,Alison Riske,hard,aus,R
+1410,0.5,0.5,0.5,0.5,F,Sorana Cirstea,Alison Riske,hard,aus,R
+1411,0.0,0.481481481,0.0,0.518518519,F,Barbora Strycova,Alison Riske,clay,french,R
+1412,0.0,0.448275862,0.0,0.551724138,F,CoCo Vandeweghe,Alison Riske,hard,us,R
+1413,0.0,0.47619047600000003,0.0,0.523809524,F,Sloane Stephens,Alison Riske,grass,wimbledon,R
+1414,1.0,0.541666667,0.0,0.45833333299999995,F,Kristina Mladenovic,Alison Riske,grass,wimbledon,R
+1415,1.0,0.46,0.0,0.54,F,Coco Vandeweghe,Alison Riske,grass,wimbledon,R
+1416,1.0,0.45,0.0,0.55,F,Anastasija Sevastova,Kristina Kucova,hard,aus,R
+1417,1.0,0.47619047600000003,0.0,0.523809524,F,Samantha Stosur,Kristina Kucova,clay,french,R
+1418,0.0,0.41176470600000004,0.0,0.588235294,F,Bianca Andreescu,Kristina Kucova,grass,wimbledon,R
+1419,0.0,0.481481481,0.0,0.518518519,F,Timea Bacsinszky,Kristina Kucova,grass,wimbledon,R
+1420,0.5,0.46666666700000003,0.5,0.533333333,F,,Samantha Crawford,hard,aus,R
+1421,0.0,0.47619047600000003,1.0,0.523809524,F,Yulia Putintseva,Jelena Ostapenko,hard,aus,R
+1422,0.333333333,0.47619047600000003,0.666666667,0.523809524,F,Karolina Pliskova,Jelena Ostapenko,hard,aus,R
+1423,0.666666667,0.525,0.333333333,0.475,F,Louisa Chirico,Jelena Ostapenko,clay,french,R
+1424,0.2,0.46153846200000004,0.8,0.538461538,F,Monica Puig,Jelena Ostapenko,clay,french,R
+1425,1.0,0.529411765,0.0,0.470588235,F,Lesia Tsurenko,Jelena Ostapenko,clay,french,R
+1426,0.0,0.510204082,1.0,0.489795918,F,Samantha Stosur,Jelena Ostapenko,clay,french,R
+1427,0.0,0.537037037,0.0,0.46296296299999995,F,Caroline Wozniacki,Jelena Ostapenko,clay,french,R
+1428,0.666666667,0.565217391,0.333333333,0.434782609,F,Timea Bacsinszky,Jelena Ostapenko,clay,french,R
+1429,1.0,0.636363636,0.0,0.363636364,F,Lara Arruabarrena,Jelena Ostapenko,hard,us,R
+1430,0.0,0.5476190479999999,1.0,0.452380952,F,Sorana Cirstea,Jelena Ostapenko,hard,us,R
+1431,0.0,0.409090909,1.0,0.590909091,F,Daria Kasatkina,Jelena Ostapenko,hard,us,R
+1432,0.0,0.5121951220000001,1.0,0.487804878,F,Aliaksandra Sasnovich,Jelena Ostapenko,grass,wimbledon,R
+1433,0.666666667,0.490566038,0.333333333,0.509433962,F,Francoise Abanda,Jelena Ostapenko,grass,wimbledon,R
+1434,0.0,0.5,1.0,0.5,F,Camila Giorgi,Jelena Ostapenko,grass,wimbledon,R
+1435,1.0,0.566666667,0.0,0.433333333,F,Elina Svitolina,Jelena Ostapenko,grass,wimbledon,R
+1436,1.0,0.5625,0.0,0.4375,F,Venus Williams,Jelena Ostapenko,grass,wimbledon,R
+1437,0.25,0.41463414600000004,0.75,0.585365854,F,Daria Gavrilova,Ana Konjuh,hard,aus,R
+1438,0.333333333,0.515151515,0.666666667,0.484848485,F,Magda Linette,Ana Konjuh,clay,french,R
+1439,0.0,0.44,1.0,0.56,F,Sabine Lisicki,Ana Konjuh,grass,wimbledon,R
+1440,1.0,0.428571429,0.0,0.571428571,F,Irina Camelia Begu,Ana Konjuh,grass,wimbledon,R
+1441,0.7142857140000001,0.524590164,0.28571428600000004,0.47540983600000003,F,Dominika Cibulkova,Ana Konjuh,grass,wimbledon,R
+1442,1.0,0.5555555560000001,0.0,0.444444444,F,Venus Williams,Ana Konjuh,grass,wimbledon,R
+1443,1.0,0.471698113,0.0,0.528301887,F,Elena Vesnina,Mandy Minella,hard,aus,R
+1444,1.0,0.441860465,0.0,0.558139535,F,Kirsten Flipkens,Mandy Minella,clay,french,R
+1445,0.0,0.583333333,1.0,0.41666666700000005,F,Francesca Schiavone,Mandy Minella,grass,wimbledon,R
+1446,0.0,0.5,0.0,0.5,F,Nicole Gibbs,Irina Falconi,hard,aus,R
+1447,1.0,0.5365853660000001,0.0,0.463414634,F,Angelique Kerber,Irina Falconi,grass,wimbledon,R
+1448,0.38888888899999996,0.463768116,0.611111111,0.536231884,M,Martin Klizan,Laurent Lokoli,clay,french,R
+1449,0.5625,0.45833333299999995,0.4375,0.541666667,M,Marcos Baghdatis,Nicolas Almagro,clay,french,R
+1450,0.571428571,0.514285714,0.428571429,0.485714286,M,Juan Martin Del Potro,Nicolas Almagro,clay,french,R
+1451,0.375,0.534482759,0.625,0.465517241,M,Steve Johnson,Nicolas Almagro,hard,us,R
+1452,0.46153846200000004,0.5,0.538461538,0.5,M,Guido Pella,Juan Martin Del Potro,clay,french,R
+1453,0.75,0.552631579,0.25,0.447368421,M,Nicolas Almagro,Juan Martin Del Potro,clay,french,R
+1454,0.333333333,0.53030303,0.666666667,0.46969697,M,Andy Murray,Juan Martin Del Potro,clay,french,R
+1455,0.294117647,0.48351648399999997,0.705882353,0.516483516,M,Thanasi Kokkinakis,Juan Martin Del Potro,grass,wimbledon,R
+1456,0.7142857140000001,0.565217391,0.28571428600000004,0.434782609,M,Ernests Gulbis,Juan Martin Del Potro,grass,wimbledon,R
+1457,0.25,0.515789474,0.75,0.48421052600000003,M,Karen Khachanov,Nicolas Jarry,clay,french,R
+1458,0.875,0.52,0.125,0.48,M,Gilles Simon,Nicolas Jarry,grass,wimbledon,R
+1459,0.0,0.535211268,0.0,0.46478873200000004,M,Damir Dzumhur,Nicolas Kicker,clay,french,R
+1460,0.666666667,0.519230769,0.333333333,0.480769231,M,Pablo Cuevas,Nicolas Kicker,clay,french,R
+1461,0.333333333,0.508474576,0.666666667,0.491525424,M,Steve Johnson,Nicolas Kicker,grass,wimbledon,R
+1462,0.8,0.538461538,0.2,0.46153846200000004,M,Pablo Cuevas,Maxime Hamou,clay,french,R
+1463,0.5,0.533333333,0.5,0.46666666700000003,M,Kei Nishikori,Thanasi Kokkinakis,clay,french,R
+1464,0.5555555560000001,0.533333333,0.444444444,0.46666666700000003,M,Janko Tipsarevic,Thanasi Kokkinakis,hard,us,R
+1465,0.4375,0.506849315,0.5625,0.493150685,M,Juan Martin Del Potro,Thanasi Kokkinakis,grass,wimbledon,R
+1466,0.5,0.404761905,0.5,0.595238095,M,Stan Wawrinka,Jozef Kovalik,clay,french,R
+1467,0.5,0.528301887,0.5,0.471698113,M,Richard Gasquet,Arthur De Greef,clay,french,R
+1468,0.615384615,0.545454545,0.384615385,0.454545455,M,Victor Estrella Burgos,Teymuraz Gabashvili,clay,french,R
+1469,0.25,0.489361702,0.75,0.5106382979999999,M,Thiago Monteiro,Alexandre Muller,clay,french,R
+1470,0.0,0.47272727299999995,0.0,0.527272727,M,Jo Wilfried Tsonga,Renzo Olivo,clay,french,R
+1471,0.5,0.473684211,0.5,0.526315789,M,Kyle Edmund,Renzo Olivo,clay,french,R
+1472,1.0,0.5,0.0,0.5,M,Damir Dzumhur,Renzo Olivo,grass,wimbledon,R
+1473,0.25,0.413793103,0.75,0.5862068970000001,M,Malek Jaziri,Kevin Anderson,clay,french,R
+1474,0.428571429,0.507692308,0.571428571,0.492307692,M,Nick Kyrgios,Kevin Anderson,clay,french,R
+1475,0.565217391,0.504761905,0.434782609,0.495238095,M,Kyle Edmund,Kevin Anderson,clay,french,R
+1476,0.0,0.5625,0.0,0.4375,M,Marin Cilic,Kevin Anderson,clay,french,R
+1477,0.4,0.434782609,0.6,0.565217391,M,JC Aragone,Kevin Anderson,hard,us,R
+1478,0.454545455,0.545454545,0.545454545,0.454545455,M,Borna Coric,Kevin Anderson,hard,us,R
+1479,0.666666667,0.528571429,0.333333333,0.471428571,M,Paolo Lorenzi,Kevin Anderson,hard,us,R
+1480,0.7142857140000001,0.484848485,0.28571428600000004,0.515151515,M,Sam Querrey,Kevin Anderson,hard,us,R
+1481,0.5,0.535211268,0.5,0.46478873200000004,M,Pablo Carreno Busta,Kevin Anderson,hard,us,R
+1482,0.7,0.5,0.3,0.5,M,Rafael Nadal,Kevin Anderson,hard,us,R
+1483,0.48,0.48453608200000003,0.52,0.515463918,M,Fernando Verdasco,Kevin Anderson,grass,wimbledon,R
+1484,0.5625,0.528301887,0.4375,0.471698113,M,Andreas Seppi,Kevin Anderson,grass,wimbledon,R
+1485,0.5,0.508474576,0.5,0.491525424,M,Ruben Bemelmans,Kevin Anderson,grass,wimbledon,R
+1486,0.517241379,0.5377358489999999,0.482758621,0.462264151,M,Sam Querrey,Kevin Anderson,grass,wimbledon,R
+1487,0.6,0.36956521700000006,0.4,0.630434783,M,Marin Cilic,Ernests Gulbis,clay,french,R
+1488,0.428571429,0.477272727,0.571428571,0.522727273,M,Victor Estrella Burgos,Ernests Gulbis,grass,wimbledon,R
+1489,0.636363636,0.6,0.363636364,0.4,M,Juan Martin Del Potro,Ernests Gulbis,grass,wimbledon,R
+1490,0.538461538,0.571428571,0.46153846200000004,0.428571429,M,Novak Djokovic,Ernests Gulbis,grass,wimbledon,R
+1491,1.0,0.48039215700000004,0.0,0.519607843,M,Quentin Halys,Marco Trungelliti,clay,french,R
+1492,0.333333333,0.52,0.666666667,0.48,M,Guillermo Garcia Lopez,Marco Trungelliti,clay,french,R
+1493,0.625,0.484375,0.375,0.515625,M,Jerzy Janowicz,Taro Daniel,clay,french,R
+1494,0.0,0.456790123,1.0,0.543209877,M,Pablo Carreno Busta,Taro Daniel,clay,french,R
+1495,0.0,0.48,1.0,0.52,M,Rafael Nadal,Taro Daniel,hard,us,R
+1496,0.2,0.45121951200000004,0.8,0.548780488,M,Mikhail Kukushkin,Taro Daniel,grass,wimbledon,R
+1497,0.5,0.523076923,0.5,0.47692307700000003,M,Daniel Evans,Tommy Robredo,clay,french,R
+1498,0.0,0.491803279,1.0,0.508196721,M,Grigor Dimitrov,Tommy Robredo,clay,french,R
+1499,0.5,0.575342466,0.5,0.424657534,M,Tennys Sandgren,Mikhail Kukushkin,clay,french,R
+1500,0.5,0.454545455,0.5,0.545454545,M,Roberto Bautista Agut,Mikhail Kukushkin,clay,french,R
+1501,0.5555555560000001,0.5507246379999999,0.444444444,0.449275362,M,Lucas Pouille,Mikhail Kukushkin,hard,us,R
+1502,0.545454545,0.472527473,0.454545455,0.527472527,M,Taro Daniel,Mikhail Kukushkin,grass,wimbledon,R
+1503,0.333333333,0.48039215700000004,0.666666667,0.519607843,M,Mischa Zverev,Mikhail Kukushkin,grass,wimbledon,R
+1504,0.5,0.5,0.5,0.5,M,Mikhail Kukushkin,Tennys Sandgren,clay,french,R
+1505,0.333333333,0.46666666700000003,0.666666667,0.533333333,M,Marin Cilic,Tennys Sandgren,hard,us,R
+1506,0.666666667,0.489361702,0.333333333,0.5106382979999999,M,Roberto Bautista Agut,John Millman,clay,french,R
+1507,1.0,0.513513514,0.0,0.486486486,M,Nick Kyrgios,John Millman,hard,us,R
+1508,0.2,0.508196721,0.8,0.491803279,M,Malek Jaziri,John Millman,hard,us,R
+1509,0.5,0.544117647,0.5,0.45588235299999996,M,Philipp Kohlschreiber,John Millman,hard,us,R
+1510,0.6,0.533333333,0.4,0.46666666700000003,M,Rafael Nadal,John Millman,grass,wimbledon,R
+1511,0.75,0.41025641,0.25,0.58974359,M,Viktor Troicki,Evgeny Donskoy,clay,french,R
+1512,0.428571429,0.44,0.571428571,0.56,M,Alexander Zverev,Evgeny Donskoy,grass,wimbledon,R
+1513,0.5,0.5,0.5,0.5,M,Nicolas Mahut,Simone Bolelli,clay,french,R
+1514,0.0,0.509803922,0.0,0.490196078,M,Dominic Thiem,Simone Bolelli,clay,french,R
+1515,0.2,0.46031746,0.8,0.53968254,M,Yen Hsun Lu,Simone Bolelli,grass,wimbledon,R
+1516,0.0,0.515151515,1.0,0.484848485,M,Jo Wilfried Tsonga,Simone Bolelli,grass,wimbledon,R
+1517,0.375,0.538461538,0.625,0.46153846200000004,M,Borna Coric,Mathias Bourgue,clay,french,R
+1518,0.5,0.471153846,0.5,0.528846154,M,Steve Johnson,Yuichi Sugita,clay,french,R
+1519,1.0,0.552631579,0.0,0.447368421,M,Geoffrey Blancaneaux,Yuichi Sugita,hard,us,R
+1520,0.333333333,0.487179487,0.666666667,0.512820513,M,Leonardo Mayer,Yuichi Sugita,hard,us,R
+1521,1.0,0.5,0.0,0.5,M,Brydan Klein,Yuichi Sugita,grass,wimbledon,R
+1522,0.5,0.581196581,0.5,0.418803419,M,Adrian Mannarino,Yuichi Sugita,grass,wimbledon,R
+1523,0.666666667,0.559322034,0.333333333,0.44067796600000003,M,Ivo Karlovic,Stefanos Tsitsipas,clay,french,R
+1524,0.454545455,0.489795918,0.545454545,0.510204082,M,Dusan Lajovic,Stefanos Tsitsipas,grass,wimbledon,R
+1525,0.571428571,0.48351648399999997,0.428571429,0.516483516,M,Lucas Pouille,Julien Benneteau,clay,french,R
+1526,0.0,0.491525424,1.0,0.508474576,M,David Goffin,Julien Benneteau,hard,us,R
+1527,0.75,0.48387096799999996,0.25,0.516129032,M,Sergiy Stakhovsky,Julien Benneteau,grass,wimbledon,R
+1528,0.25,0.47761194,0.75,0.52238806,M,Daniil Medvedev,Benjamin Bonzi,clay,french,R
+1529,1.0,0.5,0.0,0.5,M,Albert Ramos Vinolas,Benjamin Bonzi,clay,french,R
+1530,0.571428571,0.5,0.428571429,0.5,M,Albert Ramos Vinolas,Marius Copil,clay,french,R
+1531,0.333333333,0.40740740700000005,0.666666667,0.592592593,M,Jo Wilfried Tsonga,Marius Copil,hard,us,R
+1532,0.363636364,0.487804878,0.636363636,0.5121951220000001,M,Peter Gojowczyk,Marius Copil,grass,wimbledon,R
+1533,0.0,0.481481481,1.0,0.518518519,M,Mischa Zverev,Stefano Napolitano,clay,french,R
+1534,0.333333333,0.509803922,0.666666667,0.490196078,M,Diego Schwartzman,Stefano Napolitano,clay,french,R
+1535,0.5,0.489795918,0.5,0.510204082,M,Joao Sousa,Janko Tipsarevic,clay,french,R
+1536,0.6,0.516483516,0.4,0.48351648399999997,M,Thanasi Kokkinakis,Janko Tipsarevic,hard,us,R
+1537,0.0,0.4,0.0,0.6,M,Jared Donaldson,Janko Tipsarevic,grass,wimbledon,R
+1538,0.4,0.446428571,0.6,0.553571429,M,Novak Djokovic,Marcel Granollers,clay,french,R
+1539,0.5,0.55,0.5,0.45,M,Dudi Sela,Marcel Granollers,grass,wimbledon,R
+1540,0.454545455,0.48192771100000004,0.545454545,0.518072289,M,David Goffin,Sergiy Stakhovsky,clay,french,R
+1541,0.352941176,0.447761194,0.647058824,0.552238806,M,Julien Benneteau,Sergiy Stakhovsky,grass,wimbledon,R
+1542,0.428571429,0.486842105,0.571428571,0.513157895,M,Kei Nishikori,Sergiy Stakhovsky,grass,wimbledon,R
+1543,0.666666667,0.5555555560000001,0.333333333,0.444444444,F,Evgeniya Rodina,Bethanie Mattek Sands,clay,french,R
+1544,1.0,0.55,0.0,0.45,F,Petra Kvitova,Bethanie Mattek Sands,clay,french,R
+1545,0.0,0.52,1.0,0.48,F,Samantha Stosur,Bethanie Mattek Sands,clay,french,R
+1546,0.666666667,0.529411765,0.333333333,0.470588235,F,Magda Linette,Bethanie Mattek Sands,grass,wimbledon,R
+1547,0.0,0.52,0.0,0.48,F,Sorana Cirstea,Bethanie Mattek Sands,grass,wimbledon,R
+1548,0.444444444,0.43243243200000003,0.5555555560000001,0.567567568,F,Julia Boserup,Petra Kvitova,clay,french,L
+1549,0.0,0.45,1.0,0.55,F,Bethanie Mattek Sands,Petra Kvitova,clay,french,L
+1550,1.0,0.5365853660000001,0.0,0.463414634,F,Jelena Jankovic,Petra Kvitova,hard,us,L
+1551,0.6,0.6315789470000001,0.4,0.36842105299999994,F,,Petra Kvitova,hard,us,L
+1552,0.2,0.44,0.8,0.56,F,Caroline Garcia,Petra Kvitova,hard,us,L
+1553,0.0,0.46666666700000003,1.0,0.533333333,F,,Petra Kvitova,hard,us,L
+1554,0.571428571,0.527272727,0.428571429,0.47272727299999995,F,Venus Williams,Petra Kvitova,hard,us,L
+1555,1.0,0.545454545,0.0,0.454545455,F,Johanna Larsson,Petra Kvitova,grass,wimbledon,L
+1556,0.666666667,0.527272727,0.333333333,0.47272727299999995,F,Madison Brengle,Petra Kvitova,grass,wimbledon,L
+1557,0.0,0.541666667,1.0,0.45833333299999995,F,Tessah Andrianjafitrimo,Francoise Abanda,clay,french,R
+1558,1.0,0.5,0.0,0.5,F,Caroline Wozniacki,Francoise Abanda,clay,french,R
+1559,0.5,0.43243243200000003,0.5,0.567567568,F,Kurumi Nara,Francoise Abanda,grass,wimbledon,R
+1560,0.833333333,0.537313433,0.166666667,0.46268656700000005,F,Jelena Ostapenko,Francoise Abanda,grass,wimbledon,R
+1561,0.0,0.433333333,0.0,0.566666667,F,Francoise Abanda,Tessah Andrianjafitrimo,clay,french,R
+1562,0.0,0.522727273,1.0,0.477272727,F,Kiki Bertens,Ajla Tomljanovic,clay,french,R
+1563,0.0,0.571428571,0.0,0.428571429,F,Svetlana Kuznetsova,Christina McHale,clay,french,R
+1564,0.333333333,0.543478261,0.666666667,0.456521739,F,Daria Kasatkina,Christina McHale,hard,us,R
+1565,1.0,0.44230769200000003,0.0,0.557692308,F,Katie Boulter,Christina McHale,grass,wimbledon,R
+1566,0.6,0.485294118,0.4,0.514705882,F,Agnieszka Radwanska,Christina McHale,grass,wimbledon,R
+1567,0.5,0.52,0.5,0.48,F,Natalia Vikhlyantseva,Johanna Larsson,clay,french,R
+1568,1.0,0.482758621,0.0,0.517241379,F,Yulia Putintseva,Johanna Larsson,clay,french,R
+1569,1.0,0.46428571399999996,0.0,0.535714286,F,Petra Kvitova,Johanna Larsson,grass,wimbledon,R
+1570,0.333333333,0.536231884,0.666666667,0.463768116,F,Jennifer Brady,Kristina Mladenovic,clay,french,R
+1571,0.0,0.5121951220000001,1.0,0.487804878,F,Sara Errani,Kristina Mladenovic,clay,french,R
+1572,0.5,0.50877193,0.5,0.49122807,F,Shelby Rogers,Kristina Mladenovic,clay,french,R
+1573,0.75,0.522727273,0.25,0.477272727,F,,Kristina Mladenovic,clay,french,R
+1574,0.0,0.517241379,0.0,0.482758621,F,Timea Bacsinszky,Kristina Mladenovic,clay,french,R
+1575,0.727272727,0.592592593,0.272727273,0.40740740700000005,F,Pauline Parmentier,Kristina Mladenovic,grass,wimbledon,R
+1576,0.363636364,0.529411765,0.636363636,0.470588235,F,Alison Riske,Kristina Mladenovic,grass,wimbledon,R
+1577,1.0,0.493150685,0.0,0.506849315,F,Kurumi Nara,Amanda Anisimova,clay,french,R
+1578,0.5,0.529411765,0.5,0.470588235,F,Jelena Jankovic,Richel Hogenkamp,clay,french,R
+1579,0.0,0.37837837799999996,1.0,0.621621622,F,Elise Mertens,Richel Hogenkamp,clay,french,R
+1580,0.0,0.45,0.0,0.55,F,Madison Brengle,Richel Hogenkamp,grass,wimbledon,R
+1581,0.5,0.483333333,0.5,0.5166666670000001,F,Daria Gavrilova,Elise Mertens,clay,french,R
+1582,1.0,0.510204082,0.0,0.489795918,F,Richel Hogenkamp,Elise Mertens,clay,french,R
+1583,1.0,0.470588235,0.0,0.529411765,F,Venus Williams,Elise Mertens,clay,french,R
+1584,0.0,0.425531915,0.0,0.574468085,F,Madison Keys,Elise Mertens,hard,us,R
+1585,0.25,0.491803279,0.75,0.508196721,F,Venus Williams,Elise Mertens,grass,wimbledon,R
+1586,0.0,0.515151515,0.0,0.484848485,F,Julia Goerges,Madison Brengle,clay,french,R
+1587,0.0,0.425,0.0,0.575,F,Timea Bacsinszky,Madison Brengle,clay,french,R
+1588,0.0,0.5,0.0,0.5,F,Richel Hogenkamp,Madison Brengle,grass,wimbledon,R
+1589,0.0,0.43859649100000003,0.0,0.561403509,F,Petra Kvitova,Madison Brengle,grass,wimbledon,R
+1590,0.0,0.5,0.0,0.5,F,Caroline Garcia,Madison Brengle,grass,wimbledon,R
+1591,0.666666667,0.5625,0.333333333,0.4375,F,,Magda Linette,clay,french,R
+1592,0.5,0.538461538,0.5,0.46153846200000004,F,Ana Konjuh,Magda Linette,clay,french,R
+1593,1.0,0.507936508,0.0,0.49206349200000005,F,Elina Svitolina,Magda Linette,clay,french,R
+1594,0.0,0.5555555560000001,0.0,0.444444444,F,Karolina Pliskova,Magda Linette,hard,us,R
+1595,0.0,0.47916666700000005,1.0,0.520833333,F,Bethanie Mattek Sands,Magda Linette,grass,wimbledon,R
+1596,0.28571428600000004,0.456521739,0.7142857140000001,0.543478261,F,Kateryna Bondarenko,Petra Martic,clay,french,R
+1597,0.0,0.595744681,1.0,0.404255319,F,Madison Keys,Petra Martic,clay,french,R
+1598,0.5,0.413793103,0.5,0.5862068970000001,F,Anastasija Sevastova,Petra Martic,clay,french,R
+1599,1.0,0.470588235,0.0,0.529411765,F,Elina Svitolina,Petra Martic,clay,french,R
+1600,0.5,0.5,0.5,0.5,F,Agnieszka Radwanska,Petra Martic,hard,us,R
+1601,0.333333333,0.4875,0.666666667,0.5125,F,Daria Gavrilova,Petra Martic,grass,wimbledon,R
+1602,0.333333333,0.512820513,0.666666667,0.487179487,F,Denisa Allertova,Petra Martic,grass,wimbledon,R
+1603,0.5,0.454545455,0.5,0.545454545,F,Zarina Diyas,Petra Martic,grass,wimbledon,R
+1604,1.0,0.524590164,0.0,0.47540983600000003,F,Magdalena Rybarikova,Petra Martic,grass,wimbledon,R
+1605,0.0,0.566666667,1.0,0.433333333,F,Ashleigh Barty,Madison Keys,clay,french,R
+1606,0.5,0.5166666670000001,0.5,0.483333333,F,Petra Martic,Madison Keys,clay,french,R
+1607,0.75,0.525423729,0.25,0.474576271,F,Elise Mertens,Madison Keys,hard,us,R
+1608,0.6,0.424242424,0.4,0.575757576,F,Tatjana Maria,Madison Keys,hard,us,R
+1609,0.7142857140000001,0.409836066,0.28571428600000004,0.590163934,F,Elena Vesnina,Madison Keys,hard,us,R
+1610,0.0,0.43859649100000003,1.0,0.561403509,F,Elina Svitolina,Madison Keys,hard,us,R
+1611,0.375,0.5,0.625,0.5,F,Kaia Kanepi,Madison Keys,hard,us,R
+1612,0.75,0.566666667,0.25,0.433333333,F,CoCo Vandeweghe,Madison Keys,hard,us,R
+1613,0.666666667,0.565217391,0.333333333,0.434782609,F,Nao Hibino,Madison Keys,grass,wimbledon,R
+1614,0.666666667,0.5,0.333333333,0.5,F,Camila Giorgi,Madison Keys,grass,wimbledon,R
+1615,0.333333333,0.47540983600000003,0.666666667,0.524590164,F,Elena Vesnina,Beatriz Haddad Maia,clay,french,L
+1616,0.75,0.558139535,0.25,0.441860465,F,Laura Robson,Beatriz Haddad Maia,grass,wimbledon,L
+1617,0.0,0.553191489,0.0,0.446808511,F,Simona Halep,Beatriz Haddad Maia,grass,wimbledon,L
+1618,0.0,0.541666667,0.0,0.45833333299999995,F,Maria Sakkari,Carla Suarez Navarro,clay,french,R
+1619,0.0,0.520833333,0.0,0.47916666700000005,F,Sorana Cirstea,Carla Suarez Navarro,clay,french,R
+1620,0.0,0.5476190479999999,0.0,0.452380952,F,Elena Vesnina,Carla Suarez Navarro,clay,french,R
+1621,0.0,0.454545455,0.0,0.545454545,F,Simona Halep,Carla Suarez Navarro,clay,french,R
+1622,0.0,0.490196078,0.0,0.509803922,F,Eugenie Bouchard,Carla Suarez Navarro,grass,wimbledon,R
+1623,0.0,0.542857143,0.0,0.457142857,F,Shuai Peng,Carla Suarez Navarro,grass,wimbledon,R
+1624,1.0,0.55,0.0,0.45,F,Amandine Hesse,Marketa Vondrousova,clay,french,L
+1625,0.666666667,0.612903226,0.333333333,0.387096774,F,Daria Kasatkina,Marketa Vondrousova,clay,french,L
+1626,0.666666667,0.535714286,0.333333333,0.46428571399999996,F,Svetlana Kuznetsova,Marketa Vondrousova,hard,us,L
+1627,0.666666667,0.5106382979999999,0.333333333,0.489361702,F,Shuai Peng,Marketa Vondrousova,grass,wimbledon,L
+1628,0.0,0.5,1.0,0.5,F,Marketa Vondrousova,Amandine Hesse,clay,french,R
+1629,0.0,0.5,1.0,0.5,F,Shuai Peng,Amandine Hesse,hard,us,R
+1630,1.0,0.5,0.0,0.5,F,Ying Ying Duan,Tatjana Maria,clay,french,R
+1631,1.0,0.45945945899999996,0.0,0.540540541,F,Simona Halep,Tatjana Maria,clay,french,R
+1632,1.0,0.525,0.0,0.475,F,Madison Keys,Tatjana Maria,hard,us,R
+1633,0.6,0.454545455,0.4,0.545454545,F,Anastasia Potapova,Tatjana Maria,grass,wimbledon,R
+1634,0.0,0.384615385,1.0,0.615384615,F,Coco Vandeweghe,Tatjana Maria,grass,wimbledon,R
+1635,0.0,0.46875,0.0,0.53125,F,Taylor Townsend,Miyu Kato,clay,french,R
+1636,0.0,0.4,0.0,0.6,F,Miyu Kato,Taylor Townsend,clay,french,L
+1637,0.0,0.456140351,1.0,0.543859649,F,Su Wei Hsieh,Taylor Townsend,clay,french,L
+1638,1.0,0.47761194,0.0,0.52238806,F,Ana Bogdan,Taylor Townsend,hard,us,L
+1639,0.428571429,0.5,0.571428571,0.5,F,Kristyna Pliskova,Chloe Paquet,clay,french,R
+1640,0.666666667,0.477272727,0.333333333,0.522727273,F,Caroline Garcia,Chloe Paquet,clay,french,R
+1641,0.5,0.487179487,0.5,0.512820513,F,Naomi Osaka,Alison Van Uytvanck,clay,french,R
+1642,0.25,0.5,0.75,0.5,F,Agnieszka Radwanska,Alison Van Uytvanck,clay,french,R
+1643,0.28571428600000004,0.484848485,0.7142857140000001,0.515151515,F,Saisai Zheng,Alison Van Uytvanck,hard,us,R
+1644,1.0,0.518518519,0.0,0.481481481,F,Ekaterina Makarova,Alison Van Uytvanck,grass,wimbledon,R
+1645,0.0,0.6,0.0,0.4,F,Agnieszka Radwanska,Fiona Ferro,clay,french,R
+1646,0.0,0.517241379,1.0,0.482758621,F,Lucie Safarova,Veronica Cepede Royg,clay,french,R
+1647,1.0,0.552631579,0.0,0.447368421,F,Anastasia Pavlyuchenkova,Veronica Cepede Royg,clay,french,R
+1648,0.0,0.48837209299999995,0.0,0.511627907,F,Mariana Duque Marino,Veronica Cepede Royg,clay,french,R
+1649,1.0,0.47826087,0.0,0.52173913,F,Karolina Pliskova,Veronica Cepede Royg,clay,french,R
+1650,0.0,0.490196078,0.0,0.509803922,F,Barbora Strycova,Veronica Cepede Royg,grass,wimbledon,R
+1651,1.0,0.5476190479999999,0.0,0.452380952,F,Irina Camelia Begu,Mariana Duque Marino,clay,french,R
+1652,0.0,0.492537313,0.0,0.5074626870000001,F,Magdalena Rybarikova,Mariana Duque Marino,clay,french,R
+1653,0.0,0.490909091,0.0,0.509090909,F,Veronica Cepede Royg,Mariana Duque Marino,clay,french,R
+1654,0.2,0.517241379,0.8,0.482758621,F,Coco Vandeweghe,Magdalena Rybarikova,clay,french,R
+1655,0.75,0.5490196079999999,0.25,0.450980392,F,Mariana Duque Marino,Magdalena Rybarikova,clay,french,R
+1656,0.5,0.5,0.5,0.5,F,,Magdalena Rybarikova,hard,us,R
+1657,1.0,0.580645161,0.0,0.419354839,F,Monica Niculescu,Magdalena Rybarikova,grass,wimbledon,R
+1658,0.166666667,0.490566038,0.833333333,0.509433962,F,Karolina Pliskova,Magdalena Rybarikova,grass,wimbledon,R
+1659,0.75,0.575757576,0.25,0.424242424,F,Lesia Tsurenko,Magdalena Rybarikova,grass,wimbledon,R
+1660,0.0,0.551020408,1.0,0.44897959200000004,F,Petra Martic,Magdalena Rybarikova,grass,wimbledon,R
+1661,0.0,0.62962963,1.0,0.37037037,F,Coco Vandeweghe,Magdalena Rybarikova,grass,wimbledon,R
+1662,0.0,0.484848485,1.0,0.515151515,F,Garbine Muguruza,Magdalena Rybarikova,grass,wimbledon,R
+1663,1.0,0.48,0.0,0.52,F,Magdalena Rybarikova,Coco Vandeweghe,clay,french,R
+1664,0.0,0.419354839,1.0,0.580645161,F,Mona Barthel,Coco Vandeweghe,grass,wimbledon,R
+1665,1.0,0.52,0.0,0.48,F,Tatjana Maria,Coco Vandeweghe,grass,wimbledon,R
+1666,0.571428571,0.518518519,0.428571429,0.481481481,F,Alison Riske,Coco Vandeweghe,grass,wimbledon,R
+1667,0.5,0.46666666700000003,0.5,0.533333333,F,Caroline Wozniacki,Coco Vandeweghe,grass,wimbledon,R
+1668,1.0,0.45833333299999995,0.0,0.541666667,F,Magdalena Rybarikova,Coco Vandeweghe,grass,wimbledon,R
+1669,0.5,0.490196078,0.5,0.509803922,F,Carina Witthoeft,Lauren Davis,clay,french,R
+1670,0.0,0.47272727299999995,1.0,0.527272727,F,Sofia Kenin,Lauren Davis,hard,us,R
+1671,0.0,0.454545455,1.0,0.545454545,F,Varvara Lepchenko,Lauren Davis,grass,wimbledon,R
+1672,0.0,0.41666666700000005,1.0,0.583333333,F,Pauline Parmentier,Irina Khromacheva,clay,french,L
+1673,0.666666667,0.472222222,0.333333333,0.5277777779999999,F,Aryna Sabalenka,Irina Khromacheva,grass,wimbledon,L
+1674,0.0,0.520833333,0.0,0.47916666700000005,F,Kiki Bertens,Catherine Bellis,clay,french,R
+1675,0.0,0.5111111110000001,0.0,0.488888889,F,Caroline Wozniacki,Catherine Bellis,clay,french,R
+1676,0.333333333,0.452830189,0.666666667,0.5471698110000001,F,Nao Hibino,Catherine Bellis,hard,us,R
+1677,0.0,0.5,1.0,0.5,F,Victoria Azarenka,Catherine Bellis,grass,wimbledon,R
+1678,0.333333333,0.56,0.666666667,0.44,F,Dominika Cibulkova,Ons Jabeur,clay,french,R
+1679,1.0,0.46153846200000004,0.0,0.538461538,F,Timea Bacsinszky,Ons Jabeur,clay,french,R
+1680,1.0,0.486486486,0.0,0.513513514,F,Brienne Minor,Ons Jabeur,hard,us,R
+1681,0.0,0.512820513,0.0,0.487179487,F,CoCo Vandeweghe,Ons Jabeur,hard,us,R
+1682,0.0,0.38888888899999996,1.0,0.611111111,F,Svetlana Kuznetsova,Ons Jabeur,grass,wimbledon,R
+1683,0.333333333,0.564102564,0.666666667,0.435897436,M,Yuichi Sugita,Geoffrey Blancaneaux,hard,us,R
+1684,0.5555555560000001,0.423076923,0.444444444,0.576923077,M,Richard Gasquet,Leonardo Mayer,hard,us,R
+1685,0.3,0.467532468,0.7,0.5324675320000001,M,Yuichi Sugita,Leonardo Mayer,hard,us,R
+1686,0.41666666700000005,0.526315789,0.583333333,0.473684211,M,Rafael Nadal,Leonardo Mayer,hard,us,R
+1687,1.0,0.482758621,0.0,0.517241379,M,Grigor Dimitrov,Vaclav Safranek,hard,us,R
+1688,0.5555555560000001,0.449275362,0.444444444,0.5507246379999999,M,Juan Martin del Potro,Henri Laaksonen,hard,us,R
+1689,0.4,0.5,0.6,0.5,M,Lukas Rosol,Henri Laaksonen,grass,wimbledon,R
+1690,0.4375,0.5,0.5625,0.5,M,Henri Laaksonen,Juan Martin del Potro,hard,us,R
+1691,0.5,0.5,0.5,0.5,M,Adrian Menendez Maceiras,Juan Martin del Potro,hard,us,R
+1692,0.35714285700000004,0.408163265,0.642857143,0.591836735,M,Roberto Bautista Agut,Juan Martin del Potro,hard,us,R
+1693,0.666666667,0.615384615,0.333333333,0.384615385,M,Dominic Thiem,Juan Martin del Potro,hard,us,R
+1694,0.545454545,0.525,0.454545455,0.475,M,Roger Federer,Juan Martin del Potro,hard,us,R
+1695,0.28571428600000004,0.47619047600000003,0.7142857140000001,0.523809524,M,Rafael Nadal,Juan Martin del Potro,hard,us,R
+1696,0.571428571,0.5166666670000001,0.428571429,0.483333333,M,Marcos Baghdatis,Taylor Fritz,hard,us,R
+1697,0.333333333,0.475,0.666666667,0.525,M,Dominic Thiem,Taylor Fritz,hard,us,R
+1698,0.666666667,0.52,0.333333333,0.48,M,John Isner,Taylor Fritz,grass,wimbledon,R
+1699,1.0,0.5490196079999999,0.0,0.450980392,M,Dominic Thiem,Alex de Minaur,hard,us,R
+1700,0.75,0.509433962,0.25,0.490566038,M,Kevin Anderson,JC Aragone,hard,us,R
+1701,0.0,0.506024096,1.0,0.49397590399999997,M,Alexander Zverev,Darian King,hard,us,R
+1702,0.333333333,0.42105263200000004,0.666666667,0.578947368,M,Lucas Pouille,Ruben Bemelmans,hard,us,L
+1703,0.666666667,0.47826087,0.333333333,0.52173913,M,Tommy Haas,Ruben Bemelmans,grass,wimbledon,L
+1704,0.75,0.545454545,0.25,0.454545455,M,Daniil Medvedev,Ruben Bemelmans,grass,wimbledon,L
+1705,0.333333333,0.43037974700000003,0.666666667,0.569620253,M,Kevin Anderson,Ruben Bemelmans,grass,wimbledon,L
+1706,0.444444444,0.488888889,0.5555555560000001,0.5111111110000001,M,Viktor Troicki,Stefano Travaglia,hard,us,R
+1707,0.6,0.479591837,0.4,0.5204081629999999,M,Andrey Rublev,Stefano Travaglia,grass,wimbledon,R
+1708,0.625,0.543859649,0.375,0.456140351,M,Juan Martin del Potro,Adrian Menendez Maceiras,hard,us,R
+1709,0.333333333,0.473684211,0.666666667,0.526315789,M,Adrian Mannarino,Bjorn Fratangelo,hard,us,R
+1710,1.0,0.492307692,0.0,0.507692308,M,Jo Wilfried Tsonga,Denis Shapovalov,hard,us,L
+1711,0.25,0.58,0.75,0.42,M,Kyle Edmund,Denis Shapovalov,hard,us,L
+1712,0.5,0.521126761,0.5,0.478873239,M,Pablo Carreno Busta,Denis Shapovalov,hard,us,L
+1713,0.41176470600000004,0.534246575,0.588235294,0.465753425,M,Jerzy Janowicz,Denis Shapovalov,grass,wimbledon,L
+1714,0.0,0.46153846200000004,1.0,0.538461538,M,Paolo Lorenzi,Thomas Fabbiano,hard,us,R
+1715,1.0,0.536231884,0.0,0.463768116,M,Sam Querrey,Thomas Fabbiano,grass,wimbledon,R
+1716,0.0,0.516129032,1.0,0.48387096799999996,F,Ons Jabeur,Brienne Minor,hard,us,R
+1717,1.0,0.5,0.0,0.5,F,Daria Gavrilova,Allie Kiick,hard,us,R
+1718,0.5,0.487804878,0.5,0.5121951220000001,F,Caroline Wozniacki,Mihaela Buzarnescu,hard,us,L
+1719,0.4,0.41176470600000004,0.6,0.588235294,F,Venus Williams,Viktoria Kuzmova,hard,us,R
+1720,0.0,0.545454545,0.0,0.454545455,F,Kristyna Pliskova,Misa Eguchi,hard,us,R
+1721,0.0,0.45901639299999997,1.0,0.540983607,F,Ying Ying Duan,Claire Liu,hard,us,R
+1722,0.571428571,0.46296296299999995,0.428571429,0.537037037,F,Johanna Konta,Aleksandra Krunic,hard,us,R
+1723,1.0,0.625,0.0,0.375,F,Julia Goerges,Aleksandra Krunic,hard,us,R
+1724,0.0,0.5555555560000001,1.0,0.444444444,F,Roberta Vinci,Sloane Stephens,hard,us,R
+1725,0.333333333,0.586666667,0.666666667,0.41333333299999997,F,Dominika Cibulkova,Sloane Stephens,hard,us,R
+1726,1.0,0.444444444,0.0,0.5555555560000001,F,Ashleigh Barty,Sloane Stephens,hard,us,R
+1727,0.0,0.568627451,1.0,0.431372549,F,Julia Goerges,Sloane Stephens,hard,us,R
+1728,0.0,0.539473684,0.0,0.460526316,F,Anastasija Sevastova,Sloane Stephens,hard,us,R
+1729,0.5,0.563636364,0.5,0.436363636,F,Venus Williams,Sloane Stephens,hard,us,R
+1730,1.0,0.48387096799999996,0.0,0.516129032,F,Alison Riske,Sloane Stephens,grass,wimbledon,R
+1731,0.0,0.518518519,0.0,0.481481481,F,Lauren Davis,Sofia Kenin,hard,us,R
+1732,0.0,0.47297297299999996,1.0,0.527027027,F,Sachia Vickery,Sofia Kenin,hard,us,R
+1733,1.0,0.525,0.0,0.475,F,Maria Sharapova,Sofia Kenin,hard,us,R
+1734,0.2,0.4,0.8,0.6,F,Simona Halep,Maria Sharapova,hard,us,R
+1735,0.166666667,0.568965517,0.833333333,0.43103448299999997,F,Timea Babos,Maria Sharapova,hard,us,R
+1736,0.14285714300000002,0.41025641,0.857142857,0.58974359,F,Sofia Kenin,Maria Sharapova,hard,us,R
+1737,0.25,0.520833333,0.75,0.47916666700000005,F,Anastasija Sevastova,Maria Sharapova,hard,us,R
+1738,0.166666667,0.48,0.833333333,0.52,F,Yanina Wickmayer,Kaia Kanepi,hard,us,R
+1739,0.0,0.44067796600000003,1.0,0.559322034,F,Naomi Osaka,Kaia Kanepi,hard,us,R
+1740,0.5,0.49122807,0.5,0.50877193,F,Daria Kasatkina,Kaia Kanepi,hard,us,R
+1741,0.0,0.48837209299999995,0.0,0.511627907,F,Madison Keys,Kaia Kanepi,hard,us,R
+1742,0.5,0.53968254,0.5,0.46031746,F,Sofia Kenin,Sachia Vickery,hard,us,R
+1743,0.333333333,0.535714286,0.666666667,0.46428571399999996,M,Jo Wilfried Tsonga,Cameron Norrie,grass,wimbledon,L
+1744,0.8,0.529411765,0.2,0.470588235,M,Andreas Seppi,Norbert Gombos,grass,wimbledon,R
+1745,0.428571429,0.472222222,0.571428571,0.5277777779999999,M,Henri Laaksonen,Lukas Rosol,grass,wimbledon,R
+1746,0.32,0.47899159700000005,0.68,0.521008403,M,Gilles Muller,Lukas Rosol,grass,wimbledon,R
+1747,0.5555555560000001,0.42,0.444444444,0.58,M,Gilles Muller,Marton Fucsovics,grass,wimbledon,R
+1748,0.5,0.5,0.5,0.5,M,Kei Nishikori,Marco Cecchinato,grass,wimbledon,R
+1749,0.6,0.524590164,0.4,0.47540983600000003,M,Marius Copil,Peter Gojowczyk,grass,wimbledon,R
+1750,0.25,0.448275862,0.75,0.551724138,M,Roberto Bautista Agut,Peter Gojowczyk,grass,wimbledon,R
+1751,0.333333333,0.52,0.666666667,0.48,M,Roberto Bautista Agut,Andreas Haider Maurer,grass,wimbledon,R
+1752,0.8,0.446153846,0.2,0.553846154,M,Jack Sock,Christian Garin,grass,wimbledon,R
+1753,0.75,0.46153846200000004,0.25,0.538461538,M,Thomaz Bellucci,Sebastian Ofner,grass,wimbledon,R
+1754,0.7857142859999999,0.5189873420000001,0.214285714,0.481012658,M,Jack Sock,Sebastian Ofner,grass,wimbledon,R
+1755,1.0,0.471698113,0.0,0.528301887,M,Alexander Zverev,Sebastian Ofner,grass,wimbledon,R
+1756,0.5,0.465517241,0.5,0.534482759,M,Marcos Baghdatis,James Ward,grass,wimbledon,R
+1757,0.7142857140000001,0.532258065,0.28571428600000004,0.467741935,M,Dominic Thiem,Vasek Pospisil,grass,wimbledon,R
+1758,1.0,0.479591837,0.0,0.5204081629999999,M,Steve Darcis,Ricardas Berankis,grass,wimbledon,R
+1759,0.4,0.479452055,0.6,0.520547945,M,Gael Monfils,Daniel Brands,grass,wimbledon,R
+1760,0.666666667,0.558823529,0.333333333,0.441176471,M,Kyle Edmund,Alexander Ward,grass,wimbledon,R
+1761,0.5,0.452830189,0.5,0.5471698110000001,M,Yuichi Sugita,Brydan Klein,grass,wimbledon,R
+1762,0.0,0.5365853660000001,1.0,0.463414634,F,Ekaterina Alexandrova,Garbine Muguruza,grass,wimbledon,R
+1763,0.6,0.552631579,0.4,0.447368421,F,Yanina Wickmayer,Garbine Muguruza,grass,wimbledon,R
+1764,0.0,0.5,0.0,0.5,F,Sorana Cirstea,Garbine Muguruza,grass,wimbledon,R
+1765,0.4,0.517241379,0.6,0.482758621,F,Angelique Kerber,Garbine Muguruza,grass,wimbledon,R
+1766,0.5,0.47619047600000003,0.5,0.523809524,F,Svetlana Kuznetsova,Garbine Muguruza,grass,wimbledon,R
+1767,0.666666667,0.481481481,0.333333333,0.518518519,F,Magdalena Rybarikova,Garbine Muguruza,grass,wimbledon,R
+1768,0.333333333,0.46,0.666666667,0.54,F,Christina McHale,Katie Boulter,grass,wimbledon,R
+1769,0.0,0.424242424,1.0,0.575757576,F,Kristina Kucova,Bianca Andreescu,grass,wimbledon,R
+1770,0.5,0.592592593,0.5,0.40740740700000005,F,Annika Beck,Polona Hercog,grass,wimbledon,
+1771,0.5,0.509090909,0.5,0.490909091,F,Varvara Lepchenko,Polona Hercog,grass,wimbledon,
+1772,0.5,0.5555555560000001,0.5,0.444444444,F,Svetlana Kuznetsova,Polona Hercog,grass,wimbledon,
+1773,0.0,0.53125,0.0,0.46875,F,Zarina Diyas,Xinyun Han,grass,wimbledon,L
+1774,0.0,0.531914894,1.0,0.46808510600000003,F,Xinyun Han,Zarina Diyas,grass,wimbledon,R
+1775,0.75,0.49206349200000005,0.25,0.507936508,F,Arina Rodionova,Zarina Diyas,grass,wimbledon,R
+1776,0.5,0.509433962,0.5,0.490566038,F,Petra Martic,Zarina Diyas,grass,wimbledon,R
+1777,0.0,0.473684211,0.0,0.526315789,F,Tatjana Maria,Anastasia Potapova,grass,wimbledon,R 
+1778,1.0,0.6333333329999999,0.0,0.36666666700000006,F,Ana Konjuh,Sabine Lisicki,grass,wimbledon,R
+1779,0.0,0.5,1.0,0.5,F,Qiang Wang,Kai Chen Chang,grass,wimbledon,R
+1780,0.0,0.5,0.0,0.5,F,Camila Giorgi,Alize Cornet,grass,wimbledon,R
+1781,1.0,0.5,0.0,0.5,F,Irina Khromacheva,Aryna Sabalenka,grass,wimbledon,R
+1782,0.5,0.48387096799999996,0.5,0.516129032,F,Carina Witthoeft,Aryna Sabalenka,grass,wimbledon,R
+1783,1.0,0.489361702,0.0,0.5106382979999999,F,Catherine Bellis,Victoria Azarenka,grass,wimbledon,R
+1784,0.0,0.419354839,1.0,0.580645161,F,Elena Vesnina,Victoria Azarenka,grass,wimbledon,R
+1785,0.333333333,0.454545455,0.666666667,0.545454545,F,Heather Watson,Victoria Azarenka,grass,wimbledon,R
+1786,1.0,0.533333333,0.0,0.46666666700000003,F,Simona Halep,Victoria Azarenka,grass,wimbledon,R
+1787,0.0,0.4375,1.0,0.5625,F,Beatriz Haddad Maia,Laura Robson,grass,wimbledon,L

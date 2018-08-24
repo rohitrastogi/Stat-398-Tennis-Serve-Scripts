@@ -1,0 +1,483 @@
+,ad_acepercentage,ad_firstservepercentage,deuce_acepercentage,deuce_firstservepercentage,gender,opponent,player,surface,tournament
+0,0.5,0.5614035087719298,0.5,0.43859649122807015,M,Andrey Kuznetsov,Andy Murray,clay,french
+1,0.8333333333333334,0.5192307692307693,0.16666666666666666,0.4807692307692308,M,Andy Murray,Andrey Kuznetsov,clay,french
+2,0.3888888888888889,0.463768115942029,0.6111111111111112,0.5362318840579711,M,Martin Klizan,Laurent Lokoli,clay,french
+3,0.25,0.45977011494252873,0.75,0.5402298850574713,M,Laurent Lokoli,Martin Klizan,clay,french
+4,0.5,0.532608695652174,0.5,0.4673913043478261,M,Nicolas Almagro,Marcos Baghdatis,clay,french
+5,0.5625,0.4583333333333333,0.4375,0.5416666666666666,M,Marcos Baghdatis,Nicolas Almagro,clay,french
+6,0.6666666666666666,0.509090909090909,0.3333333333333333,0.4909090909090909,M,Juan Martin Del Potro,Guido Pella,clay,french
+7,0.46153846153846156,0.5,0.5384615384615384,0.5,M,Guido Pella,Juan Martin Del Potro,clay,french
+8,0.5517241379310345,0.45348837209302323,0.4482758620689655,0.5465116279069767,M,Jordan Thompson,John Isner,clay,french
+9,0.4444444444444444,0.46153846153846156,0.5555555555555556,0.5384615384615384,M,John Isner,Jordan Thompson,clay,french
+10,0.6666666666666666,0.5076923076923077,0.3333333333333333,0.49230769230769234,M,Nicolas Jarry,Karen Khachanov,clay,french
+11,0.25,0.5157894736842106,0.75,0.4842105263157895,M,Karen Khachanov,Nicolas Jarry,clay,french
+12,0.75,0.509090909090909,0.25,0.4909090909090909,M,Tomas Berdych,Jan Lennard Struff,clay,french
+13,0.75,0.5161290322580645,0.25,0.4838709677419355,M,Jan Lennard Struff,Tomas Berdych,clay,french
+14,0.2857142857142857,0.4642857142857143,0.7142857142857143,0.5357142857142857,M,Fernando Verdasco,Alexander Zverev,clay,french
+15,0.0,0.5056179775280899,0.0,0.4943820224719101,M,Alexander Zverev,Fernando Verdasco,clay,french
+16,0.1111111111111111,0.46296296296296297,0.8888888888888888,0.5370370370370371,M,Jared Donaldson,Pierre Hugues Herbert,clay,french
+17,0.16666666666666666,0.5116279069767442,0.8333333333333334,0.4883720930232558,M,Pierre Hugues Herbert,Jared Donaldson,clay,french
+18,0.5714285714285714,0.5238095238095238,0.42857142857142855,0.47619047619047616,M,Nicolas Kicker,Damir Dzumhur,clay,french
+19,0.0,0.5352112676056338,0.0,0.4647887323943662,M,Damir Dzumhur,Nicolas Kicker,clay,french
+20,0.8,0.5384615384615384,0.2,0.46153846153846156,M,Pablo Cuevas,Maxime Hamou,clay,french
+21,0.2857142857142857,0.543859649122807,0.7142857142857143,0.45614035087719296,M,Maxime Hamou,Pablo Cuevas,clay,french
+22,0.5263157894736842,0.5689655172413793,0.47368421052631576,0.43103448275862066,M,Hyeon Chung,Sam Querrey,clay,french
+23,0.6666666666666666,0.5166666666666667,0.3333333333333333,0.48333333333333334,M,Sam Querrey,Hyeon Chung,clay,french
+24,0.5,0.4166666666666667,0.5,0.5833333333333334,M,Denis Istomin,Ernesto Escobedo,clay,french
+25,0.4444444444444444,0.5,0.5555555555555556,0.5,M,Ernesto Escobedo,Denis Istomin,clay,french
+26,0.0,0.47540983606557374,1.0,0.5245901639344263,M,Jeremy Chardy,Radu Albot,clay,french
+27,0.2727272727272727,0.4406779661016949,0.7272727272727273,0.559322033898305,M,Radu Albot,Jeremy Chardy,clay,french
+28,0.5,0.5333333333333333,0.5,0.4666666666666667,M,Kei Nishikori,Thanasi Kokkinakis,clay,french
+29,0.3333333333333333,0.5,0.6666666666666666,0.5,M,Thanasi Kokkinakis,Kei Nishikori,clay,french
+30,1.0,0.62,0.0,0.38,M,Jozef Kovalik,Stan Wawrinka,clay,french
+31,0.5,0.40476190476190477,0.5,0.5952380952380952,M,Stan Wawrinka,Jozef Kovalik,clay,french
+32,1.0,0.4827586206896552,0.0,0.5172413793103449,M,Andreas Seppi,Santiago Giraldo,clay,french
+33,0.45454545454545453,0.543859649122807,0.5454545454545454,0.45614035087719296,M,Santiago Giraldo,Andreas Seppi,clay,french
+34,0.5833333333333334,0.4925373134328358,0.4166666666666667,0.5074626865671642,M,Fabio Fognini,Frances Tiafoe,clay,french
+35,0.0,0.5194805194805194,1.0,0.4805194805194805,M,Frances Tiafoe,Fabio Fognini,clay,french
+36,0.42857142857142855,0.5,0.5714285714285714,0.5,M,Arthur De Greef,Richard Gasquet,clay,french
+37,0.5,0.5283018867924528,0.5,0.4716981132075472,M,Richard Gasquet,Arthur De Greef,clay,french
+38,0.6153846153846154,0.5454545454545454,0.38461538461538464,0.45454545454545453,M,Victor Estrella Burgos,Teymuraz Gabashvili,clay,french
+39,0.5555555555555556,0.5211267605633803,0.4444444444444444,0.4788732394366197,M,Teymuraz Gabashvili,Victor Estrella Burgos,clay,french
+40,0.2,0.5161290322580645,0.8,0.4838709677419355,M,Alexandre Muller,Thiago Monteiro,clay,french
+41,0.25,0.48936170212765956,0.75,0.5106382978723404,M,Thiago Monteiro,Alexandre Muller,clay,french
+42,0.75,0.5,0.25,0.5,M,Gael Monfils,Dustin Brown,clay,french
+43,0.0,0.532258064516129,1.0,0.46774193548387094,M,Dustin Brown,Gael Monfils,clay,french
+44,0.5,0.5514018691588785,0.5,0.4485981308411215,M,Renzo Olivo,Jo Wilfried Tsonga,clay,french
+45,0.0,0.4727272727272727,0.0,0.5272727272727272,M,Jo Wilfried Tsonga,Renzo Olivo,clay,french
+46,0.0,0.5208333333333334,1.0,0.4791666666666667,M,Gastao Elias,Kyle Edmund,clay,french
+47,0.6,0.5238095238095238,0.4,0.47619047619047616,M,Kyle Edmund,Gastao Elias,clay,french
+48,0.25,0.41379310344827586,0.75,0.5862068965517241,M,Malek Jaziri,Kevin Anderson,clay,french
+49,0.0,0.6,1.0,0.4,M,Kevin Anderson,Malek Jaziri,clay,french
+50,0.8,0.5416666666666666,0.2,0.4583333333333333,M,Nick Kyrgios,Philipp Kohlschreiber,clay,french
+51,0.7,0.5147058823529411,0.3,0.4852941176470588,M,Philipp Kohlschreiber,Nick Kyrgios,clay,french
+52,0.4166666666666667,0.4722222222222222,0.5833333333333334,0.5277777777777778,M,Donald Young,David Ferrer,clay,french
+53,0.4,0.49230769230769234,0.6,0.5076923076923077,M,David Ferrer,Donald Young,clay,french
+54,0.8571428571428571,0.5671641791044776,0.14285714285714285,0.43283582089552236,M,Federico Delbonis,Konstantin Kravchuk,clay,french
+55,0.4,0.5098039215686274,0.6,0.49019607843137253,M,Konstantin Kravchuk,Federico Delbonis,clay,french
+56,0.6,0.3695652173913043,0.4,0.6304347826086957,M,Marin Cilic,Ernests Gulbis,clay,french
+57,0.2857142857142857,0.5128205128205128,0.7142857142857143,0.48717948717948717,M,Ernests Gulbis,Marin Cilic,clay,french
+58,0.5833333333333334,0.46511627906976744,0.4166666666666667,0.5348837209302325,M,Steve Darcis,Milos Raonic,clay,french
+59,1.0,0.5490196078431373,0.0,0.45098039215686275,M,Milos Raonic,Steve Darcis,clay,french
+60,0.7272727272727273,0.5125,0.2727272727272727,0.4875,M,Mikhail Youzhny,Rogerio Dutra Silva,clay,french
+61,0.6,0.4827586206896552,0.4,0.5172413793103449,M,Rogerio Dutra Silva,Mikhail Youzhny,clay,french
+62,1.0,0.4803921568627451,0.0,0.5196078431372549,M,Quentin Halys,Marco Trungelliti,clay,french
+63,0.6875,0.5,0.3125,0.5,M,Marco Trungelliti,Quentin Halys,clay,french
+64,0.4666666666666667,0.4461538461538462,0.5333333333333333,0.5538461538461539,M,Gilles Muller,Guillermo Garcia Lopez,clay,french
+65,0.5,0.5301204819277109,0.5,0.46987951807228917,M,Guillermo Garcia Lopez,Gilles Muller,clay,french
+66,0.5,0.5,0.5,0.5,M,Florian Mayer,Pablo Carreno Busta,clay,french
+67,0.3333333333333333,0.4727272727272727,0.6666666666666666,0.5272727272727272,M,Pablo Carreno Busta,Florian Mayer,clay,french
+68,0.625,0.484375,0.375,0.515625,M,Jerzy Janowicz,Taro Daniel,clay,french
+69,0.23076923076923078,0.45588235294117646,0.7692307692307693,0.5441176470588235,M,Taro Daniel,Jerzy Janowicz,clay,french
+70,0.5,0.5230769230769231,0.5,0.47692307692307695,M,Daniel Evans,Tommy Robredo,clay,french
+71,1.0,0.38461538461538464,0.0,0.6153846153846154,M,Tommy Robredo,Daniel Evans,clay,french
+72,0.0,0.4594594594594595,1.0,0.5405405405405406,M,Grigor Dimitrov,Stephane Robert,clay,french
+73,0.5,0.4444444444444444,0.5,0.5555555555555556,M,Stephane Robert,Grigor Dimitrov,clay,french
+74,0.5,0.5405405405405406,0.5,0.4594594594594595,M,Jiri Vesely,Jack Sock,clay,french
+75,0.16666666666666666,0.5172413793103449,0.8333333333333334,0.4827586206896552,M,Jack Sock,Jiri Vesely,clay,french
+76,0.7272727272727273,0.5555555555555556,0.2727272727272727,0.4444444444444444,M,Ryan Harrison,Aljaz Bedene,clay,french
+77,0.2857142857142857,0.4222222222222222,0.7142857142857143,0.5777777777777777,M,Aljaz Bedene,Ryan Harrison,clay,french
+78,0.5,0.5753424657534246,0.5,0.4246575342465753,M,Tennys Sandgren,Mikhail Kukushkin,clay,french
+79,0.5,0.5,0.5,0.5,M,Mikhail Kukushkin,Tennys Sandgren,clay,french
+80,0.6666666666666666,0.48936170212765956,0.3333333333333333,0.5106382978723404,M,Roberto Bautista Agut,John Millman,clay,french
+81,0.6666666666666666,0.5192307692307693,0.3333333333333333,0.4807692307692308,M,John Millman,Roberto Bautista Agut,clay,french
+82,0.0,0.5111111111111111,0.0,0.4888888888888889,M,Nikoloz Basilashvili,Gilles Simon,clay,french
+83,0.0,0.5194805194805194,0.0,0.4805194805194805,M,Gilles Simon,Nikoloz Basilashvili,clay,french
+84,0.3333333333333333,0.4444444444444444,0.6666666666666666,0.5555555555555556,M,Evgeny Donskoy,Viktor Troicki,clay,french
+85,0.75,0.41025641025641024,0.25,0.5897435897435898,M,Viktor Troicki,Evgeny Donskoy,clay,french
+86,0.7142857142857143,0.5581395348837209,0.2857142857142857,0.4418604651162791,M,Alex De Minaur,Robin Haase,clay,french
+87,0.3333333333333333,0.5208333333333334,0.6666666666666666,0.4791666666666667,M,Robin Haase,Alex De Minaur,clay,french
+88,0.0,0.45,0.0,0.55,M,Rafael Nadal,Benoit Paire,clay,french
+89,1.0,0.47619047619047616,0.0,0.5238095238095238,M,Benoit Paire,Rafael Nadal,clay,french
+90,0.45454545454545453,0.45454545454545453,0.5454545454545454,0.5454545454545454,M,Bernard Tomic,Dominic Thiem,clay,french
+91,0.3333333333333333,0.46938775510204084,0.6666666666666666,0.5306122448979592,M,Dominic Thiem,Bernard Tomic,clay,french
+92,0.5,0.5,0.5,0.5,M,Nicolas Mahut,Simone Bolelli,clay,french
+93,0.8,0.5208333333333334,0.2,0.4791666666666667,M,Simone Bolelli,Nicolas Mahut,clay,french
+94,0.375,0.5384615384615384,0.625,0.46153846153846156,M,Borna Coric,Mathias Bourgue,clay,french
+95,0.0,0.39655172413793105,1.0,0.603448275862069,M,Mathias Bourgue,Borna Coric,clay,french
+96,0.5,0.47115384615384615,0.5,0.5288461538461539,M,Steve Johnson,Yuichi Sugita,clay,french
+97,0.3076923076923077,0.5,0.6923076923076923,0.5,M,Yuichi Sugita,Steve Johnson,clay,french
+98,0.6,0.5873015873015873,0.4,0.4126984126984127,M,Stefanos Tsitsipas,Ivo Karlovic,clay,french
+99,0.6666666666666666,0.559322033898305,0.3333333333333333,0.4406779661016949,M,Ivo Karlovic,Stefanos Tsitsipas,clay,french
+100,0.25,0.5178571428571429,0.75,0.48214285714285715,M,Adrian Mannarino,Horacio Zeballos,clay,french
+101,0.6666666666666666,0.46296296296296297,0.3333333333333333,0.5370370370370371,M,Horacio Zeballos,Adrian Mannarino,clay,french
+102,0.0,0.5294117647058824,1.0,0.47058823529411764,M,David Goffin,Paul Henri Mathieu,clay,french
+103,0.45454545454545453,0.5238095238095238,0.5454545454545454,0.47619047619047616,M,Paul Henri Mathieu,David Goffin,clay,french
+104,0.5,0.47761194029850745,0.5,0.5223880597014925,M,Julien Benneteau,Lucas Pouille,clay,french
+105,0.5714285714285714,0.4835164835164835,0.42857142857142855,0.5164835164835165,M,Lucas Pouille,Julien Benneteau,clay,french
+106,0.3333333333333333,0.5232558139534884,0.6666666666666666,0.47674418604651164,M,Dusan Lajovic,Thomaz Bellucci,clay,french
+107,0.42857142857142855,0.4891304347826087,0.5714285714285714,0.5108695652173914,M,Thomaz Bellucci,Dusan Lajovic,clay,french
+108,0.25,0.47761194029850745,0.75,0.5223880597014925,M,Daniil Medvedev,Benjamin Bonzi,clay,french
+109,0.2,0.47540983606557374,0.8,0.5245901639344263,M,Benjamin Bonzi,Daniil Medvedev,clay,french
+110,0.5714285714285714,0.5,0.42857142857142855,0.5,M,Albert Ramos Vinolas,Marius Copil,clay,french
+111,0.5,0.4696969696969697,0.5,0.5303030303030303,M,Marius Copil,Albert Ramos Vinolas,clay,french
+112,0.0,0.4230769230769231,1.0,0.5769230769230769,M,Stefano Napolitano,Mischa Zverev,clay,french
+113,0.0,0.48148148148148145,1.0,0.5185185185185185,M,Mischa Zverev,Stefano Napolitano,clay,french
+114,0.0,0.47619047619047616,1.0,0.5238095238095238,M,Diego Schwartzman,Andrey Rublev,clay,french
+115,0.6666666666666666,0.5098039215686274,0.3333333333333333,0.49019607843137253,M,Andrey Rublev,Diego Schwartzman,clay,french
+116,0.5,0.5306122448979592,0.5,0.46938775510204084,M,Janko Tipsarevic,Joao Sousa,clay,french
+117,0.5,0.4897959183673469,0.5,0.5102040816326531,M,Joao Sousa,Janko Tipsarevic,clay,french
+118,0.4,0.44642857142857145,0.6,0.5535714285714286,M,Novak Djokovic,Marcel Granollers,clay,french
+119,0.5,0.5344827586206896,0.5,0.46551724137931033,M,Marcel Granollers,Novak Djokovic,clay,french
+120,0.7777777777777778,0.5483870967741935,0.2222222222222222,0.45161290322580644,M,Martin Klizan,Andy Murray,clay,french
+121,0.6,0.5131578947368421,0.4,0.4868421052631579,M,Andy Murray,Martin Klizan,clay,french
+122,0.5714285714285714,0.5142857142857142,0.42857142857142855,0.4857142857142857,M,Juan Martin Del Potro,Nicolas Almagro,clay,french
+123,0.75,0.5526315789473685,0.25,0.4473684210526316,M,Nicolas Almagro,Juan Martin Del Potro,clay,french
+124,0.65,0.5753424657534246,0.35,0.4246575342465753,M,Paolo Lorenzi,John Isner,clay,french
+125,0.2857142857142857,0.4528301886792453,0.7142857142857143,0.5471698113207547,M,John Isner,Paolo Lorenzi,clay,french
+126,0.5,0.46511627906976744,0.5,0.5348837209302325,M,Tomas Berdych,Karen Khachanov,clay,french
+127,0.42857142857142855,0.45614035087719296,0.5714285714285714,0.543859649122807,M,Karen Khachanov,Tomas Berdych,clay,french
+128,0.6,0.45714285714285713,0.4,0.5428571428571428,M,Pierre Hugues Herbert,Fernando Verdasco,clay,french
+129,0.36363636363636365,0.4666666666666667,0.6363636363636364,0.5333333333333333,M,Fernando Verdasco,Pierre Hugues Herbert,clay,french
+130,0.6666666666666666,0.5192307692307693,0.3333333333333333,0.4807692307692308,M,Pablo Cuevas,Nicolas Kicker,clay,french
+131,1.0,0.5555555555555556,0.0,0.4444444444444444,M,Nicolas Kicker,Pablo Cuevas,clay,french
+132,0.6666666666666666,0.4186046511627907,0.3333333333333333,0.5813953488372093,M,Denis Istomin,Hyeon Chung,clay,french
+133,0.5,0.49019607843137253,0.5,0.5098039215686274,M,Hyeon Chung,Denis Istomin,clay,french
+134,0.5,0.4727272727272727,0.5,0.5272727272727272,M,Kei Nishikori,Jeremy Chardy,clay,french
+135,0.5,0.46,0.5,0.54,M,Jeremy Chardy,Kei Nishikori,clay,french
+136,0.5625,0.5,0.4375,0.5,M,Alexandr Dolgopolov,Stan Wawrinka,clay,french
+137,0.5,0.5070422535211268,0.5,0.49295774647887325,M,Stan Wawrinka,Alexandr Dolgopolov,clay,french
+138,0.75,0.5652173913043478,0.25,0.43478260869565216,M,Fabio Fognini,Andreas Seppi,clay,french
+139,0.4,0.45614035087719296,0.6,0.543859649122807,M,Andreas Seppi,Fabio Fognini,clay,french
+140,0.6,0.525,0.4,0.475,M,Victor Estrella Burgos,Richard Gasquet,clay,french
+141,0.0,0.509090909090909,0.0,0.4909090909090909,M,Richard Gasquet,Victor Estrella Burgos,clay,french
+142,0.0,0.575,1.0,0.425,M,Gael Monfils,Thiago Monteiro,clay,french
+143,0.6666666666666666,0.5471698113207547,0.3333333333333333,0.4528301886792453,M,Thiago Monteiro,Gael Monfils,clay,french
+144,0.5,0.47368421052631576,0.5,0.5263157894736842,M,Kyle Edmund,Renzo Olivo,clay,french
+145,0.0,0.46938775510204084,1.0,0.5306122448979592,M,Renzo Olivo,Kyle Edmund,clay,french
+146,0.42857142857142855,0.5076923076923077,0.5714285714285714,0.49230769230769234,M,Nick Kyrgios,Kevin Anderson,clay,french
+147,0.6875,0.5294117647058824,0.3125,0.47058823529411764,M,Kevin Anderson,Nick Kyrgios,clay,french
+148,0.5,0.5048543689320388,0.5,0.49514563106796117,M,Feliciano Lopez,David Ferrer,clay,french
+149,0.36363636363636365,0.5098039215686274,0.6363636363636364,0.49019607843137253,M,David Ferrer,Feliciano Lopez,clay,french
+150,1.0,0.5087719298245614,0.0,0.49122807017543857,M,Marin Cilic,Konstantin Kravchuk,clay,french
+151,0.5,0.4090909090909091,0.5,0.5909090909090909,M,Konstantin Kravchuk,Marin Cilic,clay,french
+152,0.5714285714285714,0.5,0.42857142857142855,0.5,M,Rogerio Dutra Silva,Milos Raonic,clay,french
+153,1.0,0.5,0.0,0.5,M,Milos Raonic,Rogerio Dutra Silva,clay,french
+154,0.3333333333333333,0.52,0.6666666666666666,0.48,M,Guillermo Garcia Lopez,Marco Trungelliti,clay,french
+155,0.8333333333333334,0.575,0.16666666666666666,0.425,M,Marco Trungelliti,Guillermo Garcia Lopez,clay,french
+156,0.5833333333333334,0.5,0.4166666666666667,0.5,M,Taro Daniel,Pablo Carreno Busta,clay,french
+157,0.0,0.4567901234567901,1.0,0.5432098765432098,M,Pablo Carreno Busta,Taro Daniel,clay,french
+158,0.0,0.4918032786885246,1.0,0.5081967213114754,M,Grigor Dimitrov,Tommy Robredo,clay,french
+159,0.25,0.49230769230769234,0.75,0.5076923076923077,M,Tommy Robredo,Grigor Dimitrov,clay,french
+160,0.5454545454545454,0.4666666666666667,0.45454545454545453,0.5333333333333333,M,Aljaz Bedene,Jiri Vesely,clay,french
+161,0.5,0.48148148148148145,0.5,0.5185185185185185,M,Jiri Vesely,Aljaz Bedene,clay,french
+162,0.5,0.45454545454545453,0.5,0.5454545454545454,M,Roberto Bautista Agut,Mikhail Kukushkin,clay,french
+163,0.3333333333333333,0.5066666666666667,0.6666666666666666,0.49333333333333335,M,Mikhail Kukushkin,Roberto Bautista Agut,clay,french
+164,0.5,0.43956043956043955,0.5,0.5604395604395604,M,Viktor Troicki,Nikoloz Basilashvili,clay,french
+165,0.46153846153846156,0.5,0.5384615384615384,0.5,M,Nikoloz Basilashvili,Viktor Troicki,clay,french
+166,0.5,0.5490196078431373,0.5,0.45098039215686275,M,Rafael Nadal,Robin Haase,clay,french
+167,0.5,0.5,0.5,0.5,M,Robin Haase,Rafael Nadal,clay,french
+168,0.8333333333333334,0.525,0.16666666666666666,0.475,M,Simone Bolelli,Dominic Thiem,clay,french
+169,0.0,0.5098039215686274,0.0,0.49019607843137253,M,Dominic Thiem,Simone Bolelli,clay,french
+170,0.375,0.4222222222222222,0.625,0.5777777777777777,M,Steve Johnson,Borna Coric,clay,french
+171,0.5,0.49333333333333335,0.5,0.5066666666666667,M,Borna Coric,Steve Johnson,clay,french
+172,0.37037037037037035,0.53125,0.6296296296296297,0.46875,M,Horacio Zeballos,Ivo Karlovic,clay,french
+173,0.3333333333333333,0.5072463768115942,0.6666666666666666,0.4927536231884058,M,Ivo Karlovic,Horacio Zeballos,clay,french
+174,0.45454545454545453,0.4819277108433735,0.5454545454545454,0.5180722891566265,M,David Goffin,Sergiy Stakhovsky,clay,french
+175,0.6666666666666666,0.5081967213114754,0.3333333333333333,0.4918032786885246,M,Sergiy Stakhovsky,David Goffin,clay,french
+176,0.6,0.47761194029850745,0.4,0.5223880597014925,M,Thomaz Bellucci,Lucas Pouille,clay,french
+177,0.6666666666666666,0.4583333333333333,0.3333333333333333,0.5416666666666666,M,Lucas Pouille,Thomaz Bellucci,clay,french
+178,1.0,0.5,0.0,0.5,M,Albert Ramos Vinolas,Benjamin Bonzi,clay,french
+179,0.375,0.5526315789473685,0.625,0.4473684210526316,M,Benjamin Bonzi,Albert Ramos Vinolas,clay,french
+180,0.3333333333333333,0.5098039215686274,0.6666666666666666,0.49019607843137253,M,Diego Schwartzman,Stefano Napolitano,clay,french
+181,0.0,0.5217391304347826,1.0,0.4782608695652174,M,Stefano Napolitano,Diego Schwartzman,clay,french
+182,0.0,0.5,1.0,0.5,M,Novak Djokovic,Joao Sousa,clay,french
+183,0.5,0.4117647058823529,0.5,0.5882352941176471,M,Joao Sousa,Novak Djokovic,clay,french
+184,0.4,0.46551724137931033,0.6,0.5344827586206896,M,Juan Martin Del Potro,Andy Murray,clay,french
+185,0.3333333333333333,0.5303030303030303,0.6666666666666666,0.4696969696969697,M,Andy Murray,Juan Martin Del Potro,clay,french
+186,0.5,0.4725274725274725,0.5,0.5274725274725275,M,Karen Khachanov,John Isner,clay,french
+187,0.875,0.5211267605633803,0.125,0.4788732394366197,M,John Isner,Karen Khachanov,clay,french
+188,0.5,0.4583333333333333,0.5,0.5416666666666666,M,Pablo Cuevas,Fernando Verdasco,clay,french
+189,0.0,0.4473684210526316,0.0,0.5526315789473685,M,Fernando Verdasco,Pablo Cuevas,clay,french
+190,0.7142857142857143,0.5056179775280899,0.2857142857142857,0.4943820224719101,M,Kei Nishikori,Hyeon Chung,clay,french
+191,0.14285714285714285,0.39361702127659576,0.8571428571428571,0.6063829787234043,M,Hyeon Chung,Kei Nishikori,clay,french
+192,0.5,0.46938775510204084,0.5,0.5306122448979592,M,Fabio Fognini,Stan Wawrinka,clay,french
+193,0.0,0.5,0.0,0.5,M,Stan Wawrinka,Fabio Fognini,clay,french
+194,0.5,0.4444444444444444,0.5,0.5555555555555556,M,Gael Monfils,Richard Gasquet,clay,french
+195,0.5,0.5076923076923077,0.5,0.49230769230769234,M,Richard Gasquet,Gael Monfils,clay,french
+196,0.75,0.5434782608695652,0.25,0.45652173913043476,M,Kevin Anderson,Kyle Edmund,clay,french
+197,0.5652173913043478,0.5047619047619047,0.43478260869565216,0.49523809523809526,M,Kyle Edmund,Kevin Anderson,clay,french
+198,1.0,0.5581395348837209,0.0,0.4418604651162791,M,Marin Cilic,Feliciano Lopez,clay,french
+199,0.125,0.42105263157894735,0.875,0.5789473684210527,M,Feliciano Lopez,Marin Cilic,clay,french
+200,0.5,0.42857142857142855,0.5,0.5714285714285714,M,Guillermo Garcia Lopez,Milos Raonic,clay,french
+201,1.0,0.7142857142857143,0.0,0.2857142857142857,M,Milos Raonic,Guillermo Garcia Lopez,clay,french
+202,0.0,0.45161290322580644,0.0,0.5483870967741935,M,Grigor Dimitrov,Pablo Carreno Busta,clay,french
+203,0.5,0.5818181818181818,0.5,0.41818181818181815,M,Pablo Carreno Busta,Grigor Dimitrov,clay,french
+204,0.4,0.5116279069767442,0.6,0.4883720930232558,M,Roberto Bautista Agut,Jiri Vesely,clay,french
+205,0.5,0.46296296296296297,0.5,0.5370370370370371,M,Jiri Vesely,Roberto Bautista Agut,clay,french
+206,0.0,0.5416666666666666,1.0,0.4583333333333333,M,Rafael Nadal,Nikoloz Basilashvili,clay,french
+207,1.0,0.6206896551724138,0.0,0.3793103448275862,M,Nikoloz Basilashvili,Rafael Nadal,clay,french
+208,0.4,0.5,0.6,0.5,M,Steve Johnson,Dominic Thiem,clay,french
+209,0.8,0.5138888888888888,0.2,0.4861111111111111,M,Dominic Thiem,Steve Johnson,clay,french
+210,0.0,0.42857142857142855,0.0,0.5714285714285714,M,David Goffin,Horacio Zeballos,clay,french
+211,0.0,0.4,1.0,0.6,M,Horacio Zeballos,David Goffin,clay,french
+212,0.3333333333333333,0.47191011235955055,0.6666666666666666,0.5280898876404494,M,Albert Ramos Vinolas,Lucas Pouille,clay,french
+213,0.0,0.5212765957446809,1.0,0.4787234042553192,M,Lucas Pouille,Albert Ramos Vinolas,clay,french
+214,0.0,0.44565217391304346,1.0,0.5543478260869565,M,Novak Djokovic,Diego Schwartzman,clay,french
+215,0.5714285714285714,0.4875,0.42857142857142855,0.5125,M,Diego Schwartzman,Novak Djokovic,clay,french
+216,0.8,0.49056603773584906,0.2,0.5094339622641509,M,Karen Khachanov,Andy Murray,clay,french
+217,1.0,0.5217391304347826,0.0,0.4782608695652174,M,Andy Murray,Karen Khachanov,clay,french
+218,0.3333333333333333,0.5194805194805194,0.6666666666666666,0.4805194805194805,M,Kei Nishikori,Fernando Verdasco,clay,french
+219,1.0,0.5254237288135594,0.0,0.4745762711864407,M,Fernando Verdasco,Kei Nishikori,clay,french
+220,0.3333333333333333,0.4936708860759494,0.6666666666666666,0.5063291139240507,M,Gael Monfils,Stan Wawrinka,clay,french
+221,1.0,0.5344827586206896,0.0,0.46551724137931033,M,Stan Wawrinka,Gael Monfils,clay,french
+222,0.0,0.5625,0.0,0.4375,M,Marin Cilic,Kevin Anderson,clay,french
+223,0.5,0.5882352941176471,0.5,0.4117647058823529,M,Kevin Anderson,Marin Cilic,clay,french
+224,0.56,0.49193548387096775,0.44,0.5080645161290323,M,Pablo Carreno Busta,Milos Raonic,clay,french
+225,0.5,0.5032679738562091,0.5,0.49673202614379086,M,Milos Raonic,Pablo Carreno Busta,clay,french
+226,0.0,0.46551724137931033,0.0,0.5344827586206896,M,Rafael Nadal,Roberto Bautista Agut,clay,french
+227,0.6666666666666666,0.5,0.3333333333333333,0.5,M,Roberto Bautista Agut,Rafael Nadal,clay,french
+228,0.25,0.5,0.75,0.5,M,Horacio Zeballos,Dominic Thiem,clay,french
+229,0.0,0.5306122448979592,1.0,0.46938775510204084,M,Dominic Thiem,Horacio Zeballos,clay,french
+230,0.3333333333333333,0.515625,0.6666666666666666,0.484375,M,Novak Djokovic,Albert Ramos Vinolas,clay,french
+231,0.3333333333333333,0.5081967213114754,0.6666666666666666,0.4918032786885246,M,Albert Ramos Vinolas,Novak Djokovic,clay,french
+232,0.3333333333333333,0.43478260869565216,0.6666666666666666,0.5652173913043478,M,Kei Nishikori,Andy Murray,clay,french
+233,0.0,0.56,0.0,0.44,M,Andy Murray,Kei Nishikori,clay,french
+234,1.0,0.4791666666666667,0.0,0.5208333333333334,M,Marin Cilic,Stan Wawrinka,clay,french
+235,0.4,0.45454545454545453,0.6,0.5454545454545454,M,Stan Wawrinka,Marin Cilic,clay,french
+236,0.0,0.5,0.0,0.5,M,Rafael Nadal,Pablo Carreno Busta,clay,french
+237,0.0,0.5294117647058824,0.0,0.47058823529411764,M,Pablo Carreno Busta,Rafael Nadal,clay,french
+238,0.5,0.54,0.5,0.46,M,Novak Djokovic,Dominic Thiem,clay,french
+239,0.5,0.5373134328358209,0.5,0.4626865671641791,M,Dominic Thiem,Novak Djokovic,clay,french
+240,1.0,0.54,0.0,0.46,M,Stan Wawrinka,Andy Murray,clay,french
+241,0.5,0.5353535353535354,0.5,0.46464646464646464,M,Andy Murray,Stan Wawrinka,clay,french
+242,0.5,0.5306122448979592,0.5,0.46938775510204084,M,Dominic Thiem,Rafael Nadal,clay,french
+243,1.0,0.5348837209302325,0.0,0.46511627906976744,M,Rafael Nadal,Dominic Thiem,clay,french
+244,0.0,0.46,1.0,0.54,M,Rafael Nadal,Stan Wawrinka,clay,french
+245,0.3333333333333333,0.5476190476190477,0.6666666666666666,0.4523809523809524,M,Stan Wawrinka,Rafael Nadal,clay,french
+246,0.0,0.5142857142857142,0.0,0.4857142857142857,F,Ekaterina Makarova,Angelique Kerber,clay,french
+247,0.6666666666666666,0.49019607843137253,0.3333333333333333,0.5098039215686274,F,Angelique Kerber,Ekaterina Makarova,clay,french
+248,0.0,0.4838709677419355,0.0,0.5161290322580645,F,Kateryna Kozlova,Lesia Tsurenko,clay,french
+249,1.0,0.46808510638297873,0.0,0.5319148936170213,F,Lesia Tsurenko,Kateryna Kozlova,clay,french
+250,0.0,0.546875,1.0,0.453125,F,Jelena Ostapenko,Louisa Chirico,clay,french
+251,0.6666666666666666,0.525,0.3333333333333333,0.475,F,Louisa Chirico,Jelena Ostapenko,clay,french
+252,1.0,0.5227272727272727,0.0,0.4772727272727273,F,Roberta Vinci,Monica Puig,clay,french
+253,0.75,0.42857142857142855,0.25,0.5714285714285714,F,Monica Puig,Roberta Vinci,clay,french
+254,0.0,0.4473684210526316,1.0,0.5526315789473685,F,Kristina Kucova,Samantha Stosur,clay,french
+255,1.0,0.47619047619047616,0.0,0.5238095238095238,F,Samantha Stosur,Kristina Kucova,clay,french
+256,0.5,0.5555555555555556,0.5,0.4444444444444444,F,Mandy Minella,Kirsten Flipkens,clay,french
+257,1.0,0.4418604651162791,0.0,0.5581395348837209,F,Kirsten Flipkens,Mandy Minella,clay,french
+258,0.6666666666666666,0.5555555555555556,0.3333333333333333,0.4444444444444444,F,Evgeniya Rodina,Bethanie Mattek Sands,clay,french
+259,0.0,0.4146341463414634,0.0,0.5853658536585366,F,Bethanie Mattek Sands,Evgeniya Rodina,clay,french
+260,0.0,0.45161290322580644,0.0,0.5483870967741935,F,Petra Kvitova,Julia Boserup,clay,french
+261,0.4444444444444444,0.43243243243243246,0.5555555555555556,0.5675675675675675,F,Julia Boserup,Petra Kvitova,clay,french
+262,0.0,0.5961538461538461,0.0,0.40384615384615385,F,Jaimee Fourlis,Caroline Wozniacki,clay,french
+263,1.0,0.43636363636363634,0.0,0.5636363636363636,F,Caroline Wozniacki,Jaimee Fourlis,clay,french
+264,0.0,0.5416666666666666,1.0,0.4583333333333333,F,Tessah Andrianjafitrimo,Francoise Abanda,clay,french
+265,0.0,0.43333333333333335,0.0,0.5666666666666667,F,Francoise Abanda,Tessah Andrianjafitrimo,clay,french
+266,0.0,0.5227272727272727,1.0,0.4772727272727273,F,Kiki Bertens,Ajla Tomljanovic,clay,french
+267,0.6363636363636364,0.6052631578947368,0.36363636363636365,0.39473684210526316,F,Ajla Tomljanovic,Kiki Bertens,clay,french
+268,0.5,0.4927536231884058,0.5,0.5072463768115942,F,Aliaksandra Sasnovich,Viktorija Golubic,clay,french
+269,0.0,0.5384615384615384,1.0,0.46153846153846156,F,Viktorija Golubic,Aliaksandra Sasnovich,clay,french
+270,1.0,0.6190476190476191,0.0,0.38095238095238093,F,Oceane Dodin,Camila Giorgi,clay,french
+271,0.5555555555555556,0.43243243243243246,0.4444444444444444,0.5675675675675675,F,Camila Giorgi,Oceane Dodin,clay,french
+272,0.0,0.5714285714285714,0.0,0.42857142857142855,F,Svetlana Kuznetsova,Christina McHale,clay,french
+273,0.3333333333333333,0.47540983606557374,0.6666666666666666,0.5245901639344263,F,Christina McHale,Svetlana Kuznetsova,clay,french
+274,0.5,0.48717948717948717,0.5,0.5128205128205128,F,Francesca Schiavone,nan,clay,french
+275,0.0,0.5517241379310345,1.0,0.4482758620689655,F,nan,Francesca Schiavone,clay,french
+276,0.5,0.52,0.5,0.48,F,Natalia Vikhlyantseva,Johanna Larsson,clay,french
+277,0.0,0.5102040816326531,1.0,0.4897959183673469,F,Johanna Larsson,Natalia Vikhlyantseva,clay,french
+278,0.0,0.43478260869565216,0.0,0.5652173913043478,F,Yulia Putintseva,Myrtille Georges,clay,french
+279,1.0,0.5,0.0,0.5,F,Myrtille Georges,Yulia Putintseva,clay,french
+280,0.5,0.45454545454545453,0.5,0.5454545454545454,F,Cagla Buyukakcay,Mirjana Lucic Baroni,clay,french
+281,1.0,0.3888888888888889,0.0,0.6111111111111112,F,Mirjana Lucic Baroni,Cagla Buyukakcay,clay,french
+282,0.0,0.5365853658536586,1.0,0.4634146341463415,F,Shelby Rogers,Marina Erakovic,clay,french
+283,0.5,0.4883720930232558,0.5,0.5116279069767442,F,Marina Erakovic,Shelby Rogers,clay,french
+284,0.0,0.46296296296296297,0.0,0.5370370370370371,F,Misaki Doi,Sara Errani,clay,french
+285,0.0,0.5277777777777778,0.0,0.4722222222222222,F,Sara Errani,Misaki Doi,clay,french
+286,0.625,0.5737704918032787,0.375,0.4262295081967213,F,Kristina Mladenovic,Jennifer Brady,clay,french
+287,0.3333333333333333,0.5362318840579711,0.6666666666666666,0.463768115942029,F,Jennifer Brady,Kristina Mladenovic,clay,french
+288,0.25,0.5,0.75,0.5,F,Qiang Wang,Venus Williams,clay,french
+289,1.0,0.5609756097560976,0.0,0.43902439024390244,F,Venus Williams,Qiang Wang,clay,french
+290,1.0,0.4931506849315068,0.0,0.5068493150684932,F,Kurumi Nara,Amanda Anisimova,clay,french
+291,1.0,0.44594594594594594,0.0,0.5540540540540541,F,Amanda Anisimova,Kurumi Nara,clay,french
+292,0.75,0.5142857142857142,0.25,0.4857142857142857,F,Richel Hogenkamp,Jelena Jankovic,clay,french
+293,0.5,0.5294117647058824,0.5,0.47058823529411764,F,Jelena Jankovic,Richel Hogenkamp,clay,french
+294,0.5,0.48333333333333334,0.5,0.5166666666666667,F,Daria Gavrilova,Elise Mertens,clay,french
+295,0.0,0.5272727272727272,1.0,0.4727272727272727,F,Elise Mertens,Daria Gavrilova,clay,french
+296,0.0,0.5,0.0,0.5,F,Sara Sorribes Tormo,Timea Bacsinszky,clay,french
+297,0.0,0.6,0.0,0.4,F,Timea Bacsinszky,Sara Sorribes Tormo,clay,french
+298,0.0,0.5151515151515151,0.0,0.48484848484848486,F,Julia Goerges,Madison Brengle,clay,french
+299,0.3333333333333333,0.5070422535211268,0.6666666666666666,0.49295774647887325,F,Madison Brengle,Julia Goerges,clay,french
+300,0.0,0.45454545454545453,0.0,0.5454545454545454,F,Dominika Cibulkova,Lara Arruabarrena,clay,french
+301,0.0,0.46153846153846156,0.0,0.5384615384615384,F,Lara Arruabarrena,Dominika Cibulkova,clay,french
+302,0.0,0.5135135135135135,1.0,0.4864864864864865,F,Yaroslava Shvedova,Elina Svitolina,clay,french
+303,0.0,0.525,0.0,0.475,F,Elina Svitolina,Yaroslava Shvedova,clay,french
+304,0.0,0.4864864864864865,0.0,0.5135135135135135,F,Tsvetana Pironkova,Mona Barthel,clay,french
+305,0.0,0.42424242424242425,1.0,0.5757575757575758,F,Mona Barthel,Tsvetana Pironkova,clay,french
+306,1.0,0.4634146341463415,0.0,0.5365853658536586,F,Magda Linette,nan,clay,french
+307,0.6666666666666666,0.5625,0.3333333333333333,0.4375,F,nan,Magda Linette,clay,french
+308,0.6666666666666666,0.5161290322580645,0.3333333333333333,0.4838709677419355,F,Annika Beck,Anastasija Sevastova,clay,french
+309,0.0,0.48717948717948717,0.0,0.5128205128205128,F,Anastasija Sevastova,Annika Beck,clay,french
+310,0.0,0.47540983606557374,0.0,0.5245901639344263,F,Eugenie Bouchard,Risa Ozaki,clay,french
+311,0.6666666666666666,0.5121951219512195,0.3333333333333333,0.4878048780487805,F,Risa Ozaki,Eugenie Bouchard,clay,french
+312,1.0,0.5428571428571428,0.0,0.45714285714285713,F,Petra Martic,Kateryna Bondarenko,clay,french
+313,0.2857142857142857,0.45652173913043476,0.7142857142857143,0.5434782608695652,F,Kateryna Bondarenko,Petra Martic,clay,french
+314,0.0,0.4838709677419355,1.0,0.5161290322580645,F,Madison Keys,Ashleigh Barty,clay,french
+315,0.0,0.5666666666666667,1.0,0.43333333333333335,F,Ashleigh Barty,Madison Keys,clay,french
+316,0.4,0.5625,0.6,0.4375,F,Beatriz Haddad Maia,Elena Vesnina,clay,french
+317,0.3333333333333333,0.47540983606557374,0.6666666666666666,0.5245901639344263,F,Elena Vesnina,Beatriz Haddad Maia,clay,french
+318,1.0,0.7037037037037037,0.0,0.2962962962962963,F,Shuai Peng,Sorana Cirstea,clay,french
+319,0.0,0.41935483870967744,1.0,0.5806451612903226,F,Sorana Cirstea,Shuai Peng,clay,french
+320,0.0,0.5609756097560976,0.0,0.43902439024390244,F,Carla Suarez Navarro,Maria Sakkari,clay,french
+321,0.0,0.5416666666666666,0.0,0.4583333333333333,F,Maria Sakkari,Carla Suarez Navarro,clay,french
+322,1.0,0.55,0.0,0.45,F,Amandine Hesse,Marketa Vondrousova,clay,french
+323,0.0,0.5,1.0,0.5,F,Marketa Vondrousova,Amandine Hesse,clay,french
+324,1.0,0.46875,0.0,0.53125,F,Tatjana Maria,Ying Ying Duan,clay,french
+325,1.0,0.5,0.0,0.5,F,Ying Ying Duan,Tatjana Maria,clay,french
+326,0.0,0.6052631578947368,0.0,0.39473684210526316,F,Simona Halep,Jana Cepelova,clay,french
+327,0.0,0.48717948717948717,0.0,0.5128205128205128,F,Jana Cepelova,Simona Halep,clay,french
+328,0.5,0.5423728813559322,0.5,0.4576271186440678,F,Su Wei Hsieh,Johanna Konta,clay,french
+329,0.0,0.453125,0.0,0.546875,F,Johanna Konta,Su Wei Hsieh,clay,french
+330,0.0,0.46875,0.0,0.53125,F,Taylor Townsend,Miyu Kato,clay,french
+331,0.0,0.4,0.0,0.6,F,Miyu Kato,Taylor Townsend,clay,french
+332,0.42857142857142855,0.5,0.5714285714285714,0.5,F,Kristyna Pliskova,Chloe Paquet,clay,french
+333,0.3333333333333333,0.3023255813953488,0.6666666666666666,0.6976744186046512,F,Chloe Paquet,Kristyna Pliskova,clay,french
+334,0.0,0.5757575757575758,1.0,0.42424242424242425,F,Caroline Garcia,Nao Hibino,clay,french
+335,0.5,0.4444444444444444,0.5,0.5555555555555556,F,Nao Hibino,Caroline Garcia,clay,french
+336,0.6666666666666666,0.5238095238095238,0.3333333333333333,0.47619047619047616,F,Alison Riske,Barbora Strycova,clay,french
+337,0.0,0.48148148148148145,0.0,0.5185185185185185,F,Barbora Strycova,Alison Riske,clay,french
+338,1.0,0.5185185185185185,0.0,0.48148148148148145,F,Timea Babos,nan,clay,french
+339,0.0,0.47692307692307695,1.0,0.5230769230769231,F,nan,Timea Babos,clay,french
+340,0.6666666666666666,0.5405405405405406,0.3333333333333333,0.4594594594594595,F,Alison Van Uytvanck,Naomi Osaka,clay,french
+341,0.5,0.48717948717948717,0.5,0.5128205128205128,F,Naomi Osaka,Alison Van Uytvanck,clay,french
+342,0.0,0.6,0.0,0.4,F,Agnieszka Radwanska,Fiona Ferro,clay,french
+343,0.75,0.5,0.25,0.5,F,Fiona Ferro,Agnieszka Radwanska,clay,french
+344,0.0,0.5172413793103449,1.0,0.4827586206896552,F,Lucie Safarova,Veronica Cepede Royg,clay,french
+345,0.0,0.41935483870967744,1.0,0.5806451612903226,F,Veronica Cepede Royg,Lucie Safarova,clay,french
+346,1.0,0.5476190476190477,0.0,0.4523809523809524,F,Irina Camelia Begu,Mariana Duque Marino,clay,french
+347,0.0,0.5128205128205128,0.0,0.48717948717948717,F,Mariana Duque Marino,Irina Camelia Begu,clay,french
+348,0.2,0.5172413793103449,0.8,0.4827586206896552,F,Coco Vandeweghe,Magdalena Rybarikova,clay,french
+349,1.0,0.48,0.0,0.52,F,Magdalena Rybarikova,Coco Vandeweghe,clay,french
+350,0.5,0.49019607843137253,0.5,0.5098039215686274,F,Carina Witthoeft,Lauren Davis,clay,french
+351,1.0,0.5,0.0,0.5,F,Lauren Davis,Carina Witthoeft,clay,french
+352,0.0,0.4166666666666667,1.0,0.5833333333333334,F,Pauline Parmentier,Irina Khromacheva,clay,french
+353,0.25,0.5263157894736842,0.75,0.47368421052631576,F,Irina Khromacheva,Pauline Parmentier,clay,french
+354,0.0,0.40384615384615385,1.0,0.5961538461538461,F,Katerina Siniakova,Ekaterina Alexandrova,clay,french
+355,0.0,0.48936170212765956,1.0,0.5106382978723404,F,Ekaterina Alexandrova,Katerina Siniakova,clay,french
+356,0.0,0.5094339622641509,0.0,0.49056603773584906,F,Karolina Pliskova,Saisai Zheng,clay,french
+357,0.0,0.4,0.0,0.6,F,Saisai Zheng,Karolina Pliskova,clay,french
+358,0.0,0.5384615384615384,0.0,0.46153846153846156,F,Lesia Tsurenko,Ekaterina Makarova,clay,french
+359,0.0,0.425,0.0,0.575,F,Ekaterina Makarova,Lesia Tsurenko,clay,french
+360,0.2,0.46153846153846156,0.8,0.5384615384615384,F,Monica Puig,Jelena Ostapenko,clay,french
+361,1.0,0.5151515151515151,0.0,0.48484848484848486,F,Jelena Ostapenko,Monica Puig,clay,french
+362,0.0,0.4827586206896552,1.0,0.5172413793103449,F,Kirsten Flipkens,Samantha Stosur,clay,french
+363,1.0,0.5454545454545454,0.0,0.45454545454545453,F,Samantha Stosur,Kirsten Flipkens,clay,french
+364,1.0,0.55,0.0,0.45,F,Petra Kvitova,Bethanie Mattek Sands,clay,french
+365,0.0,0.45,1.0,0.55,F,Bethanie Mattek Sands,Petra Kvitova,clay,french
+366,1.0,0.52,0.0,0.48,F,Francoise Abanda,Caroline Wozniacki,clay,french
+367,1.0,0.5,0.0,0.5,F,Caroline Wozniacki,Francoise Abanda,clay,french
+368,0.0,0.5208333333333334,0.0,0.4791666666666667,F,Kiki Bertens,Catherine Bellis,clay,french
+369,0.5,0.6578947368421053,0.5,0.34210526315789475,F,Catherine Bellis,Kiki Bertens,clay,french
+370,0.5,0.5,0.5,0.5,F,Aliaksandra Sasnovich,Shuai Zhang,clay,french
+371,0.0,0.5,0.0,0.5,F,Shuai Zhang,Aliaksandra Sasnovich,clay,french
+372,0.3333333333333333,0.5,0.6666666666666666,0.5,F,Svetlana Kuznetsova,Oceane Dodin,clay,french
+373,0.3333333333333333,0.5,0.6666666666666666,0.5,F,Oceane Dodin,Svetlana Kuznetsova,clay,french
+374,0.5,0.5094339622641509,0.5,0.49056603773584906,F,Anett Kontaveit,nan,clay,french
+375,0.3333333333333333,0.43859649122807015,0.6666666666666666,0.5614035087719298,F,nan,Anett Kontaveit,clay,french
+376,1.0,0.4827586206896552,0.0,0.5172413793103449,F,Yulia Putintseva,Johanna Larsson,clay,french
+377,0.0,0.5394736842105263,0.0,0.4605263157894737,F,Johanna Larsson,Yulia Putintseva,clay,french
+378,0.0,0.5,0.0,0.5,F,Shelby Rogers,Cagla Buyukakcay,clay,french
+379,0.5,0.49019607843137253,0.5,0.5098039215686274,F,Cagla Buyukakcay,Shelby Rogers,clay,french
+380,0.0,0.4523809523809524,0.0,0.5476190476190477,F,Kristina Mladenovic,Sara Errani,clay,french
+381,0.0,0.5121951219512195,1.0,0.4878048780487805,F,Sara Errani,Kristina Mladenovic,clay,french
+382,0.0,0.5,1.0,0.5,F,Kurumi Nara,Venus Williams,clay,french
+383,0.0,0.5,0.0,0.5,F,Venus Williams,Kurumi Nara,clay,french
+384,0.0,0.3783783783783784,1.0,0.6216216216216216,F,Elise Mertens,Richel Hogenkamp,clay,french
+385,1.0,0.5102040816326531,0.0,0.4897959183673469,F,Richel Hogenkamp,Elise Mertens,clay,french
+386,0.0,0.5,0.0,0.5,F,Madison Brengle,Timea Bacsinszky,clay,french
+387,0.0,0.425,0.0,0.575,F,Timea Bacsinszky,Madison Brengle,clay,french
+388,0.3333333333333333,0.56,0.6666666666666666,0.44,F,Dominika Cibulkova,Ons Jabeur,clay,french
+389,0.0,0.4318181818181818,0.0,0.5681818181818182,F,Ons Jabeur,Dominika Cibulkova,clay,french
+390,0.0,0.4883720930232558,1.0,0.5116279069767442,F,Tsvetana Pironkova,Elina Svitolina,clay,french
+391,0.5,0.46808510638297873,0.5,0.5319148936170213,F,Elina Svitolina,Tsvetana Pironkova,clay,french
+392,0.5,0.5384615384615384,0.5,0.46153846153846156,F,Ana Konjuh,Magda Linette,clay,french
+393,0.3333333333333333,0.5151515151515151,0.6666666666666666,0.48484848484848486,F,Magda Linette,Ana Konjuh,clay,french
+394,0.5,0.5625,0.5,0.4375,F,Eugenie Bouchard,Anastasija Sevastova,clay,french
+395,1.0,0.43478260869565216,0.0,0.5652173913043478,F,Anastasija Sevastova,Eugenie Bouchard,clay,french
+396,0.0,0.5957446808510638,1.0,0.40425531914893614,F,Madison Keys,Petra Martic,clay,french
+397,0.5,0.5166666666666667,0.5,0.48333333333333334,F,Petra Martic,Madison Keys,clay,french
+398,0.5,0.5,0.5,0.5,F,Varvara Lepchenko,Elena Vesnina,clay,french
+399,0.3333333333333333,0.4827586206896552,0.6666666666666666,0.5172413793103449,F,Elena Vesnina,Varvara Lepchenko,clay,french
+400,0.0,0.5454545454545454,1.0,0.45454545454545453,F,Carla Suarez Navarro,Sorana Cirstea,clay,french
+401,0.0,0.5208333333333334,0.0,0.4791666666666667,F,Sorana Cirstea,Carla Suarez Navarro,clay,french
+402,0.0,0.5,0.0,0.5,F,Marketa Vondrousova,Daria Kasatkina,clay,french
+403,0.6666666666666666,0.6129032258064516,0.3333333333333333,0.3870967741935484,F,Daria Kasatkina,Marketa Vondrousova,clay,french
+404,1.0,0.4594594594594595,0.0,0.5405405405405406,F,Simona Halep,Tatjana Maria,clay,french
+405,1.0,0.5,0.0,0.5,F,Tatjana Maria,Simona Halep,clay,french
+406,0.0,0.5,1.0,0.5,F,Taylor Townsend,Su Wei Hsieh,clay,french
+407,0.0,0.45614035087719296,1.0,0.543859649122807,F,Su Wei Hsieh,Taylor Townsend,clay,french
+408,0.6666666666666666,0.4772727272727273,0.3333333333333333,0.5227272727272727,F,Caroline Garcia,Chloe Paquet,clay,french
+409,0.3333333333333333,0.5227272727272727,0.6666666666666666,0.4772727272727273,F,Chloe Paquet,Caroline Garcia,clay,french
+410,0.0,0.5806451612903226,0.0,0.41935483870967744,F,nan,Barbora Strycova,clay,french
+411,0.0,0.5121951219512195,0.0,0.4878048780487805,F,Barbora Strycova,nan,clay,french
+412,0.25,0.5,0.75,0.5,F,Agnieszka Radwanska,Alison Van Uytvanck,clay,french
+413,1.0,0.4838709677419355,0.0,0.5161290322580645,F,Alison Van Uytvanck,Agnieszka Radwanska,clay,french
+414,0.25,0.4411764705882353,0.75,0.5588235294117647,F,Veronica Cepede Royg,Anastasia Pavlyuchenkova,clay,french
+415,1.0,0.5526315789473685,0.0,0.4473684210526316,F,Anastasia Pavlyuchenkova,Veronica Cepede Royg,clay,french
+416,0.0,0.4925373134328358,0.0,0.5074626865671642,F,Magdalena Rybarikova,Mariana Duque Marino,clay,french
+417,0.75,0.5490196078431373,0.25,0.45098039215686275,F,Mariana Duque Marino,Magdalena Rybarikova,clay,french
+418,0.0,0.543859649122807,0.0,0.45614035087719296,F,Pauline Parmentier,Carina Witthoeft,clay,french
+419,0.0,0.46938775510204084,0.0,0.5306122448979592,F,Carina Witthoeft,Pauline Parmentier,clay,french
+420,0.6666666666666666,0.4791666666666667,0.3333333333333333,0.5208333333333334,F,Karolina Pliskova,Ekaterina Alexandrova,clay,french
+421,0.2,0.5,0.8,0.5,F,Ekaterina Alexandrova,Karolina Pliskova,clay,french
+422,0.0,0.46511627906976744,0.0,0.5348837209302325,F,Jelena Ostapenko,Lesia Tsurenko,clay,french
+423,1.0,0.5294117647058824,0.0,0.47058823529411764,F,Lesia Tsurenko,Jelena Ostapenko,clay,french
+424,0.25,0.5333333333333333,0.75,0.4666666666666667,F,Bethanie Mattek Sands,Samantha Stosur,clay,french
+425,0.0,0.52,1.0,0.48,F,Samantha Stosur,Bethanie Mattek Sands,clay,french
+426,0.6,0.47368421052631576,0.4,0.5263157894736842,F,Catherine Bellis,Caroline Wozniacki,clay,french
+427,0.0,0.5111111111111111,0.0,0.4888888888888889,F,Caroline Wozniacki,Catherine Bellis,clay,french
+428,0.0,0.5,1.0,0.5,F,Svetlana Kuznetsova,Shuai Zhang,clay,french
+429,0.0,0.5154639175257731,1.0,0.4845360824742268,F,Shuai Zhang,Svetlana Kuznetsova,clay,french
+430,1.0,0.4318181818181818,0.0,0.5681818181818182,F,Yulia Putintseva,nan,clay,french
+431,0.0,0.5428571428571428,0.0,0.45714285714285713,F,nan,Yulia Putintseva,clay,french
+432,0.5,0.44594594594594594,0.5,0.5540540540540541,F,Kristina Mladenovic,Shelby Rogers,clay,french
+433,0.5,0.5087719298245614,0.5,0.49122807017543857,F,Shelby Rogers,Kristina Mladenovic,clay,french
+434,0.0,0.45454545454545453,1.0,0.5454545454545454,F,Elise Mertens,Venus Williams,clay,french
+435,1.0,0.47058823529411764,0.0,0.5294117647058824,F,Venus Williams,Elise Mertens,clay,french
+436,0.0,0.3870967741935484,0.0,0.6129032258064516,F,Ons Jabeur,Timea Bacsinszky,clay,french
+437,1.0,0.46153846153846156,0.0,0.5384615384615384,F,Timea Bacsinszky,Ons Jabeur,clay,french
+438,0.0,0.5384615384615384,1.0,0.46153846153846156,F,Magda Linette,Elina Svitolina,clay,french
+439,1.0,0.5079365079365079,0.0,0.49206349206349204,F,Elina Svitolina,Magda Linette,clay,french
+440,0.0,0.6296296296296297,0.0,0.37037037037037035,F,Petra Martic,Anastasija Sevastova,clay,french
+441,0.5,0.41379310344827586,0.5,0.5862068965517241,F,Anastasija Sevastova,Petra Martic,clay,french
+442,0.5,0.5555555555555556,0.5,0.4444444444444444,F,Carla Suarez Navarro,Elena Vesnina,clay,french
+443,0.0,0.5476190476190477,0.0,0.4523809523809524,F,Elena Vesnina,Carla Suarez Navarro,clay,french
+444,0.0,0.5111111111111111,0.0,0.4888888888888889,F,Simona Halep,Daria Kasatkina,clay,french
+445,1.0,0.475,0.0,0.525,F,Daria Kasatkina,Simona Halep,clay,french
+446,0.0,0.4931506849315068,0.0,0.5068493150684932,F,Caroline Garcia,Su Wei Hsieh,clay,french
+447,0.75,0.5116279069767442,0.25,0.4883720930232558,F,Su Wei Hsieh,Caroline Garcia,clay,french
+448,0.0,0.5151515151515151,0.0,0.48484848484848486,F,Agnieszka Radwanska,nan,clay,french
+449,0.0,0.4444444444444444,0.0,0.5555555555555556,F,nan,Agnieszka Radwanska,clay,french
+450,0.0,0.4883720930232558,0.0,0.5116279069767442,F,Mariana Duque Marino,Veronica Cepede Royg,clay,french
+451,0.0,0.4909090909090909,0.0,0.509090909090909,F,Veronica Cepede Royg,Mariana Duque Marino,clay,french
+452,0.0,0.47619047619047616,0.0,0.5238095238095238,F,Karolina Pliskova,Carina Witthoeft,clay,french
+453,0.5,0.5862068965517241,0.5,0.41379310344827586,F,Carina Witthoeft,Karolina Pliskova,clay,french
+454,0.0,0.5102040816326531,1.0,0.4897959183673469,F,Samantha Stosur,Jelena Ostapenko,clay,french
+455,0.75,0.6037735849056604,0.25,0.39622641509433965,F,Jelena Ostapenko,Samantha Stosur,clay,french
+456,1.0,0.5344827586206896,0.0,0.46551724137931033,F,Svetlana Kuznetsova,Caroline Wozniacki,clay,french
+457,1.0,0.5094339622641509,0.0,0.49056603773584906,F,Caroline Wozniacki,Svetlana Kuznetsova,clay,french
+458,0.0,0.5098039215686274,0.0,0.49019607843137253,F,Kristina Mladenovic,nan,clay,french
+459,0.75,0.5227272727272727,0.25,0.4772727272727273,F,nan,Kristina Mladenovic,clay,french
+460,0.0,0.4925373134328358,1.0,0.5074626865671642,F,Timea Bacsinszky,Venus Williams,clay,french
+461,0.0,0.5,0.0,0.5,F,Venus Williams,Timea Bacsinszky,clay,french
+462,0.4,0.5142857142857142,0.6,0.4857142857142857,F,Petra Martic,Elina Svitolina,clay,french
+463,1.0,0.47058823529411764,0.0,0.5294117647058824,F,Elina Svitolina,Petra Martic,clay,french
+464,0.0,0.45454545454545453,0.0,0.5454545454545454,F,Simona Halep,Carla Suarez Navarro,clay,french
+465,0.0,0.45,0.0,0.55,F,Carla Suarez Navarro,Simona Halep,clay,french
+466,0.0,0.43902439024390244,0.0,0.5609756097560976,F,nan,Caroline Garcia,clay,french
+467,0.0,0.5714285714285714,1.0,0.42857142857142855,F,Caroline Garcia,nan,clay,french
+468,1.0,0.4782608695652174,0.0,0.5217391304347826,F,Karolina Pliskova,Veronica Cepede Royg,clay,french
+469,0.75,0.4528301886792453,0.25,0.5471698113207547,F,Veronica Cepede Royg,Karolina Pliskova,clay,french
+470,0.0,0.5370370370370371,0.0,0.46296296296296297,F,Caroline Wozniacki,Jelena Ostapenko,clay,french
+471,0.0,0.4520547945205479,1.0,0.547945205479452,F,Jelena Ostapenko,Caroline Wozniacki,clay,french
+472,0.0,0.5172413793103449,0.0,0.4827586206896552,F,Timea Bacsinszky,Kristina Mladenovic,clay,french
+473,1.0,0.4791666666666667,0.0,0.5208333333333334,F,Kristina Mladenovic,Timea Bacsinszky,clay,french
+474,1.0,0.5652173913043478,0.0,0.43478260869565216,F,Simona Halep,Elina Svitolina,clay,french
+475,0.5,0.4675324675324675,0.5,0.5324675324675324,F,Elina Svitolina,Simona Halep,clay,french
+476,0.2857142857142857,0.5098039215686274,0.7142857142857143,0.49019607843137253,F,Karolina Pliskova,Caroline Garcia,clay,french
+477,0.5714285714285714,0.48936170212765956,0.42857142857142855,0.5106382978723404,F,Caroline Garcia,Karolina Pliskova,clay,french
+478,0.6666666666666666,0.5652173913043478,0.3333333333333333,0.43478260869565216,F,Timea Bacsinszky,Jelena Ostapenko,clay,french
+479,0.5,0.5076923076923077,0.5,0.49230769230769234,F,Jelena Ostapenko,Timea Bacsinszky,clay,french
+480,0.0,0.5,0.0,0.5,F,Karolina Pliskova,Simona Halep,clay,french
+481,0.2857142857142857,0.5161290322580645,0.7142857142857143,0.4838709677419355,F,Simona Halep,Karolina Pliskova,clay,french
